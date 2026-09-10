@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "registry": "vibespecs",
+  "registry_url": "https://github.com/vibespecs",
+  "naming": "fqdn",
+  "generated_at": "2026-09-10T21:00:25.225860100Z",
+  "generator": "vibe-index 1.0.0",
+  "package_count": 44,
+  "version_count": 44,
+  "files": {
+    "by-cap": {
+      "kind": "directory",
+      "entries": 0
+    },
+    "by-name": {
+      "kind": "directory",
+      "entries": 44
+    },
+    "by-name/addressable-specs.json": {
+      "kind": "file",
+      "size": "1664",
+      "sha256": "sha256:47cbb42e39d972a876d2bf3ef1dc66e4c8c8beb76ff588a070d51256f8701b5f"
+    },
+    "by-name/campaign-plans.json": {
+      "kind": "file",
+      "size": "1682",
+      "sha256": "sha256:232ffe83315c3bfda853f1a95938d133defeb0771d9d1da1c8727d2f65afe775"
+    },
+    "by-name/comparative-research.json": {
+      "kind": "file",
+      "size": "1679",
+      "sha256": "sha256:cd9974e64b2444a70db801e09c9be5ee10ca9cac56e1fe7c2da345410866dc5a"
+    },
+    "by-name/conflict-protocol.json": {
+      "kind": "file",
+      "size": "1692",
+      "sha256": "sha256:59222a2ad637c5f6e1e767bcef406643557388791eb18ef0682562a11c7d095f"
+    },
+    "by-name/core-ai-native.json": {
+      "kind": "file",
+      "size": "1749",
+      "sha256": "sha256:9644403d2c5525d34edce0adedaaa0ec8d80d53879a0baa69edf78b1c37aeeaf"
+    },
+    "by-name/decision-records.json": {
+      "kind": "file",
+      "size": "1632",
+      "sha256": "sha256:d978787e48a73436c6ac6fba196c6d9243c1befb2fe384a821a7a4e6649d0c6f"
+    },
+    "by-name/delegation-first.json": {
+      "kind": "file",
+      "size": "2021",
+      "sha256": "sha256:2638a10b3cca4c88ef25055d8a94f7e36ea43883b66a14be54594c6ce26cc6c9"
+    },
+    "by-name/delegation-rules.json": {
+      "kind": "file",
+      "size": "1919",
+      "sha256": "sha256:d9b0ed54e1389eec4fbfc299133ac6657a86cfa6f1b5d43f7c19d8e2043ae0f8"
+    },
+    "by-name/dev-runtime-docs.json": {
+      "kind": "file",
+      "size": "1672",
+      "sha256": "sha256:67cd59a620727f8d332753345c5560c78584f452a822bdfb1c000d2169da7081"
+    },
+    "by-name/discovery-prompt.json": {
+      "kind": "file",
+      "size": "1694",
+      "sha256": "sha256:1823db257e8a026d98f2c1b0847333a0c93701b8a87feea4ad1235293b8731cb"
+    },
+    "by-name/fractality.json": {
+      "kind": "file",
+      "size": "2181",
+      "sha256": "sha256:3d0994e0d97a9ba51aefef3180162c506df2645f5b7db1484693ff6f60a05ce4"
+    },
+    "by-name/git-atomic-commits.json": {
+      "kind": "file",
+      "size": "1756",
+      "sha256": "sha256:c44b895ae58695704aa3b911aee879e6f2038835bacb8a7cb234cfd7c09964f1"
+    },
+    "by-name/git-attribution-policy.json": {
+      "kind": "file",
+      "size": "1706",
+      "sha256": "sha256:e6192b36cc209100fe8dab705cc42ee14f446ed015901b1192f10ab3678d8911"
+    },
+    "by-name/git-autonomy.json": {
+      "kind": "file",
+      "size": "1731",
+      "sha256": "sha256:30dc1f83572b1bdfaea4230ff4d14aa958df7207ea9147f0851dd6316246adb7"
+    },
+    "by-name/git-conventional-commits.json": {
+      "kind": "file",
+      "size": "1754",
+      "sha256": "sha256:1980fba5e10a337b6acfedb57e1312256a5d31875507c2f0bddce51f839d4bb1"
+    },
+    "by-name/git-practices.json": {
+      "kind": "file",
+      "size": "2053",
+      "sha256": "sha256:25ca339388dc3c08f7de8a2c30eaf4170f6116e57f34b6963c4f9ebd53e7e50c"
+    },
+    "by-name/go-ai-native-lang.json": {
+      "kind": "file",
+      "size": "1960",
+      "sha256": "sha256:f09179f6c909d0dee2c54e33b0f4ed965969c262c4f157a8723bdec2fd5047b5"
+    },
+    "by-name/go-ai-native-mcp.json": {
+      "kind": "file",
+      "size": "1716",
+      "sha256": "sha256:c1f7f4aa55cf47976a956dcebe25992a6509d0d479932d0751e2e1ee26301ef3"
+    },
+    "by-name/go-ai-native.json": {
+      "kind": "file",
+      "size": "1930",
+      "sha256": "sha256:207934fdb8fda67392f8cf8922793316d7b8b68acf847f557307c7093d6c3042"
+    },
+    "by-name/health-audit.json": {
+      "kind": "file",
+      "size": "1642",
+      "sha256": "sha256:9b02fd5a3bf79561b6fa35e0b01138ca532518291a6c5295056fdd109e8b486b"
+    },
+    "by-name/jtd-codegen.json": {
+      "kind": "file",
+      "size": "1652",
+      "sha256": "sha256:f7abbc19f165899815e7f652e1ac778911b2d90545214422c70130753195a54e"
+    },
+    "by-name/licensing.json": {
+      "kind": "file",
+      "size": "1635",
+      "sha256": "sha256:841701485b37e03d29ddfb82bb9c0308b4f6d98f5e469362033b57af6e4a9f75"
+    },
+    "by-name/managed-blocks.json": {
+      "kind": "file",
+      "size": "1672",
+      "sha256": "sha256:3d2613042cdf3f18210f3ada49efdeecf4eabc7908d5cd4a79e9a1bd78a8ab75"
+    },
+    "by-name/manual-tests.json": {
+      "kind": "file",
+      "size": "1630",
+      "sha256": "sha256:ad47740b5f234ff5c63ebfa8c3652a59b64de265c789ecdc13cf7a65ae6e1c93"
+    },
+    "by-name/multi-user-planning.json": {
+      "kind": "file",
+      "size": "1720",
+      "sha256": "sha256:1c6f3f4acf4ccf870ccc0b5701650465ec76d94e67045c6520ea6ae1a31efba7"
+    },
+    "by-name/omnichannel.json": {
+      "kind": "file",
+      "size": "1705",
+      "sha256": "sha256:190adef633745b6bb9ab07fcdd7d099d2a1e02e536bfcfe68aede2f1e21a954b"
+    },
+    "by-name/operating-modes.json": {
+      "kind": "file",
+      "size": "1642",
+      "sha256": "sha256:38dd59084c1d46e2f4707ef736bd3a5c19c0c9e0b2847e6bc439a9934acd0176"
+    },
+    "by-name/qualified-naming.json": {
+      "kind": "file",
+      "size": "1672",
+      "sha256": "sha256:c5ce9cb845e9945f15be45f34eba901bab0500d6a1ab4b74d3ff23bc84e09f6b"
+    },
+    "by-name/redbook.json": {
+      "kind": "file",
+      "size": "3001",
+      "sha256": "sha256:c07805d5e659033d8a497cb2a07f6f169738599072798689e3ac534ffc533fa2"
+    },
+    "by-name/rust-ai-native-lang.json": {
+      "kind": "file",
+      "size": "1857",
+      "sha256": "sha256:19ad4b606e3f0d6b828817f1c073a8cf4ba1f4b9a19ad34213d7f4d8641fb3c3"
+    },
+    "by-name/rust-ai-native-mcp.json": {
+      "kind": "file",
+      "size": "1710",
+      "sha256": "sha256:ee17ccd4642a3a10109b40d3b27ec602f3be200b6e4591fb0bf27b9402b4abfe"
+    },
+    "by-name/rust-ai-native.json": {
+      "kind": "file",
+      "size": "1928",
+      "sha256": "sha256:5066c616e97e8964cf4c724196ea0353df10c0a2dbf04c7fc771d340404bb275"
+    },
+    "by-name/secrets-hygiene.json": {
+      "kind": "file",
+      "size": "1659",
+      "sha256": "sha256:48ed8bfc1b51b060cc541cdc9a687881117f6dde958fa19b86db0dba8ac8d665"
+    },
+    "by-name/source-mirrors.json": {
+      "kind": "file",
+      "size": "1646",
+      "sha256": "sha256:0715ebdac96d6d1500f2ca22b12ec3687f8f6ac02c9425bf07bbd6b2a31a5051"
+    },
+    "by-name/spec-genres.json": {
+      "kind": "file",
+      "size": "1636",
+      "sha256": "sha256:c3945d8468e544dfc170381d345ded657610faa4802cb871fa3aaea4606042fd"
+    },
+    "by-name/sync-from-code.json": {
+      "kind": "file",
+      "size": "1579",
+      "sha256": "sha256:f5fc33b5eee54e25b00ddaa720a89f23dd3d844760d8f98afbcaa74b9c0f8949"
+    },
+    "by-name/tool-design-lessons.json": {
+      "kind": "file",
+      "size": "1701",
+      "sha256": "sha256:735be988890b8729ff1b86f7e982d63e4a0585bcf6b99c6ab2ca49567546d954"
+    },
+    "by-name/two-process-model.json": {
+      "kind": "file",
+      "size": "1664",
+      "sha256": "sha256:ac2cb1dba26c5cfcde3ccdec984d20fe5562316945885cfa6097e81da06d6a22"
+    },
+    "by-name/typescript-ai-native-lang.json": {
+      "kind": "file",
+      "size": "2005",
+      "sha256": "sha256:f024297dda4ca24288eebd1000c5c32ffc1fd0e1f6be38baa653436bd2954e8a"
+    },
+    "by-name/typescript-ai-native-mcp.json": {
+      "kind": "file",
+      "size": "1758",
+      "sha256": "sha256:52a184980c6877b351b99f419a2d52d5b88ffc355640a4ce4f404bada26484a8"
+    },
+    "by-name/typescript-ai-native.json": {
+      "kind": "file",
+      "size": "1988",
+      "sha256": "sha256:0220fd7512c46a3dd91409313d1c23ae1d3aca74b29fb8e0bddc56d1d56dfbb7"
+    },
+    "by-name/wal-specspaces.json": {
+      "kind": "file",
+      "size": "1886",
+      "sha256": "sha256:8a0264ab1cd60fd6b082082f4c8e6137187089120cd13aeb460e54dd576885fa"
+    },
+    "by-name/wal.json": {
+      "kind": "file",
+      "size": "1617",
+      "sha256": "sha256:477013587e3a4f80b6c19b7f7a1666f7003a2ed828589b5d42b37a244625db81"
+    },
+    "by-name/zai-glm-claude.json": {
+      "kind": "file",
+      "size": "1644",
+      "sha256": "sha256:05b983c46f680176a4f00ee79b7a30bbb1ef2800762b8b86bc2abd1f502a5cc1"
+    },
+    "by-purl": {
+      "kind": "directory",
+      "entries": 0
+    },
+    "primary.jsonl": {
+      "kind": "file",
+      "size": "44592",
+      "sha256": "sha256:2c7e6b8b200da7a56329b945c41f9f8932a54fcebefd149d0b3307c1a6d21bf0"
+    },
+    "primary.jsonl.gz": {
+      "kind": "file",
+      "size": "9551",
+      "sha256": "sha256:5af50ad90092b4e4287cd9fd2412c7d2fa588b530e2b0469b567e1989096573f"
+    }
+  }
+}

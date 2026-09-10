@@ -1,0 +1,51 @@
+{
+  "indexed_at": "2026-09-10T21:00:25.225860100Z",
+  "name": "licensing",
+  "packages": [
+    {
+      "group": "org.vibevm.world",
+      "indexed_at": "2026-09-10T21:00:25.225860100Z",
+      "name": "licensing",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:5050915a97dd13695b5a11ee2e36da1366a3834adcb9c95722dbb51bdc8cbaae",
+          "files_count": 8,
+          "group": "org.vibevm.world",
+          "indexed_at": "2026-09-10T21:00:25.225860100Z",
+          "indexed_by": "vibe-index 1.0.0",
+          "kind": "flow",
+          "name": "licensing",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.world.licensing.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/60-flow-licensing.xml",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "Licensing posture for a product: a proprietary-with-relicense-intent placeholder, permissive-only dependencies, and the EULA-to-open path",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "license",
+            "eula",
+            "proprietary",
+            "dependencies",
+            "compliance"
+          ],
+          "license": "UPL-1.0",
+          "resolved_commit": "9a1b1e9d38ea5a50c71b3f891b4ad45ddb66cccb"
+        }
+      ],
+      "latest_stable": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "indexed_at": "2026-09-10T21:00:25.225860100Z",
+  "name": "tool-design-lessons",
+  "packages": [
+    {
+      "group": "org.vibevm.world",
+      "indexed_at": "2026-09-10T21:00:25.225860100Z",
+      "name": "tool-design-lessons",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:52d9ebfe8f268b6ef0f852913e4e6058732c0b7920d0b30c740c0d3b378dc4a7",
+          "files_count": 7,
+          "group": "org.vibevm.world",
+          "indexed_at": "2026-09-10T21:00:25.225860100Z",
+          "indexed_by": "vibe-index 1.0.0",
+          "kind": "flow",
+          "name": "tool-design-lessons",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.world.tool-design-lessons.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/70-flow-tool-design-lessons.xml",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "Design lessons for self-updating tools and package systems: pointer-flip activation, immutable instances, identity-is-source, vendor the bootstrap",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "tool-design",
+            "version-manager",
+            "installer",
+            "packaging",
+            "lessons"
+          ],
+          "license": "UPL-1.0",
+          "resolved_commit": "2e7e2feba4561067b610da915aedb9d8f4cb3a04"
+        }
+      ],
+      "latest_stable": "1.0.0"
+    }
+  ]
+}

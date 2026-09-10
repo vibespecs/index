@@ -1,0 +1,51 @@
+{
+  "indexed_at": "2026-09-10T21:00:25.225860100Z",
+  "name": "addressable-specs",
+  "packages": [
+    {
+      "group": "org.vibevm.world",
+      "indexed_at": "2026-09-10T21:00:25.225860100Z",
+      "name": "addressable-specs",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:697f0bcb4a08a8dfdc22408c8e69255a547908501f81ee5c6bd53fe6f932331f",
+          "files_count": 7,
+          "group": "org.vibevm.world",
+          "indexed_at": "2026-09-10T21:00:25.225860100Z",
+          "indexed_by": "vibe-index 1.0.0",
+          "kind": "flow",
+          "name": "addressable-specs",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.world.addressable-specs.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/15-flow-addressable-specs.xml",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "Addressable specifications: spec:// URIs, stable anchors, and the spec tree layout that lets a human correct an agent in twenty tokens",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "specs",
+            "addressing",
+            "uri",
+            "anchors",
+            "spec-driven"
+          ],
+          "license": "UPL-1.0",
+          "resolved_commit": "2bc016f93ce9a8e9716dfa7b835a808b80a43e00"
+        }
+      ],
+      "latest_stable": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "indexed_at": "2026-09-10T21:00:25.225860100Z",
+  "name": "git-practices",
+  "packages": [
+    {
+      "group": "org.vibevm.world",
+      "indexed_at": "2026-09-10T21:00:25.225860100Z",
+      "name": "git-practices",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:12c43ba0b2d36b3ec8586a87539a2273fbf7ec833ae07a32da5c00a3f46c4de1",
+          "files_count": 3,
+          "group": "org.vibevm.world",
+          "indexed_at": "2026-09-10T21:00:25.225860100Z",
+          "indexed_by": "vibe-index 1.0.0",
+          "kind": "flow",
+          "name": "git-practices",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.world.git-practices.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "Git practices — the family aggregator for a repository's commit-and-push discipline: one install pulls the message format (conventional-commits) and the atomicity discipline (atomic-commits), and — as they land — human-authored attribution and commit autonomy. Content-minimal (PROP-028): no boot snippet of its own; each member ships theirs.",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "git",
+            "commits",
+            "discipline",
+            "family",
+            "aggregator"
+          ],
+          "license": "UPL-1.0",
+          "requires": {
+            "packages": [
+              "flow:org.vibevm.world/git-atomic-commits@=1.0.0",
+              "flow:org.vibevm.world/git-attribution-policy@=1.0.0",
+              "flow:org.vibevm.world/git-autonomy@=1.0.0",
+              "flow:org.vibevm.world/git-conventional-commits@=1.0.0"
+            ]
+          },
+          "resolved_commit": "5654ce571360981e3ea3639891ea6326ce031f3b"
+        }
+      ],
+      "latest_stable": "1.0.0"
+    }
+  ]
+}

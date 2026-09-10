@@ -1,0 +1,52 @@
+{
+  "indexed_at": "2026-09-10T21:00:25.225860100Z",
+  "name": "omnichannel",
+  "packages": [
+    {
+      "group": "org.vibevm.world",
+      "indexed_at": "2026-09-10T21:00:25.225860100Z",
+      "name": "omnichannel",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:793bb18b1630ec925c0a0a746b4689993234d1939de034548740549c8667b671",
+          "files_count": 5,
+          "group": "org.vibevm.world",
+          "indexed_at": "2026-09-10T21:00:25.225860100Z",
+          "indexed_by": "vibe-index 1.0.0",
+          "kind": "flow",
+          "name": "omnichannel",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.world.omnichannel.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/68-flow-omnichannel.xml",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "A capability lives in a library; CLI, TUI, MCP, REST and the rest are thin surfaces over it — none of them the base. Names the surface vocabulary so a project can declare its own floor",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "architecture",
+            "cli",
+            "mcp",
+            "api",
+            "surfaces",
+            "discipline"
+          ],
+          "license": "UPL-1.0",
+          "resolved_commit": "7a5d637d714b291deceb39dd3974a5b4e279cb9a"
+        }
+      ],
+      "latest_stable": "1.0.0"
+    }
+  ]
+}

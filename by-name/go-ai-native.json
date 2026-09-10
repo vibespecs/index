@@ -1,0 +1,54 @@
+{
+  "indexed_at": "2026-09-10T21:00:25.225860100Z",
+  "name": "go-ai-native",
+  "packages": [
+    {
+      "group": "org.vibevm.ai-native",
+      "indexed_at": "2026-09-10T21:00:25.225860100Z",
+      "name": "go-ai-native",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:803287a5541aafec82cabe892f05869154f80dd33dafc0b4de041b28a3ebb30a",
+          "files_count": 3,
+          "group": "org.vibevm.ai-native",
+          "indexed_at": "2026-09-10T21:00:25.225860100Z",
+          "indexed_by": "vibe-index 1.0.0",
+          "kind": "stack",
+          "name": "go-ai-native",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.ai-native.go-ai-native.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "AI-Native Go - the family aggregator: one install pulls the language stack (go-ai-native-lang) and its MCP server (go-ai-native-mcp), and transitively the flow foundation core-ai-native. Content-minimal by design (PROP-028): no code, no boot snippet, no policy - it only names the family members at one resolved version set.",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "go",
+            "golang",
+            "ai-native",
+            "discipline",
+            "stack",
+            "aggregator"
+          ],
+          "license": "UPL-1.0",
+          "requires": {
+            "packages": [
+              "lang:org.vibevm.ai-native/go-ai-native-lang@=1.0.0",
+              "mcp:org.vibevm.ai-native/go-ai-native-mcp@=1.0.0"
+            ]
+          },
+          "resolved_commit": "84ce6647433fff746c346f491b09ece32a9b2a0e"
+        }
+      ],
+      "latest_stable": "1.0.0"
+    }
+  ]
+}

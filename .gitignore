@@ -1,0 +1,6 @@
+# vibe-index — local server / runtime state.
+# Index files (hello.json, repomd.json, primary.jsonl[.gz],
+# by-name/, by-cap/, by-purl/) are tracked; everything
+# under state/ is per-host runtime data and stays out of
+# the source tree.
+/state/

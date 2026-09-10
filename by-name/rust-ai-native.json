@@ -1,0 +1,53 @@
+{
+  "indexed_at": "2026-09-10T21:00:25.225860100Z",
+  "name": "rust-ai-native",
+  "packages": [
+    {
+      "group": "org.vibevm.ai-native",
+      "indexed_at": "2026-09-10T21:00:25.225860100Z",
+      "name": "rust-ai-native",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:b8f7b392114c4bf2443e20dde7f1d4bd206882a602ffe63b92194239c4e2a3fb",
+          "files_count": 3,
+          "group": "org.vibevm.ai-native",
+          "indexed_at": "2026-09-10T21:00:25.225860100Z",
+          "indexed_by": "vibe-index 1.0.0",
+          "kind": "stack",
+          "name": "rust-ai-native",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.ai-native.rust-ai-native.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "AI-Native Rust - the family aggregator: one install pulls the language stack (rust-ai-native-lang) and its MCP server (rust-ai-native-mcp), and transitively the flow foundation core-ai-native. Content-minimal by design (PROP-028): no code, no boot snippet, no policy - it only names the family members at one resolved version set.",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "rust",
+            "ai-native",
+            "discipline",
+            "stack",
+            "aggregator"
+          ],
+          "license": "UPL-1.0",
+          "requires": {
+            "packages": [
+              "lang:org.vibevm.ai-native/rust-ai-native-lang@=1.0.0",
+              "mcp:org.vibevm.ai-native/rust-ai-native-mcp@=1.0.0"
+            ]
+          },
+          "resolved_commit": "66203dda5357a0c9b64c20e90168b0dbe79b2cbb"
+        }
+      ],
+      "latest_stable": "1.0.0"
+    }
+  ]
+}

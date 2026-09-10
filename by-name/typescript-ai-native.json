@@ -1,0 +1,53 @@
+{
+  "indexed_at": "2026-09-10T21:00:25.225860100Z",
+  "name": "typescript-ai-native",
+  "packages": [
+    {
+      "group": "org.vibevm.ai-native",
+      "indexed_at": "2026-09-10T21:00:25.225860100Z",
+      "name": "typescript-ai-native",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:32ecf6df54e0744050b2fb8d72efee88fc409962344a962e907d8f1ed6b1a574",
+          "files_count": 3,
+          "group": "org.vibevm.ai-native",
+          "indexed_at": "2026-09-10T21:00:25.225860100Z",
+          "indexed_by": "vibe-index 1.0.0",
+          "kind": "stack",
+          "name": "typescript-ai-native",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.ai-native.typescript-ai-native.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "AI-Native TypeScript - the family aggregator: one install pulls the language stack (typescript-ai-native-lang) and its MCP server (typescript-ai-native-mcp), and transitively the flow foundation core-ai-native. Content-minimal by design (PROP-028): no code, no boot snippet, no policy - it only names the family members at one resolved version set.",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "typescript",
+            "ai-native",
+            "discipline",
+            "stack",
+            "aggregator"
+          ],
+          "license": "UPL-1.0",
+          "requires": {
+            "packages": [
+              "lang:org.vibevm.ai-native/typescript-ai-native-lang@=1.0.0",
+              "mcp:org.vibevm.ai-native/typescript-ai-native-mcp@=1.0.0"
+            ]
+          },
+          "resolved_commit": "47ec6a41070dbb45842d536db272f55a8742a448"
+        }
+      ],
+      "latest_stable": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "indexed_at": "2026-09-10T21:00:25.225860100Z",
+  "name": "wal-specspaces",
+  "packages": [
+    {
+      "group": "org.vibevm.world",
+      "indexed_at": "2026-09-10T21:00:25.225860100Z",
+      "name": "wal-specspaces",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:3551a230879fbc3009453b90db7714d590b71923277619e6a55336816d00195c",
+          "files_count": 5,
+          "group": "org.vibevm.world",
+          "indexed_at": "2026-09-10T21:00:25.225860100Z",
+          "indexed_by": "vibe-index 1.0.0",
+          "kind": "flow",
+          "name": "wal-specspaces",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.world.wal-specspaces.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/11-flow-wal-specspaces.xml",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "Non-central WALs: register sub-projects (specspaces) inside a host repository, each with its own WAL, cold-resume file, and boot contract; scoped wind-down/resume grammar switches a session into a specspace without loading the host's full boot",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "wal",
+            "specspaces",
+            "session",
+            "continuity",
+            "monorepo"
+          ],
+          "license": "UPL-1.0",
+          "requires": {
+            "packages": [
+              "flow:org.vibevm.world/wal@=1.0.0"
+            ]
+          },
+          "resolved_commit": "12c310c2ad41668242500a83307b6b24182de729"
+        }
+      ],
+      "latest_stable": "1.0.0"
+    }
+  ]
+}

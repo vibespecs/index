@@ -1,0 +1,59 @@
+{
+  "indexed_at": "2026-09-10T21:00:25.225860100Z",
+  "name": "fractality",
+  "packages": [
+    {
+      "group": "org.vibevm.fractality",
+      "indexed_at": "2026-09-10T21:00:25.225860100Z",
+      "name": "fractality",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:c556b1692904c39401a22ecdae8c9d519b58f04246759218119b80c9812d3c38",
+          "files_count": 807,
+          "group": "org.vibevm.fractality",
+          "indexed_at": "2026-09-10T21:00:25.225860100Z",
+          "indexed_by": "vibe-index 1.0.0",
+          "kind": "tool",
+          "name": "fractality",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.fractality.fractality.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/75-tool-fractality.xml",
+            "category": "tool"
+          },
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "An agent operating system in its earliest form: fractality-mission-control (a scheduler daemon holding the agent roster, call tree, and usage metering) plus the fractality CLI, which lets an expensive boss agent delegate tasks to swarms of cheap worker agents running in isolated Claude Code processes under other model providers, exchanging everything through files on disk",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "agents",
+            "orchestration",
+            "delegation",
+            "swarm",
+            "scheduler",
+            "mission-control"
+          ],
+          "license": "UPL-1.0",
+          "requires": {
+            "packages": [
+              "flow:org.vibevm.world/redbook@^1.0.0",
+              "flow:org.vibevm.world/wal-specspaces@^1.0.0",
+              "stack:org.vibevm.ai-native/rust-ai-native@^1.0.0"
+            ]
+          },
+          "resolved_commit": "158594d872605705ed1873abfd0200901464b1a4"
+        }
+      ],
+      "latest_stable": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "indexed_at": "2026-09-10T21:00:25.225860100Z",
+  "name": "operating-modes",
+  "packages": [
+    {
+      "group": "org.vibevm.world",
+      "indexed_at": "2026-09-10T21:00:25.225860100Z",
+      "name": "operating-modes",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:356022ee5e22c514201d8ff862534a0ce7b1bb8746259e8bf80ace28ddfc7602",
+          "files_count": 7,
+          "group": "org.vibevm.world",
+          "indexed_at": "2026-09-10T21:00:25.225860100Z",
+          "indexed_by": "vibe-index 1.0.0",
+          "kind": "flow",
+          "name": "operating-modes",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.world.operating-modes.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/45-flow-operating-modes.xml",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "Codeword-triggered operating modes: one safe default posture, explicit opt-in postures, and red lines that survive any mode",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "codewords",
+            "autonomy",
+            "modes",
+            "posture",
+            "safety"
+          ],
+          "license": "UPL-1.0",
+          "resolved_commit": "edb3d3def7be895d9cf5e0e9f509596e1e64e3ca"
+        }
+      ],
+      "latest_stable": "1.0.0"
+    }
+  ]
+}

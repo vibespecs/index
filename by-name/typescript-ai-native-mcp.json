@@ -1,0 +1,52 @@
+{
+  "indexed_at": "2026-09-10T21:00:25.225860100Z",
+  "name": "typescript-ai-native-mcp",
+  "packages": [
+    {
+      "group": "org.vibevm.ai-native",
+      "indexed_at": "2026-09-10T21:00:25.225860100Z",
+      "name": "typescript-ai-native-mcp",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:e91f59c1dad10c4045a1744a61bd51157f36d22bd8e3c64dc7edb5707cbbc346",
+          "files_count": 167,
+          "group": "org.vibevm.ai-native",
+          "indexed_at": "2026-09-10T21:00:25.225860100Z",
+          "indexed_by": "vibe-index 1.0.0",
+          "kind": "mcp",
+          "name": "typescript-ai-native-mcp",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.ai-native.typescript-ai-native-mcp.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "The AI-Native TypeScript discipline over MCP: every typescript-ai-native command and the tcg type oracle as agent tools, served straight from the slot with no vibe in the runtime path",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "mcp",
+            "typescript",
+            "ai-native",
+            "discipline",
+            "agent"
+          ],
+          "license": "UPL-1.0",
+          "requires": {
+            "packages": [
+              "lang:org.vibevm.ai-native/typescript-ai-native-lang@=1.0.0"
+            ]
+          },
+          "resolved_commit": "913d67c92c4ce68ed7654add6c4ef0e697ad4050"
+        }
+      ],
+      "latest_stable": "1.0.0"
+    }
+  ]
+}

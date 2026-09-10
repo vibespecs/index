@@ -1,0 +1,55 @@
+{
+  "indexed_at": "2026-09-10T21:00:25.225860100Z",
+  "name": "rust-ai-native-lang",
+  "packages": [
+    {
+      "group": "org.vibevm.ai-native",
+      "indexed_at": "2026-09-10T21:00:25.225860100Z",
+      "name": "rust-ai-native-lang",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:0db3d671ac3faa0d9b15c732cd729f1cfd0e5bb5b2e75c6bcfa1d7fed4e39506",
+          "files_count": 145,
+          "group": "org.vibevm.ai-native",
+          "indexed_at": "2026-09-10T21:00:25.225860100Z",
+          "indexed_by": "vibe-index 1.0.0",
+          "kind": "lang",
+          "name": "rust-ai-native-lang",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.ai-native.rust-ai-native-lang.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/20-stack-rust-ai-native-lang.xml",
+            "category": "stack"
+          },
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "AI-Native Rust - the Rust projection of the Discipline v0.2: cells, naming, contract-first ordering, the nine scaffolds in Rust, errors as contract surface, and the vibe-tcg tool vision",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "rust",
+            "ai-native",
+            "discipline",
+            "lang"
+          ],
+          "license": "UPL-1.0",
+          "requires": {
+            "packages": [
+              "flow:org.vibevm.ai-native/core-ai-native@^1.0.0"
+            ]
+          },
+          "resolved_commit": "aaa5056b4e9dac576bbcac878e4600b44556eb7a"
+        }
+      ],
+      "latest_stable": "1.0.0"
+    }
+  ]
+}

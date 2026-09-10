@@ -1,0 +1,51 @@
+{
+  "indexed_at": "2026-09-10T21:00:25.225860100Z",
+  "name": "manual-tests",
+  "packages": [
+    {
+      "group": "org.vibevm.world",
+      "indexed_at": "2026-09-10T21:00:25.225860100Z",
+      "name": "manual-tests",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:cf2820e116d4860d48a146bdd7b55ccc1451d7c47dde7006a412ca91cc0c9ced",
+          "files_count": 7,
+          "group": "org.vibevm.world",
+          "indexed_at": "2026-09-10T21:00:25.225860100Z",
+          "indexed_by": "vibe-index 1.0.0",
+          "kind": "flow",
+          "name": "manual-tests",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.world.manual-tests.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/44-flow-manual-tests.xml",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "Human-runnable manual tests: markdown walkthroughs for the integration surfaces automated suites cannot prove",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "testing",
+            "smoke-tests",
+            "integration",
+            "walkthrough",
+            "verification"
+          ],
+          "license": "UPL-1.0",
+          "resolved_commit": "17d12996904d83d2a1afd50b09882ddc96f1b990"
+        }
+      ],
+      "latest_stable": "1.0.0"
+    }
+  ]
+}

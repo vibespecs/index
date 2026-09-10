@@ -1,0 +1,51 @@
+{
+  "indexed_at": "2026-09-10T21:00:25.225860100Z",
+  "name": "health-audit",
+  "packages": [
+    {
+      "group": "org.vibevm.world",
+      "indexed_at": "2026-09-10T21:00:25.225860100Z",
+      "name": "health-audit",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:cd486fea2280380b2177d7b556036bd0c0e834f93cdd52d02b87d85464fe1b8e",
+          "files_count": 9,
+          "group": "org.vibevm.world",
+          "indexed_at": "2026-09-10T21:00:25.225860100Z",
+          "indexed_by": "vibe-index 1.0.0",
+          "kind": "flow",
+          "name": "health-audit",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.world.health-audit.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/42-flow-health-audit.xml",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "The periodic health audit: a recurring judgment sweep over what the per-commit gate is structurally blind to, recorded as an append-only trend",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "audit",
+            "health",
+            "debt",
+            "drift",
+            "maintenance"
+          ],
+          "license": "UPL-1.0",
+          "resolved_commit": "06d815c89ea19302773c7c69f5bb1c7a3897309e"
+        }
+      ],
+      "latest_stable": "1.0.0"
+    }
+  ]
+}
