@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-09-11T10:04:49.579120Z",
+  "indexed_at": "2026-09-11T12:35:53.841042500Z",
   "name": "fractality",
   "packages": [
     {
       "group": "org.vibevm.fractality",
-      "indexed_at": "2026-09-11T10:04:49.579120Z",
+      "indexed_at": "2026-09-11T12:35:53.841042500Z",
       "name": "fractality",
       "versions": [
         {
           "content_hash": "sha256-tree/1:c556b1692904c39401a22ecdae8c9d519b58f04246759218119b80c9812d3c38",
           "files_count": 807,
           "group": "org.vibevm.fractality",
-          "indexed_at": "2026-09-11T10:04:49.579120Z",
+          "indexed_at": "2026-09-11T12:35:53.841042500Z",
           "indexed_by": "vibe-index 1.0.0",
           "kind": "tool",
           "name": "fractality",

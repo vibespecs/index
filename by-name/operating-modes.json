@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-09-11T10:04:49.579120Z",
+  "indexed_at": "2026-09-11T12:35:53.841042500Z",
   "name": "operating-modes",
   "packages": [
     {
       "group": "org.vibevm.world",
-      "indexed_at": "2026-09-11T10:04:49.579120Z",
+      "indexed_at": "2026-09-11T12:35:53.841042500Z",
       "name": "operating-modes",
       "versions": [
         {
           "content_hash": "sha256-tree/1:356022ee5e22c514201d8ff862534a0ce7b1bb8746259e8bf80ace28ddfc7602",
           "files_count": 7,
           "group": "org.vibevm.world",
-          "indexed_at": "2026-09-11T10:04:49.579120Z",
+          "indexed_at": "2026-09-11T12:35:53.841042500Z",
           "indexed_by": "vibe-index 1.0.0",
           "kind": "flow",
           "name": "operating-modes",

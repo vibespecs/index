@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-09-11T10:04:49.579120Z",
+  "indexed_at": "2026-09-11T12:35:53.841042500Z",
   "name": "redbook",
   "packages": [
     {
       "group": "org.vibevm.world",
-      "indexed_at": "2026-09-11T10:04:49.579120Z",
+      "indexed_at": "2026-09-11T12:35:53.841042500Z",
       "name": "redbook",
       "versions": [
         {
           "content_hash": "sha256-tree/1:8c208ac25ac863c21f4664371892356fc24059b58e75c18803058c6943a4fa62",
           "files_count": 10,
           "group": "org.vibevm.world",
-          "indexed_at": "2026-09-11T10:04:49.579120Z",
+          "indexed_at": "2026-09-11T12:35:53.841042500Z",
           "indexed_by": "vibe-index 1.0.0",
           "kind": "flow",
           "name": "redbook",

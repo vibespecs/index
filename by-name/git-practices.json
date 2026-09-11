@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-09-11T10:04:49.579120Z",
+  "indexed_at": "2026-09-11T12:35:53.841042500Z",
   "name": "git-practices",
   "packages": [
     {
       "group": "org.vibevm.world",
-      "indexed_at": "2026-09-11T10:04:49.579120Z",
+      "indexed_at": "2026-09-11T12:35:53.841042500Z",
       "name": "git-practices",
       "versions": [
         {
           "content_hash": "sha256-tree/1:12c43ba0b2d36b3ec8586a87539a2273fbf7ec833ae07a32da5c00a3f46c4de1",
           "files_count": 3,
           "group": "org.vibevm.world",
-          "indexed_at": "2026-09-11T10:04:49.579120Z",
+          "indexed_at": "2026-09-11T12:35:53.841042500Z",
           "indexed_by": "vibe-index 1.0.0",
           "kind": "flow",
           "name": "git-practices",

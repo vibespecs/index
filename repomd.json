@@ -3,7 +3,7 @@
   "registry": "vibespecs",
   "registry_url": "https://github.com/vibespecs",
   "naming": "fqdn",
-  "generated_at": "2026-09-11T10:04:49.579120Z",
+  "generated_at": "2026-09-11T12:35:53.841042500Z",
   "generator": "vibe-index 1.0.0",
   "package_count": 46,
   "version_count": 46,
@@ -18,233 +18,233 @@
     },
     "by-name/addressable-specs.json": {
       "kind": "file",
-      "size": "1655",
-      "sha256": "sha256:d42a8b98af6270d99188b35f61887bc359cfdbc347e14518cb5cd184813c92d6"
+      "size": "1664",
+      "sha256": "sha256:ba1b9b596c3ba01f25e48af10e7658e05073137342e1ed34985e0679721075ef"
     },
     "by-name/campaign-plans.json": {
       "kind": "file",
-      "size": "1673",
-      "sha256": "sha256:a9d4d28ec57feebecdf06ab28654be621196f9a2fb1a11f1798e2016aae77a44"
+      "size": "1682",
+      "sha256": "sha256:01e9d6cef9544f1835a77e77070ff502e88967621cec0e49ff49228cfa28c637"
     },
     "by-name/comparative-research.json": {
       "kind": "file",
-      "size": "1670",
-      "sha256": "sha256:0742d2e023b3603b730ad7d8f1bc0c81648acb8d4fead9e03469a0b720fe2725"
+      "size": "1679",
+      "sha256": "sha256:f536fa5bd5f0eb06991d3baf7c72bbcfbe561927cc4bd97ec227e7018696d0f6"
     },
     "by-name/conflict-protocol.json": {
       "kind": "file",
-      "size": "1683",
-      "sha256": "sha256:200ec0516e80f69a161412519801c8c29b2cf1dd0ca07d6522e253e6b6e0064f"
+      "size": "1692",
+      "sha256": "sha256:0315c940ca3b943b059535c5c0023829ba61416b7173d976bb304594e4669f2c"
     },
     "by-name/core-ai-native.json": {
       "kind": "file",
-      "size": "1740",
-      "sha256": "sha256:543add87429789c744d4c4e80e583e543c5759e3f9042a3717b72cb4424c8fc7"
+      "size": "1749",
+      "sha256": "sha256:8323033d3f74326342538269ce17706ab71c7d3835834397e9ab646d11bef28f"
     },
     "by-name/decision-records.json": {
       "kind": "file",
-      "size": "1623",
-      "sha256": "sha256:654be3cb88c15f537d6c2a022dcca32a877f4bcf59e4aa8d3c7a4ae3bc7732cb"
+      "size": "1632",
+      "sha256": "sha256:cc4b317f6261abdd9cc18d5d7d63c4dc4f4d101fca25de3d2414018c759ee3c1"
     },
     "by-name/delegation-first.json": {
       "kind": "file",
-      "size": "2012",
-      "sha256": "sha256:635aafd4f932737e174fe0020a9509fd973da21c08a74fd40680d6d97b780f68"
+      "size": "2021",
+      "sha256": "sha256:7b505e61860d44dc0e4190deb565849f564979381d506c67d24b83a1c0edc8f1"
     },
     "by-name/delegation-rules.json": {
       "kind": "file",
-      "size": "1910",
-      "sha256": "sha256:7bb40443548d75ebaf8e1cf08faa7b4681c7383246778709bf715e39777d6f19"
+      "size": "1919",
+      "sha256": "sha256:6168f3c4ffeef88ca611522db2811a99de28031d79ff50dde9635372b2b7e673"
     },
     "by-name/dev-runtime-docs.json": {
       "kind": "file",
-      "size": "1663",
-      "sha256": "sha256:a48fc6e94e2d678df5edefd53db9b1c5f16400c53cb433c523254bcf9886fc09"
+      "size": "1672",
+      "sha256": "sha256:43f4c795629279ff14885d269eb2763e483de2fd46a29d4e47cefec84d9ea5a5"
     },
     "by-name/discovery-prompt.json": {
       "kind": "file",
-      "size": "1685",
-      "sha256": "sha256:c0de2cd70195217c2a62731637a40c7ed5ba45057d2e53ec69795c26afe56cad"
+      "size": "1694",
+      "sha256": "sha256:17e362294dd1a717c777fe137cb9e9e1a1b5a5e549db9057f1c3f987a0186839"
     },
     "by-name/fractality.json": {
       "kind": "file",
-      "size": "2172",
-      "sha256": "sha256:9aee6efa5f82896969457b27920e4341c3ffc6c7ee8fa983fecbff00f1385ecb"
+      "size": "2181",
+      "sha256": "sha256:9ad07f639a438544e8826d08cc356474f95e8b5fd63dd80a9d1e128276623f07"
     },
     "by-name/git-atomic-commits.json": {
       "kind": "file",
-      "size": "1747",
-      "sha256": "sha256:39206d502131d912d3e1dd6aa6adadbd4ccd7308b5377d47c2ec0de1b7374611"
+      "size": "1756",
+      "sha256": "sha256:ea1e00d5becc59d352072b970ae1546ed665c77262ed3820f987659abbd94d7b"
     },
     "by-name/git-attribution-policy.json": {
       "kind": "file",
-      "size": "1697",
-      "sha256": "sha256:55075ed55b462d8759695473a040e49780e320667fc3378dd8dbae69e362c619"
+      "size": "1706",
+      "sha256": "sha256:c4b3131c1c8f4e81b0e4771ef78d17fddfee00f0e5f27a0844f9a85b1a3fb26f"
     },
     "by-name/git-autonomy.json": {
       "kind": "file",
-      "size": "1722",
-      "sha256": "sha256:9aa854bfd390a9fd0497ea3f01dca6e01e3f714d826eb66ea3bbcbbea62f2b71"
+      "size": "1731",
+      "sha256": "sha256:645728873579ec3688fb9b73a284cee9cfe07a9baf9514dae77feafcc54e0bbd"
     },
     "by-name/git-conventional-commits.json": {
       "kind": "file",
-      "size": "1745",
-      "sha256": "sha256:34c131cdbbf487027c1062df38fbe0ba2fd1e602bd7b7a800150745492f55a41"
+      "size": "1754",
+      "sha256": "sha256:2a6aa328b644df8287ddc48f226c626fbb6eb87118364ce5f9e68bf35c1456ed"
     },
     "by-name/git-practices.json": {
       "kind": "file",
-      "size": "2044",
-      "sha256": "sha256:03e0bb2d069cb974f4753ea95fd4e40635d9aefa9a520e39aa1f326a879f1da0"
+      "size": "2053",
+      "sha256": "sha256:8ca85d0a6b10e9b9d1508333844fa1dbe69497c72d30a4d1634c4217a3ca089e"
     },
     "by-name/go-ai-native-lang.json": {
       "kind": "file",
-      "size": "1951",
-      "sha256": "sha256:e5f2529e8ff1efc33ccbad21345562f9ae4ec209307857f39e5aac7d7bdcb593"
+      "size": "1960",
+      "sha256": "sha256:1435821352e0578fc299601daf9baa7e518f269d2bf7ccc709142b64a60c4527"
     },
     "by-name/go-ai-native-mcp.json": {
       "kind": "file",
-      "size": "1707",
-      "sha256": "sha256:29d71a73587c2f202c0c87bec97783f851d4c5f0bcee18ed3a5c98aa85afbc4a"
+      "size": "1716",
+      "sha256": "sha256:6b39e9d19a512678b9069ae8663f8e1d078d020e379c50205e1c445ff51e9e1c"
     },
     "by-name/go-ai-native.json": {
       "kind": "file",
-      "size": "1921",
-      "sha256": "sha256:de7572e002e30fecc45f4226f03701fa4c6587ebc6d4b9d51caf1285ae449e3f"
+      "size": "1930",
+      "sha256": "sha256:496f3b80f36aabb5aa8be28cb55548d7367b341e83ab4435dd19c2dcaeab4237"
     },
     "by-name/health-audit.json": {
       "kind": "file",
-      "size": "1633",
-      "sha256": "sha256:eff8f6d020a1862c7c7114560367fd7e2c25e1dd62153d666e29de2976b60aee"
+      "size": "1642",
+      "sha256": "sha256:ca118a7502aa3362a9523fe8b792fed26ce2db05a896a176b311797ea5940c80"
     },
     "by-name/jtd-codegen.json": {
       "kind": "file",
-      "size": "1643",
-      "sha256": "sha256:051a6942550802de9cd6871832452c71ff04f0abe1bd366e2a0c991dadeb57f5"
+      "size": "1652",
+      "sha256": "sha256:ffbbd8d1eab0bb048f0658cd9890c8c09421461c03e0bc7d1f97662a8a941231"
     },
     "by-name/licensing.json": {
       "kind": "file",
-      "size": "1626",
-      "sha256": "sha256:e3b1192c7a0f856a2c9b26c470afbc265fc655a416543e46b4f66001e4b5a753"
+      "size": "1635",
+      "sha256": "sha256:a97579985b0e2ff108b2bf54e40f87628453d18f71a7ebc5ac02c3eac33dc9a3"
     },
     "by-name/managed-blocks.json": {
       "kind": "file",
-      "size": "1663",
-      "sha256": "sha256:0070fcf9ed2a414c4ad03aa884800060385c813e1b44477da63e81904c108bfd"
+      "size": "1672",
+      "sha256": "sha256:25e1bb2a5db9a59cbbfbf4961e0d5b5462664c57541daac5da8c1df9071872af"
     },
     "by-name/manual-tests.json": {
       "kind": "file",
-      "size": "1621",
-      "sha256": "sha256:b1fb2149c0bd3999c3b657179a87374482e2e1b3ea2ca091ff44123ea60b1a96"
-    },
-    "by-name/matt-pocock-skills.json": {
-      "kind": "file",
-      "size": "2148",
-      "sha256": "sha256:b09a42e3de84ad6e37ba9e4f288f634df35e6c09e6b534f7ec120905defd5bd9"
+      "size": "1630",
+      "sha256": "sha256:db9307c39e5d1b20618c99c972874c5f1f2a03869c17b1ab7e7cc9b0d9932bc8"
     },
     "by-name/multi-user-planning.json": {
       "kind": "file",
-      "size": "1711",
-      "sha256": "sha256:67a6040af503b9289d6c1f96a127a3f687d39135dadcebf55588670681c38f12"
+      "size": "1720",
+      "sha256": "sha256:584c1016a44c2a6fb12ef074652b9b5010a459148b9080065e973c1cfc42fadc"
     },
     "by-name/omnichannel.json": {
       "kind": "file",
-      "size": "1696",
-      "sha256": "sha256:f82313ebbcd0cfa27967617930d45df6f6158272b87c9d2518d3008e7fff1aee"
+      "size": "1705",
+      "sha256": "sha256:fd4fcc657dbb39217a98af07e737bb21c47fc71c0711123f8696787a7c443149"
     },
     "by-name/operating-modes.json": {
       "kind": "file",
-      "size": "1633",
-      "sha256": "sha256:fd6e9718d2133c1beeed9ce54c2b5e92dc451c396a9add214dfcfda79a749ef6"
+      "size": "1642",
+      "sha256": "sha256:88f6583e9189f7b1898b16afac15ee3a288721211be7ffb1f94a6b1f2681892d"
     },
     "by-name/qualified-naming.json": {
       "kind": "file",
-      "size": "1663",
-      "sha256": "sha256:cc940f6f21bc6ab577db5c4f0da2b0005d277f60854ebbeacbdef44bb6d018bf"
+      "size": "1672",
+      "sha256": "sha256:1bc86b85dd4626078b82ec252dd3289d721f70050c7e8bcc470963eca5df9f06"
     },
     "by-name/redbook.json": {
       "kind": "file",
-      "size": "2992",
-      "sha256": "sha256:a543afb4693b95873ea3f2901fe6db6fd91444374535f9876542b5e1b3c2af61"
+      "size": "3001",
+      "sha256": "sha256:b0daf9251090cb4ffeceba66122636c5a4bbbd5968242f11b815e1b5afb198a6"
     },
     "by-name/rust-ai-native-lang.json": {
       "kind": "file",
-      "size": "1848",
-      "sha256": "sha256:c46be8ae3b7c8d5bccb3666dee101e1ef80fd6d6fb7556ec47b8c7706a5be13d"
+      "size": "1857",
+      "sha256": "sha256:422c3546d20a2789ce8703ae46c829878a53264c92825fdd29b618da90b2e794"
     },
     "by-name/rust-ai-native-mcp.json": {
       "kind": "file",
-      "size": "1701",
-      "sha256": "sha256:82d144fb91f576ac07ce26246e06bf4c79de5a1be6d65db8cd82f161d4725a16"
+      "size": "1710",
+      "sha256": "sha256:fdeeb858ea1791babc30790f3c3220fe0602b0c71776ae862c901b2e6cc6a26b"
     },
     "by-name/rust-ai-native.json": {
       "kind": "file",
-      "size": "1919",
-      "sha256": "sha256:15721ddf4adeb06e796083595081b5240aae114deb3d05e5c520e4bf49491b65"
+      "size": "1928",
+      "sha256": "sha256:d6f0a57396595d4fc74ad9685727238319e5be3afd3b47821e7a8ae1d835c408"
     },
     "by-name/secrets-hygiene.json": {
       "kind": "file",
-      "size": "1650",
-      "sha256": "sha256:a3e36d40b1ce26b08bc2403ff8bc4657ea1e3292c6b66e7c7a2c0e7d7f879b65"
+      "size": "1659",
+      "sha256": "sha256:167fffe5987e564e61e0c610ce05bbd3eadd6657af1151ea2184b96ead51d6ab"
+    },
+    "by-name/skills.json": {
+      "kind": "file",
+      "size": "2151",
+      "sha256": "sha256:a87ec572e2789994a3e9614731e7c81affabd49a24843db9062cf6b5a00195f5"
     },
     "by-name/source-mirrors.json": {
       "kind": "file",
-      "size": "1637",
-      "sha256": "sha256:7378642b1f6ba3e7137e382d2c55ad452de1dae51137e44207aa82e616a52b29"
+      "size": "1646",
+      "sha256": "sha256:54d6c5c704a5312ddf0d2463fb16647ca4da844802915500d07ea1f61fb89d96"
     },
     "by-name/spec-genres.json": {
       "kind": "file",
-      "size": "1627",
-      "sha256": "sha256:f8dd87f32852c9c50c85c16884b22a6d4c77c07fdbf580052759473c3349d3c2"
+      "size": "1636",
+      "sha256": "sha256:1899e64dd1e00ed7f4cb968b89f2476840357be3de7afcc6196bbe4b6c3d895a"
     },
-    "by-name/spec-kit.json": {
+    "by-name/speckit.json": {
       "kind": "file",
-      "size": "2101",
-      "sha256": "sha256:e0ee8f5be1e5f31d10e38210726be205665362a8421591e1d4fe46e6f31630c1"
+      "size": "2140",
+      "sha256": "sha256:58fa0a3aaf680538182f690268bc2cfae67dde15e9f83aca21aaf350e4dcbee0"
     },
     "by-name/sync-from-code.json": {
       "kind": "file",
-      "size": "1570",
-      "sha256": "sha256:9d9a578bde0031bfa71cd45a9b2dbbeb32edec15cb7187ef1706ddb3bef5c8b2"
+      "size": "1579",
+      "sha256": "sha256:246c6c2cd1b72f8cb6fe28013a486ad7ea7768eb46e0418d69cf1e251b5876c7"
     },
     "by-name/tool-design-lessons.json": {
       "kind": "file",
-      "size": "1692",
-      "sha256": "sha256:9215ad0ff7707c2c5bebcec30a15d676222053ea6ccead775d15863a6a14b971"
+      "size": "1701",
+      "sha256": "sha256:5c7561183ab85d6bc777f9172c231e65ab3eb98011b4de51d8b57a335d939ae7"
     },
     "by-name/two-process-model.json": {
       "kind": "file",
-      "size": "1655",
-      "sha256": "sha256:ec6b608c0e3fbe3583b05a405e27175388e9c9a2db8b306a8a9acb197d78efb8"
+      "size": "1664",
+      "sha256": "sha256:1c93fab054d40dbb4ad995069ff32f84d4a1717cf4b0d60ec01aff66a67b53f1"
     },
     "by-name/typescript-ai-native-lang.json": {
       "kind": "file",
-      "size": "1996",
-      "sha256": "sha256:75120e27b4fe0d566b5670fc18330071776bf1e3e6ce8abf915bd647739de3f4"
+      "size": "2005",
+      "sha256": "sha256:6f6df7b15aea781f4c7d7630211f7b831c2dbfb2ca32a3d2d0ee7b7ffb7690eb"
     },
     "by-name/typescript-ai-native-mcp.json": {
       "kind": "file",
-      "size": "1749",
-      "sha256": "sha256:7907a6a2cf149d3a943bbd21f30d2f347d6fb180bddf36f3f1f11f1b41aba458"
+      "size": "1758",
+      "sha256": "sha256:3c17ed2b45d18129d90c7ab2fd21eb6315bda9c69aad192cda625f6454387928"
     },
     "by-name/typescript-ai-native.json": {
       "kind": "file",
-      "size": "1979",
-      "sha256": "sha256:9f65f7f52cd229085aa18987cca69102a2119d0bce059fd07136864d0e44c145"
+      "size": "1988",
+      "sha256": "sha256:51e8130a4b1dc4baffabb42c454f05440559753a76390b7ea60437122d8b6ee4"
     },
     "by-name/wal-specspaces.json": {
       "kind": "file",
-      "size": "1877",
-      "sha256": "sha256:474fc3c46f68c0c2f7b879542299e4fc0442a3c8fef645a87e0bab1d47023c3d"
+      "size": "1886",
+      "sha256": "sha256:2c47a92e7f4ffb72f247d343e3ed329ae0f9aaf2af627ec9c3b185ca2aa9d9a5"
     },
     "by-name/wal.json": {
       "kind": "file",
-      "size": "1608",
-      "sha256": "sha256:edc3a18690de2b56b5765877d9d859d61bb2815611b42abf3a53c24473b7d0a4"
+      "size": "1617",
+      "sha256": "sha256:208bafe6344e39bf0b10118fbe923a0812d0e11c67743783f243497a84c0a2d7"
     },
     "by-name/zai-glm-claude.json": {
       "kind": "file",
-      "size": "1635",
-      "sha256": "sha256:2514627e664e84bafec59cd1107edc48eaed21ef46143211362e79c04a8d655e"
+      "size": "1644",
+      "sha256": "sha256:c55455d9b53b9c38bd90c7380f78217b803b0a3aec986036fa41d356af4f9b4d"
     },
     "by-purl": {
       "kind": "directory",
@@ -252,23 +252,23 @@
     },
     "by-purl/pkg--github--github--spec-kit--1.0.6.jsonl": {
       "kind": "file",
-      "size": "148",
-      "sha256": "sha256:207fed3f72387c515b563534d22c2bde6cfbfc06f38aa05625fda41df75af01d"
+      "size": "140",
+      "sha256": "sha256:130efd8581196e6177ec0c57311b32597d57052acc0a4db6b9e18c2b1705d7cf"
     },
     "by-purl/pkg--github--mattpocock--skills--1.2.3.jsonl": {
       "kind": "file",
-      "size": "160",
-      "sha256": "sha256:c0a6cbda8412daa79aa22127f1d7eef88c3458f16dd27b89806202a7307d747f"
+      "size": "144",
+      "sha256": "sha256:0bec60e09d088d53655252830ba937684ede5ffab5d3c34cc472ee2755f024bc"
     },
     "primary.jsonl": {
       "kind": "file",
-      "size": "46983",
-      "sha256": "sha256:b31aaab5cc7f11a121434c34b7f788e2add415d3c9da3461bb3640fdd3fa759c"
+      "size": "47112",
+      "sha256": "sha256:49fc808a54abaaf20845f9f67e6394136f2befd5265c854d77145795155c639c"
     },
     "primary.jsonl.gz": {
       "kind": "file",
-      "size": "10175",
-      "sha256": "sha256:34365033e46aa389fbb735aa7ad25a312cf4a25507528a8faa9c0353c9736903"
+      "size": "10206",
+      "sha256": "sha256:2281e638421a02ce3624894885a01aaf0b7edd073eb931f30db6de9b4eabb309"
     }
   }
 }

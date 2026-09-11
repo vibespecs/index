@@ -1,31 +1,31 @@
 {
-  "indexed_at": "2026-09-11T10:04:49.579120Z",
-  "name": "matt-pocock-skills",
+  "indexed_at": "2026-09-11T12:35:53.841042500Z",
+  "name": "skills",
   "packages": [
     {
-      "group": "org.vibevm.bridges",
-      "indexed_at": "2026-09-11T10:04:49.579120Z",
-      "name": "matt-pocock-skills",
+      "group": "com.mattpocock",
+      "indexed_at": "2026-09-11T12:35:53.841042500Z",
+      "name": "skills",
       "versions": [
         {
-          "content_hash": "sha256-tree/1:c6ebb9d5cf40dcc6c42f4d1c9fe7439e340c02a837caa98f2e9e9ee1b05f9439",
-          "files_count": 4,
-          "group": "org.vibevm.bridges",
-          "indexed_at": "2026-09-11T10:04:49.579120Z",
+          "content_hash": "sha256-tree/1:d9c6dbdfdaa8acf8baf6fae1c7ce5980bbbd50c00b3e40c4dfc3c6de3cb4ce9f",
+          "files_count": 5,
+          "group": "com.mattpocock",
+          "indexed_at": "2026-09-11T12:35:53.841042500Z",
           "indexed_by": "vibe-index 1.0.0",
           "kind": "feat",
-          "name": "matt-pocock-skills",
+          "name": "skills",
           "registry": "vibespecs",
           "schema_version": 1,
           "source_ref": "v1.0.0",
-          "source_url": "https://github.com/vibespecs/org.vibevm.bridges.matt-pocock-skills.git",
+          "source_url": "https://github.com/vibespecs/com.mattpocock.skills.git",
           "version": "1.0.0",
           "authors": [
             "Oleg Chirukhin"
           ],
           "bridge": true,
           "describes": "pkg:github/mattpocock/skills@1.2.3",
-          "description": "Zero-copy Vibe bridge to selected Matt Pocock engineering skills",
+          "description": "Selected Matt Pocock engineering skills packaged for Vibe",
           "embedded_sources": [
             {
               "content_hash": "sha256-tree/1:fb4fb6a478b56528fe629245da6cfe97f8ff8650b1b5b241c24b02de81af23f3",
@@ -36,7 +36,10 @@
               "resolved_commit": "6acc160e4e0cd062dbbbd7a1b26ae92855edf07e",
               "source_url": "https://github.com/mattpocock/skills.git",
               "upstream_license": "MIT",
-              "source_ref": "refs/tags/v1.2.3"
+              "source_ref": "refs/tags/v1.2.3",
+              "upstream_authors": [
+                "Matt Pocock"
+              ]
             }
           ],
           "homepage": "https://github.com/mattpocock/skills",
@@ -44,13 +47,12 @@
             "default": "en"
           },
           "keywords": [
-            "bridge",
             "skills",
             "engineering",
             "codebase-design"
           ],
           "license": "UPL-1.0",
-          "resolved_commit": "1f4881c9fdfd27f6623bc6baedf682150710b311"
+          "resolved_commit": "241232e7f4a9ee09a1ace6bb441ca0a5a7269fed"
         }
       ],
       "latest_stable": "1.0.0"

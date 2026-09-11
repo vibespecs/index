@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-09-11T10:04:49.579120Z",
+  "indexed_at": "2026-09-11T12:35:53.841042500Z",
   "name": "addressable-specs",
   "packages": [
     {
       "group": "org.vibevm.world",
-      "indexed_at": "2026-09-11T10:04:49.579120Z",
+      "indexed_at": "2026-09-11T12:35:53.841042500Z",
       "name": "addressable-specs",
       "versions": [
         {
           "content_hash": "sha256-tree/1:697f0bcb4a08a8dfdc22408c8e69255a547908501f81ee5c6bd53fe6f932331f",
           "files_count": 7,
           "group": "org.vibevm.world",
-          "indexed_at": "2026-09-11T10:04:49.579120Z",
+          "indexed_at": "2026-09-11T12:35:53.841042500Z",
           "indexed_by": "vibe-index 1.0.0",
           "kind": "flow",
           "name": "addressable-specs",
