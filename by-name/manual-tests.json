@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-09-10T21:00:25.225860100Z",
+  "indexed_at": "2026-09-11T10:04:49.579120Z",
   "name": "manual-tests",
   "packages": [
     {
       "group": "org.vibevm.world",
-      "indexed_at": "2026-09-10T21:00:25.225860100Z",
+      "indexed_at": "2026-09-11T10:04:49.579120Z",
       "name": "manual-tests",
       "versions": [
         {
           "content_hash": "sha256-tree/1:cf2820e116d4860d48a146bdd7b55ccc1451d7c47dde7006a412ca91cc0c9ced",
           "files_count": 7,
           "group": "org.vibevm.world",
-          "indexed_at": "2026-09-10T21:00:25.225860100Z",
+          "indexed_at": "2026-09-11T10:04:49.579120Z",
           "indexed_by": "vibe-index 1.0.0",
           "kind": "flow",
           "name": "manual-tests",

@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-09-10T21:00:25.225860100Z",
+  "indexed_at": "2026-09-11T10:04:49.579120Z",
   "name": "spec-genres",
   "packages": [
     {
       "group": "org.vibevm.world",
-      "indexed_at": "2026-09-10T21:00:25.225860100Z",
+      "indexed_at": "2026-09-11T10:04:49.579120Z",
       "name": "spec-genres",
       "versions": [
         {
           "content_hash": "sha256-tree/1:57a00e26e60d4734bd2d8d6348c30a3fca9a8ea4e2dd9989471ed58e8df0f6ae",
           "files_count": 7,
           "group": "org.vibevm.world",
-          "indexed_at": "2026-09-10T21:00:25.225860100Z",
+          "indexed_at": "2026-09-11T10:04:49.579120Z",
           "indexed_by": "vibe-index 1.0.0",
           "kind": "flow",
           "name": "spec-genres",

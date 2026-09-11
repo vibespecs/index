@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-09-10T21:00:25.225860100Z",
+  "indexed_at": "2026-09-11T10:04:49.579120Z",
   "name": "two-process-model",
   "packages": [
     {
       "group": "org.vibevm.world",
-      "indexed_at": "2026-09-10T21:00:25.225860100Z",
+      "indexed_at": "2026-09-11T10:04:49.579120Z",
       "name": "two-process-model",
       "versions": [
         {
           "content_hash": "sha256-tree/1:b399d7f8ed2a73e068ad13c1ca3fa36379ae02e82b56313497fa550c707720de",
           "files_count": 7,
           "group": "org.vibevm.world",
-          "indexed_at": "2026-09-10T21:00:25.225860100Z",
+          "indexed_at": "2026-09-11T10:04:49.579120Z",
           "indexed_by": "vibe-index 1.0.0",
           "kind": "flow",
           "name": "two-process-model",

@@ -1,0 +1,59 @@
+{
+  "indexed_at": "2026-09-11T10:04:49.579120Z",
+  "name": "spec-kit",
+  "packages": [
+    {
+      "group": "org.vibevm.bridges",
+      "indexed_at": "2026-09-11T10:04:49.579120Z",
+      "name": "spec-kit",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:c71874f5b2bfdd2db09fcc90f1978a092b4e621922a6faaaa6d4d653078ac4ff",
+          "files_count": 5,
+          "group": "org.vibevm.bridges",
+          "indexed_at": "2026-09-11T10:04:49.579120Z",
+          "indexed_by": "vibe-index 1.0.0",
+          "kind": "feat",
+          "name": "spec-kit",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.bridges.spec-kit.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "bridge": true,
+          "describes": "pkg:github/github/spec-kit@1.0.6",
+          "description": "Zero-copy Vibe bridge to GitHub Spec Kit's core specification workflow",
+          "embedded_sources": [
+            {
+              "content_hash": "sha256-tree/1:91249902cbdad534278a14c437ab9fd43439c3f1df96a7a051d47b08509c88fc",
+              "kind": "git",
+              "license_path": "LICENSE",
+              "license_url": "https://github.com/github/spec-kit/blob/96c9bd657bfd5de0d651a6165084932b7304ac99/LICENSE",
+              "name": "upstream",
+              "resolved_commit": "96c9bd657bfd5de0d651a6165084932b7304ac99",
+              "source_url": "https://github.com/github/spec-kit.git",
+              "upstream_license": "MIT",
+              "source_ref": "refs/tags/v1.0.6"
+            }
+          ],
+          "homepage": "https://github.com/github/spec-kit",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "bridge",
+            "spec-kit",
+            "specification",
+            "skills"
+          ],
+          "license": "UPL-1.0",
+          "resolved_commit": "0f36be9cd38e7e102b3a54533035641e5783a3b3"
+        }
+      ],
+      "latest_stable": "1.0.0"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-09-10T21:00:25.225860100Z",
+  "indexed_at": "2026-09-11T10:04:49.579120Z",
   "name": "typescript-ai-native-mcp",
   "packages": [
     {
       "group": "org.vibevm.ai-native",
-      "indexed_at": "2026-09-10T21:00:25.225860100Z",
+      "indexed_at": "2026-09-11T10:04:49.579120Z",
       "name": "typescript-ai-native-mcp",
       "versions": [
         {
           "content_hash": "sha256-tree/1:e91f59c1dad10c4045a1744a61bd51157f36d22bd8e3c64dc7edb5707cbbc346",
           "files_count": 167,
           "group": "org.vibevm.ai-native",
-          "indexed_at": "2026-09-10T21:00:25.225860100Z",
+          "indexed_at": "2026-09-11T10:04:49.579120Z",
           "indexed_by": "vibe-index 1.0.0",
           "kind": "mcp",
           "name": "typescript-ai-native-mcp",
