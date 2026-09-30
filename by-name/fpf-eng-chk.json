@@ -1,0 +1,59 @@
+{
+  "indexed_at": "2026-09-30T06:23:07.041964200Z",
+  "name": "fpf-eng-chk",
+  "packages": [
+    {
+      "group": "ai.lev",
+      "indexed_at": "2026-09-30T06:23:07.041964200Z",
+      "name": "fpf-eng-chk",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:62da090473e99960f25d49b346312ae999f85431a11cecfaf126ce6091bc0b34",
+          "files_count": 28,
+          "group": "ai.lev",
+          "indexed_at": "2026-09-30T06:23:07.041964200Z",
+          "indexed_by": "vibe-index 1.0.0",
+          "kind": "flow",
+          "name": "fpf-eng-chk",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v2026.929.0",
+          "source_url": "https://github.com/vibespecs/ai.lev.fpf-eng-chk.git",
+          "version": "2026.929.0",
+          "authors": [
+            "Anatoly Levenchuk",
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/10-flow-fpf-eng-chk.md",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "1.0.0"
+          },
+          "description": "Checklist Principles Framework (CHK): 6 patterns of a domain principle framework by Anatoly Levenchuk, one contract and one source document per pattern",
+          "homepage": "https://github.com/ailev/FPF",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "fpf",
+            "patterns",
+            "levenchuk",
+            "chk",
+            "eng",
+            "checklist"
+          ],
+          "license": "CC-BY-4.0 AND UPL-1.0",
+          "requires": {
+            "packages": [
+              "ai.lev/fpf-common@=2026.929.0"
+            ]
+          },
+          "resolved_commit": "45d2c90459d16274fbd39024dc179dcc3c4b5b42"
+        }
+      ],
+      "latest_stable": "2026.929.0"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "indexed_at": "2026-09-30T06:23:07.041964200Z",
+  "name": "fpf-eng-fdm",
+  "packages": [
+    {
+      "group": "ai.lev",
+      "indexed_at": "2026-09-30T06:23:07.041964200Z",
+      "name": "fpf-eng-fdm",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:5b2f01d27d648da165e77a78ec0e51968e05550e62c5ee242534cc1488b78428",
+          "files_count": 23,
+          "group": "ai.lev",
+          "indexed_at": "2026-09-30T06:23:07.041964200Z",
+          "indexed_by": "vibe-index 1.0.0",
+          "kind": "flow",
+          "name": "fpf-eng-fdm",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v2026.929.0",
+          "source_url": "https://github.com/vibespecs/ai.lev.fpf-eng-fdm.git",
+          "version": "2026.929.0",
+          "authors": [
+            "Anatoly Levenchuk",
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/10-flow-fpf-eng-fdm.md",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "1.0.0"
+          },
+          "description": "Financial Domain Modeling Principles Framework (FDM): 5 patterns of a domain principle framework by Anatoly Levenchuk, one contract and one source document per pattern",
+          "homepage": "https://github.com/ailev/FPF",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "fpf",
+            "patterns",
+            "levenchuk",
+            "fdm",
+            "eng",
+            "financial",
+            "domain",
+            "modeling"
+          ],
+          "license": "CC-BY-4.0 AND UPL-1.0",
+          "requires": {
+            "packages": [
+              "ai.lev/fpf-common@=2026.929.0"
+            ]
+          },
+          "resolved_commit": "e42d3584b774096e19381560d196046a3e502ae0"
+        }
+      ],
+      "latest_stable": "2026.929.0"
+    }
+  ]
+}

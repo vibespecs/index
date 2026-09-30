@@ -1,0 +1,61 @@
+{
+  "indexed_at": "2026-09-30T06:23:07.041964200Z",
+  "name": "fpf-eng-eam",
+  "packages": [
+    {
+      "group": "ai.lev",
+      "indexed_at": "2026-09-30T06:23:07.041964200Z",
+      "name": "fpf-eng-eam",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:64097f3bbe9f1b990fdfa9fbac7cd4a2d9e849d2611a99ed39594194f6200589",
+          "files_count": 51,
+          "group": "ai.lev",
+          "indexed_at": "2026-09-30T06:23:07.041964200Z",
+          "indexed_by": "vibe-index 1.0.0",
+          "kind": "flow",
+          "name": "fpf-eng-eam",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v2026.929.0",
+          "source_url": "https://github.com/vibespecs/ai.lev.fpf-eng-eam.git",
+          "version": "2026.929.0",
+          "authors": [
+            "Anatoly Levenchuk",
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/10-flow-fpf-eng-eam.md",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "1.0.0"
+          },
+          "description": "Engineering Asset Management Principles Framework (EAM): 16 patterns of a domain principle framework by Anatoly Levenchuk, one contract and one source document per pattern",
+          "homepage": "https://github.com/ailev/FPF",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "fpf",
+            "patterns",
+            "levenchuk",
+            "eam",
+            "eng",
+            "engineering",
+            "asset",
+            "management"
+          ],
+          "license": "CC-BY-4.0 AND UPL-1.0",
+          "requires": {
+            "packages": [
+              "ai.lev/fpf-common@=2026.929.0"
+            ]
+          },
+          "resolved_commit": "3fa5944afebf7e4fe99b8de189d689f168158c3b"
+        }
+      ],
+      "latest_stable": "2026.929.0"
+    }
+  ]
+}

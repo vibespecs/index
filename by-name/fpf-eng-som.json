@@ -1,0 +1,61 @@
+{
+  "indexed_at": "2026-09-30T06:23:07.041964200Z",
+  "name": "fpf-eng-som",
+  "packages": [
+    {
+      "group": "ai.lev",
+      "indexed_at": "2026-09-30T06:23:07.041964200Z",
+      "name": "fpf-eng-som",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:03ab094230c61a9b337ce4ba12904f12d969c0016b198c3b5aa0b989c5035465",
+          "files_count": 23,
+          "group": "ai.lev",
+          "indexed_at": "2026-09-30T06:23:07.041964200Z",
+          "indexed_by": "vibe-index 1.0.0",
+          "kind": "flow",
+          "name": "fpf-eng-som",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v2026.929.0",
+          "source_url": "https://github.com/vibespecs/ai.lev.fpf-eng-som.git",
+          "version": "2026.929.0",
+          "authors": [
+            "Anatoly Levenchuk",
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/10-flow-fpf-eng-som.md",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "1.0.0"
+          },
+          "description": "Somatic Movement Modeling DPF (SOM): 5 patterns of a domain principle framework by Anatoly Levenchuk, one contract and one source document per pattern",
+          "homepage": "https://github.com/ailev/FPF",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "fpf",
+            "patterns",
+            "levenchuk",
+            "som",
+            "eng",
+            "somatic",
+            "movement",
+            "modeling"
+          ],
+          "license": "CC-BY-4.0 AND UPL-1.0",
+          "requires": {
+            "packages": [
+              "ai.lev/fpf-common@=2026.929.0"
+            ]
+          },
+          "resolved_commit": "ffc5680c4bd7c7e702ff599ee51162f31e3a8429"
+        }
+      ],
+      "latest_stable": "2026.929.0"
+    }
+  ]
+}

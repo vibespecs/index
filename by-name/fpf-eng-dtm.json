@@ -1,0 +1,61 @@
+{
+  "indexed_at": "2026-09-30T06:23:07.041964200Z",
+  "name": "fpf-eng-dtm",
+  "packages": [
+    {
+      "group": "ai.lev",
+      "indexed_at": "2026-09-30T06:23:07.041964200Z",
+      "name": "fpf-eng-dtm",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:9ca53b3ac824b2f721b20e61d95cd5b7ce26d6dfc890ee0609a4b55356f745fe",
+          "files_count": 33,
+          "group": "ai.lev",
+          "indexed_at": "2026-09-30T06:23:07.041964200Z",
+          "indexed_by": "vibe-index 1.0.0",
+          "kind": "flow",
+          "name": "fpf-eng-dtm",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v2026.929.0",
+          "source_url": "https://github.com/vibespecs/ai.lev.fpf-eng-dtm.git",
+          "version": "2026.929.0",
+          "authors": [
+            "Anatoly Levenchuk",
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/10-flow-fpf-eng-dtm.md",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "1.0.0"
+          },
+          "description": "Defense and Transmission Modeling DPF (DTM): 9 patterns of a domain principle framework by Anatoly Levenchuk, one contract and one source document per pattern",
+          "homepage": "https://github.com/ailev/FPF",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "fpf",
+            "patterns",
+            "levenchuk",
+            "dtm",
+            "eng",
+            "defense",
+            "transmission",
+            "modeling"
+          ],
+          "license": "CC-BY-4.0 AND UPL-1.0",
+          "requires": {
+            "packages": [
+              "ai.lev/fpf-common@=2026.929.0"
+            ]
+          },
+          "resolved_commit": "97ca685c61fcf44b4a47af2fa42918393b34fc24"
+        }
+      ],
+      "latest_stable": "2026.929.0"
+    }
+  ]
+}

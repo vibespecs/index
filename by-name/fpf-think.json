@@ -1,0 +1,63 @@
+{
+  "indexed_at": "2026-09-30T06:23:07.041964200Z",
+  "name": "fpf-think",
+  "packages": [
+    {
+      "group": "ai.lev",
+      "indexed_at": "2026-09-30T06:23:07.041964200Z",
+      "name": "fpf-think",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:9afd3638af1e97d4ea3b062ae7b960ae164f2ad9c31e143b803051ab0fe2494a",
+          "files_count": 19,
+          "group": "ai.lev",
+          "indexed_at": "2026-09-30T06:23:07.041964200Z",
+          "indexed_by": "vibe-index 1.0.0",
+          "kind": "flow",
+          "name": "fpf-think",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v2026.929.0",
+          "source_url": "https://github.com/vibespecs/ai.lev.fpf-think.git",
+          "version": "2026.929.0",
+          "authors": [
+            "Anatoly Levenchuk",
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/10-flow-fpf-think.md",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "1.0.0"
+          },
+          "description": "Foundational Thinking DPF Suite umbrella: 5 DPF packages (66 patterns) with the suite README and Reference",
+          "homepage": "https://github.com/ailev/FPF",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "fpf",
+            "dpf",
+            "think",
+            "suite",
+            "levenchuk"
+          ],
+          "license": "CC-BY-4.0 AND UPL-1.0",
+          "requires": {
+            "packages": [
+              "ai.lev/fpf-common@=2026.929.0",
+              "ai.lev/fpf-think-cmp@=2026.929.0",
+              "ai.lev/fpf-think-math@=2026.929.0",
+              "ai.lev/fpf-think-mmp@=2026.929.0",
+              "ai.lev/fpf-think-not@=2026.929.0",
+              "ai.lev/fpf-think-phy@=2026.929.0"
+            ]
+          },
+          "resolved_commit": "23b4322960cac7adcf1fade25e59f895d63f963c"
+        }
+      ],
+      "latest_stable": "2026.929.0"
+    }
+  ]
+}

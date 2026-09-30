@@ -3,10 +3,10 @@
   "registry": "vibespecs",
   "registry_url": "https://github.com/vibespecs",
   "naming": "fqdn",
-  "generated_at": "2026-09-11T12:35:53.841042500Z",
+  "generated_at": "2026-09-30T06:23:07.041964200Z",
   "generator": "vibe-index 1.0.0",
-  "package_count": 46,
-  "version_count": 46,
+  "package_count": 85,
+  "version_count": 85,
   "files": {
     "by-cap": {
       "kind": "directory",
@@ -14,7 +14,7 @@
     },
     "by-name": {
       "kind": "directory",
-      "entries": 46
+      "entries": 84
     },
     "by-name/addressable-specs.json": {
       "kind": "file",
@@ -65,6 +65,191 @@
       "kind": "file",
       "size": "1694",
       "sha256": "sha256:17e362294dd1a717c777fe137cb9e9e1a1b5a5e549db9057f1c3f987a0186839"
+    },
+    "by-name/fpf-common.json": {
+      "kind": "file",
+      "size": "1690",
+      "sha256": "sha256:27a9c3507244c73d0804539d5bf7e20b10b7f478d2a56ce16662beb8dde638c1"
+    },
+    "by-name/fpf-eng-adm.json": {
+      "kind": "file",
+      "size": "1927",
+      "sha256": "sha256:66691f104e15e1f0bba7e2a9ccc2d49a52d6e4e0b42ebf6c0d082e9f528f12ea"
+    },
+    "by-name/fpf-eng-cb.json": {
+      "kind": "file",
+      "size": "1902",
+      "sha256": "sha256:cf20fabc0f8ff1cb766116ee415f724ecfe1f0f0a50db4ff2d14a4d89d30e07f"
+    },
+    "by-name/fpf-eng-cgov.json": {
+      "kind": "file",
+      "size": "1920",
+      "sha256": "sha256:e6b577075d372f23e98bc8b7e5130601cd401f1be1767c8d429776baae9fe0fc"
+    },
+    "by-name/fpf-eng-chk.json": {
+      "kind": "file",
+      "size": "1875",
+      "sha256": "sha256:739302244a570d7071fe7250888776480d11b252293f481f46c53ccb2501a943"
+    },
+    "by-name/fpf-eng-doca.json": {
+      "kind": "file",
+      "size": "2001",
+      "sha256": "sha256:8278bdeaed51f3bd704473b838ce2e5ad8bd0f5375c3807f891dc777806706b7"
+    },
+    "by-name/fpf-eng-dtm.json": {
+      "kind": "file",
+      "size": "1932",
+      "sha256": "sha256:d32d20f631356e6a639e004eec4188339bcc5716a4a2b571265b8a2b2497d977"
+    },
+    "by-name/fpf-eng-eam.json": {
+      "kind": "file",
+      "size": "1944",
+      "sha256": "sha256:58ed76b2591aac4c03c6b7887b15f364bc6699ee095f2f6760e671e7167bb8f9"
+    },
+    "by-name/fpf-eng-eco.json": {
+      "kind": "file",
+      "size": "1954",
+      "sha256": "sha256:1ffbedb6cc9e8e25dc3d365c8d49ee5dfcf76a15ba88cb354f08f8b5d4ed1bf4"
+    },
+    "by-name/fpf-eng-exd.json": {
+      "kind": "file",
+      "size": "1908",
+      "sha256": "sha256:2940a8771800524a87f592a94242556a20e362d8a3f7387daeac0aa50d84e843"
+    },
+    "by-name/fpf-eng-fdm.json": {
+      "kind": "file",
+      "size": "1937",
+      "sha256": "sha256:a54c4b2e612298bcc10d8d52035846c7f50607125e0e7f2bec28d98eae74e0b9"
+    },
+    "by-name/fpf-eng-fin.json": {
+      "kind": "file",
+      "size": "1907",
+      "sha256": "sha256:b5bf4e74c034f7460002dc8da25e2065ceab1e644a18e4864f1ccf23829f1f4e"
+    },
+    "by-name/fpf-eng-hcd.json": {
+      "kind": "file",
+      "size": "1944",
+      "sha256": "sha256:b5e3ab034dfa22b02e64dcc0e371d68eb397fd62e9869cab07b2dc9bfade5b2d"
+    },
+    "by-name/fpf-eng-ma.json": {
+      "kind": "file",
+      "size": "1907",
+      "sha256": "sha256:acdcc447673907c1e2c31eb806278e7cccf54a6ad303fe46424d3f56bf5a3422"
+    },
+    "by-name/fpf-eng-mdpe.json": {
+      "kind": "file",
+      "size": "1951",
+      "sha256": "sha256:a07cb3cc4e34cdf15887db3532a2c3417c5e00677e5c6554b2316f705ee14919"
+    },
+    "by-name/fpf-eng-me.json": {
+      "kind": "file",
+      "size": "1902",
+      "sha256": "sha256:4baf126383c90097e88083570c565596b528ff6c2d011a40ed69b1e2657aa4a0"
+    },
+    "by-name/fpf-eng-mkt.json": {
+      "kind": "file",
+      "size": "1876",
+      "sha256": "sha256:b2b88c5fd9ba944ff3c587f734c419a1a815e58b2fa46288b8bd2818cbb7044b"
+    },
+    "by-name/fpf-eng-mnt.json": {
+      "kind": "file",
+      "size": "1960",
+      "sha256": "sha256:1b1086a8cc9773c6721f063a4d2f614a4c4b51e377be226f2cab77fbe0e943bf"
+    },
+    "by-name/fpf-eng-oce.json": {
+      "kind": "file",
+      "size": "1950",
+      "sha256": "sha256:3e5679ed2186eba997ab05d079e3fe474d88c8b61b713ae8298f2d4c89ca1294"
+    },
+    "by-name/fpf-eng-ops.json": {
+      "kind": "file",
+      "size": "1915",
+      "sha256": "sha256:5f92979bc2362a2871fb7d4428f6f8ae0f5a620ab3347d33fda8e8b7be2a52b5"
+    },
+    "by-name/fpf-eng-psd.json": {
+      "kind": "file",
+      "size": "1956",
+      "sha256": "sha256:1739816bbda1e079b7b2e75f70fc934a3db447172e13415fa198b35f3db28dca"
+    },
+    "by-name/fpf-eng-rhy.json": {
+      "kind": "file",
+      "size": "1909",
+      "sha256": "sha256:d9b4378ecbc5ea14f4ad72f2430453e07ab3d442a11548545810fb30e5a752f1"
+    },
+    "by-name/fpf-eng-rmp.json": {
+      "kind": "file",
+      "size": "1935",
+      "sha256": "sha256:cd57273a3374ddfe7fa477f8232e9d8831662492929cff26f4400f11e59c4d39"
+    },
+    "by-name/fpf-eng-sie.json": {
+      "kind": "file",
+      "size": "1952",
+      "sha256": "sha256:2a3630f7481bca0cc126230f8233fe673f28283a3afe58ce0955c10b092dee8f"
+    },
+    "by-name/fpf-eng-som.json": {
+      "kind": "file",
+      "size": "1920",
+      "sha256": "sha256:8cd16b198a7a82a8ecabcc80820d67051500cb046b3827609ae0c4934c3f89ff"
+    },
+    "by-name/fpf-eng-str.json": {
+      "kind": "file",
+      "size": "1874",
+      "sha256": "sha256:e356c28d0deac56590e6b8581115b2bf01eb54437ccabe22d204dfd001cc6c0b"
+    },
+    "by-name/fpf-eng-syse.json": {
+      "kind": "file",
+      "size": "1919",
+      "sha256": "sha256:3425a653500472abc632fdb128db0090627c167fd925e794ea017fe95a2f3cc5"
+    },
+    "by-name/fpf-eng.json": {
+      "kind": "file",
+      "size": "3023",
+      "sha256": "sha256:c56701bfa12b7ad8f5393994f8f8599986a643be82f5b787c9cad87575d7aace"
+    },
+    "by-name/fpf-nstd.json": {
+      "kind": "file",
+      "size": "1925",
+      "sha256": "sha256:da0e86870913b9c89d407d5df9fa373655a8295a7394e8b07a81d7aadf42c690"
+    },
+    "by-name/fpf-spec.json": {
+      "kind": "file",
+      "size": "1873",
+      "sha256": "sha256:031600292640cceda2e93ca26461b7dc31d922c65979dcded8da605fc82f3d19"
+    },
+    "by-name/fpf-think-cmp.json": {
+      "kind": "file",
+      "size": "1912",
+      "sha256": "sha256:fcd424999a7ec505acf026f9bccbde6bbd0864c94ee3acf75838e3562b653546"
+    },
+    "by-name/fpf-think-math.json": {
+      "kind": "file",
+      "size": "1917",
+      "sha256": "sha256:c1929313677333da4a9dc67a1ca2e5725bb217ed4d1a5a5bdac8e1f676cc7318"
+    },
+    "by-name/fpf-think-mmp.json": {
+      "kind": "file",
+      "size": "1910",
+      "sha256": "sha256:baf372fe5f0c3c93c86bc470d3c178fde8ee74153a6bfaa29c5abe597a6acc95"
+    },
+    "by-name/fpf-think-not.json": {
+      "kind": "file",
+      "size": "1911",
+      "sha256": "sha256:c7ec4120ce699b9afb3e48d57b780e89b698828ca8474e25d7c0a91705305324"
+    },
+    "by-name/fpf-think-phy.json": {
+      "kind": "file",
+      "size": "1902",
+      "sha256": "sha256:8ce07a0593a526c21e504d48126aa5a96a2addcb8b4ade91eb7417158c205c9a"
+    },
+    "by-name/fpf-think.json": {
+      "kind": "file",
+      "size": "2045",
+      "sha256": "sha256:c1640234d338352c106203dd72103a5fcc3d36a3ea0a14ede01a2893d34c3efd"
+    },
+    "by-name/fpf.json": {
+      "kind": "file",
+      "size": "2004",
+      "sha256": "sha256:0e9eb2de2244070ad50ff792ff1afb2220bc649ccb1ab2b456d75fc41b23c086"
     },
     "by-name/fractality.json": {
       "kind": "file",
@@ -246,9 +431,14 @@
       "size": "1644",
       "sha256": "sha256:c55455d9b53b9c38bd90c7380f78217b803b0a3aec986036fa41d356af4f9b4d"
     },
+    "by-name/zap.json": {
+      "kind": "file",
+      "size": "3179",
+      "sha256": "sha256:af8ed65763b933172b49f39c614323c92606342185884c1c3769a8ac54190354"
+    },
     "by-purl": {
       "kind": "directory",
-      "entries": 2
+      "entries": 3
     },
     "by-purl/pkg--github--github--spec-kit--1.0.6.jsonl": {
       "kind": "file",
@@ -260,15 +450,20 @@
       "size": "144",
       "sha256": "sha256:0bec60e09d088d53655252830ba937684ede5ffab5d3c34cc472ee2755f024bc"
     },
+    "by-purl/pkg--github--vibevm--zap--1.0.0.jsonl": {
+      "kind": "file",
+      "size": "134",
+      "sha256": "sha256:44270b01177aa64deed32e193e4cd3b8aba09c3004119900f5187c17daeea092"
+    },
     "primary.jsonl": {
       "kind": "file",
-      "size": "47112",
-      "sha256": "sha256:49fc808a54abaaf20845f9f67e6394136f2befd5265c854d77145795155c639c"
+      "size": "89326",
+      "sha256": "sha256:d6042e45c41505e78b14646ea76eee0e246418a2b06eae708d0a94aac5fa007c"
     },
     "primary.jsonl.gz": {
       "kind": "file",
-      "size": "10206",
-      "sha256": "sha256:2281e638421a02ce3624894885a01aaf0b7edd073eb931f30db6de9b4eabb309"
+      "size": "15484",
+      "sha256": "sha256:191dbdd81aa5c3219da36a21bc21397655019761f0e0dc06d6adaa7796b61309"
     }
   }
 }

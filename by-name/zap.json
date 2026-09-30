@@ -1,0 +1,101 @@
+{
+  "indexed_at": "2026-09-30T06:23:07.041964200Z",
+  "name": "zap",
+  "packages": [
+    {
+      "group": "org.vibevm.world",
+      "indexed_at": "2026-09-30T06:23:07.041964200Z",
+      "name": "zap",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:35b65a90e9b2912cd3870ace9f594ec61babd920fe070e80b579a4ede9135e23",
+          "files_count": 507,
+          "group": "org.vibevm.world",
+          "indexed_at": "2026-09-30T06:23:07.041964200Z",
+          "indexed_by": "vibe-index 1.0.0",
+          "kind": "flow",
+          "name": "zap",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.world.zap.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/13-flow-zap.xml",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "Adaptive campaign runtime with explicit uncertainty, owner-defined stops, trusted control, replay, graph queries, and durable execution",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "planning",
+            "campaigns",
+            "facts",
+            "observability",
+            "decisions",
+            "recovery",
+            "lowering",
+            "runtime",
+            "backend"
+          ],
+          "license": "UPL-1.0",
+          "requires": {
+            "packages": [
+              "lang:org.vibevm.ai-native/rust-ai-native-lang@=1.0.0"
+            ]
+          },
+          "resolved_commit": "12e9e5b1b39ccbbd79a5ab484be943201b6aaf20"
+        }
+      ],
+      "latest_stable": "1.0.0"
+    },
+    {
+      "group": "org.vibevm.zap",
+      "indexed_at": "2026-09-30T06:23:07.041964200Z",
+      "name": "zap",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:8f7c002fcc3cc1daa9ec81d16bcfb212958fab95affdd9da452a9068cf7b5f72",
+          "files_count": 3,
+          "group": "org.vibevm.zap",
+          "indexed_at": "2026-09-30T06:23:07.041964200Z",
+          "indexed_by": "vibe-index 1.0.0",
+          "kind": "flow",
+          "name": "zap",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.zap.zap.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "bridge": true,
+          "compatibility": {
+            "min_vibe_version": "1.0.0"
+          },
+          "describes": "pkg:github/vibevm/zap@1.0.0",
+          "description": "Published bridge to the Zap user application source and verified releases",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "zap",
+            "agents",
+            "application"
+          ],
+          "license": "UPL-1.0",
+          "resolved_commit": "a4b05671b6eff780275e8d2ce93a6d7e92e54787"
+        }
+      ],
+      "latest_stable": "1.0.0"
+    }
+  ]
+}
