@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-10-31T10:33:03.011521759Z",
+  "indexed_at": "2026-10-31T11:45:52.049094977Z",
   "name": "omnichannel",
   "packages": [
     {
       "group": "org.vibevm.world",
-      "indexed_at": "2026-10-31T10:33:03.011521759Z",
+      "indexed_at": "2026-10-31T11:45:52.049094977Z",
       "name": "omnichannel",
       "versions": [
         {
           "content_hash": "sha256-tree/1:a6554fa5f09619a13c04be29e81f4d610a123f454dc4f01479f49c8b0a2b83f4",
           "files_count": 5,
           "group": "org.vibevm.world",
-          "indexed_at": "2026-10-31T10:33:03.011521759Z",
+          "indexed_at": "2026-10-31T11:45:52.049094977Z",
           "indexed_by": "vibe-index 1.0.8",
           "kind": "flow",
           "name": "omnichannel",

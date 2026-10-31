@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-10-31T10:33:03.011521759Z",
+  "indexed_at": "2026-10-31T11:45:52.049094977Z",
   "name": "decision-records",
   "packages": [
     {
       "group": "org.vibevm.world",
-      "indexed_at": "2026-10-31T10:33:03.011521759Z",
+      "indexed_at": "2026-10-31T11:45:52.049094977Z",
       "name": "decision-records",
       "versions": [
         {
           "content_hash": "sha256-tree/1:73a4013beb9920113723cb2fb7eed2737c91c39ba9d3015f6816283416c6a6fc",
           "files_count": 7,
           "group": "org.vibevm.world",
-          "indexed_at": "2026-10-31T10:33:03.011521759Z",
+          "indexed_at": "2026-10-31T11:45:52.049094977Z",
           "indexed_by": "vibe-index 1.0.8",
           "kind": "flow",
           "name": "decision-records",

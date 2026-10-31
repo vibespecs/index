@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-10-31T10:33:03.011521759Z",
+  "indexed_at": "2026-10-31T11:45:52.049094977Z",
   "name": "dev-runtime-docs",
   "packages": [
     {
       "group": "org.vibevm.world",
-      "indexed_at": "2026-10-31T10:33:03.011521759Z",
+      "indexed_at": "2026-10-31T11:45:52.049094977Z",
       "name": "dev-runtime-docs",
       "versions": [
         {
           "content_hash": "sha256-tree/1:c006b2a93b717fb71459dde404b08ce33d092e9514f4e27a2f350f21d78dad9d",
           "files_count": 5,
           "group": "org.vibevm.world",
-          "indexed_at": "2026-10-31T10:33:03.011521759Z",
+          "indexed_at": "2026-10-31T11:45:52.049094977Z",
           "indexed_by": "vibe-index 1.0.8",
           "kind": "flow",
           "name": "dev-runtime-docs",

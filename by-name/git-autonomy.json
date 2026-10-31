@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-10-31T10:33:03.011521759Z",
+  "indexed_at": "2026-10-31T11:45:52.049094977Z",
   "name": "git-autonomy",
   "packages": [
     {
       "group": "org.vibevm.world",
-      "indexed_at": "2026-10-31T10:33:03.011521759Z",
+      "indexed_at": "2026-10-31T11:45:52.049094977Z",
       "name": "git-autonomy",
       "versions": [
         {
           "content_hash": "sha256-tree/1:a4257fd33b740d36f02805ab9cc997c3c447bfbc29abf0915f38fd34bbb9f3b3",
           "files_count": 5,
           "group": "org.vibevm.world",
-          "indexed_at": "2026-10-31T10:33:03.011521759Z",
+          "indexed_at": "2026-10-31T11:45:52.049094977Z",
           "indexed_by": "vibe-index 1.0.8",
           "kind": "flow",
           "name": "git-autonomy",

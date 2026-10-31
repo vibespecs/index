@@ -3,10 +3,10 @@
   "registry": "vibespecs",
   "registry_url": "https://github.com/vibespecs",
   "naming": "fqdn",
-  "generated_at": "2026-10-31T10:33:03.011521759Z",
+  "generated_at": "2026-10-31T11:45:52.049094977Z",
   "generator": "vibe-index 1.0.8",
   "package_count": 87,
-  "version_count": 88,
+  "version_count": 87,
   "files": {
     "by-cap": {
       "kind": "directory",
@@ -19,437 +19,437 @@
     "by-name/addressable-specs.json": {
       "kind": "file",
       "size": "1664",
-      "sha256": "sha256:ed06ff65bcc31c023e42b7dce60e98b189588105bb0f56267788c094a54d1310"
+      "sha256": "sha256:73d2efc6e55b32136d4950daea088dea460b6f6198f6e2397872462d16951a5b"
     },
     "by-name/campaign-plans.json": {
       "kind": "file",
       "size": "1682",
-      "sha256": "sha256:a6265f2771b563a6def827d941ed1e1a67054dfa75e395e44ed5b81d4583ffce"
+      "sha256": "sha256:5a02f3288e08b296511d20fff172fa361162faed4839a210ede4d7242eaed909"
     },
     "by-name/comparative-research.json": {
       "kind": "file",
       "size": "1679",
-      "sha256": "sha256:d3807089827d1aca924176207dc1c695e726b7266980e3a28ef5ddfa31d3a7c2"
+      "sha256": "sha256:29edb4a315a52cc9bbdb24f2209f5e1522ec756a6c418f56f1402e30969ec096"
     },
     "by-name/conflict-protocol.json": {
       "kind": "file",
       "size": "1692",
-      "sha256": "sha256:905868d3ddf665930d145cf896e42868504290946fe9b10141cbe865b6477572"
+      "sha256": "sha256:c0fce56fad19263e345ca0b456764df870543a8a1c9d95ec3c0da377b84f1a1b"
     },
     "by-name/core-ai-native.json": {
       "kind": "file",
       "size": "1749",
-      "sha256": "sha256:d0a743a4dd70c397011123a208c8c6c2f2f0f458a87ae3fffa3b2cf5630698e4"
+      "sha256": "sha256:15ff92b0d0abd2d750afbcbee48d93b274e3ff20e6b862c6c69cbaa107d32535"
     },
     "by-name/decision-records.json": {
       "kind": "file",
       "size": "1632",
-      "sha256": "sha256:f92d99137b27cc6da0cf067a2adf2143c54b54646b33385c460364ad508018cc"
+      "sha256": "sha256:78de76eae322a582fc3ec9a3d441b7e60d8688e76a2349062922518a20e96bdf"
     },
     "by-name/delegation-first.json": {
       "kind": "file",
       "size": "2021",
-      "sha256": "sha256:cacc71a8dc2114e3c19fb0734b116056551f2accea1b0fdd283d16d59e9fca18"
+      "sha256": "sha256:7ebcee5cc60db05111fce08ba87846d794df6883ad1d450fca3ecf95483ce107"
     },
     "by-name/delegation-rules.json": {
       "kind": "file",
       "size": "1919",
-      "sha256": "sha256:2a02c2db194c16bb17174db4967cd92fdcd8a5f48c9509ecf098430860b809ec"
+      "sha256": "sha256:e9698eb6dc457dfa36696b52c7a66042b6515325031a2f23620f91570d6d5725"
     },
     "by-name/dev-runtime-docs.json": {
       "kind": "file",
       "size": "1672",
-      "sha256": "sha256:c9e30ab6bd13c9b39bf331c3573ac44471e7537443a4c0c88838b57b3dbded6d"
+      "sha256": "sha256:b0d852e4fa3eaf7245bcec57422b7adfafdf53844f308ce791c9f1a9f060ee82"
     },
     "by-name/discovery-prompt.json": {
       "kind": "file",
       "size": "1694",
-      "sha256": "sha256:dda9b2b87b457cf81b89a52d17ecf379c25b9f039aa5a55cf9c94321d0fa1b14"
+      "sha256": "sha256:b4f3f0411f9c003613c3ca34b7279b32b0cdd8f2fd77cae44373ae9dcebb4852"
     },
     "by-name/fpf-common.json": {
       "kind": "file",
       "size": "1690",
-      "sha256": "sha256:cc8d1bab757c631043b1c6b5dd3cf2711b853a8cf5684cd734af548fe55784c3"
+      "sha256": "sha256:9be03899a82b346e0b99ef656e878b98c0589bd3f574d0fc64f6ee1ba153a818"
     },
     "by-name/fpf-eng-adm.json": {
       "kind": "file",
       "size": "1927",
-      "sha256": "sha256:52d99e1c148687b3687832c95a443be5adfa182d75f6100fb2a25c6fbab803aa"
+      "sha256": "sha256:df6b85d3f9b5dac7363edfc3e5607b65ae019c028616790a8b87e4e2ebab85fb"
     },
     "by-name/fpf-eng-cb.json": {
       "kind": "file",
       "size": "1902",
-      "sha256": "sha256:95750eed4527f1738ead3f9558711b1ded9d5b69b02c14e6234fb06327535ab2"
+      "sha256": "sha256:bae6425787030a2dc23c6473bede3ba50779ebd36cc736d0e6001c99018abc1e"
     },
     "by-name/fpf-eng-cgov.json": {
       "kind": "file",
       "size": "1920",
-      "sha256": "sha256:2080d7d0f3db2581794179ac04c0b999f792294e1286dc8198d8b190fb87040a"
+      "sha256": "sha256:38c75f0ecb6c1cf69075ae61fd5578bc87d425024033027051d824f296bbccb0"
     },
     "by-name/fpf-eng-chk.json": {
       "kind": "file",
       "size": "1875",
-      "sha256": "sha256:b468472a436e0a7ed3e8ede5556f062295d04c2e049dc22d636486a99839404e"
+      "sha256": "sha256:c1dbe7f2f6acdb23c8d0cdeb59971fda022ea60f92926443a48b5c5484d3bef2"
     },
     "by-name/fpf-eng-doca.json": {
       "kind": "file",
       "size": "2001",
-      "sha256": "sha256:41285a13adc5f577827a8bdc53438f57c88d1135ddf7bffa61a98a6cc85a2157"
+      "sha256": "sha256:e3fa3295c07e19740f67392e26c4a0a560c6f2b6a70ab59701de3ac640049ffa"
     },
     "by-name/fpf-eng-dtm.json": {
       "kind": "file",
       "size": "1932",
-      "sha256": "sha256:cc6d228d9c21bdc124195a65212c2872133623bf8b4152fbe46a34b3795916b2"
+      "sha256": "sha256:dad9948ae3e29ade7eb65662acc302f6bb31a5be375b7420ccc091eacb647057"
     },
     "by-name/fpf-eng-eam.json": {
       "kind": "file",
       "size": "1944",
-      "sha256": "sha256:6892318a0a67cfb72b89ba241415b4d3b6aea5d235d6b1f8891fb4f14381dad6"
+      "sha256": "sha256:889d43351db121c905da56ae9be697e19d0666111cd8b963872f340a65a1a9c4"
     },
     "by-name/fpf-eng-eco.json": {
       "kind": "file",
       "size": "1954",
-      "sha256": "sha256:4475a5db5669cc244531da2bde6f8b8a49e9b77975ab5110cb1e9717031e8156"
+      "sha256": "sha256:647d0af93eb6b1d7bcc701898249c3806b277993569b15a75a1e11df013bc7f8"
     },
     "by-name/fpf-eng-exd.json": {
       "kind": "file",
       "size": "1908",
-      "sha256": "sha256:cd3b5ecf32442afaff9260c74deab86850eaa3e25b479827549892b8eb4818fb"
+      "sha256": "sha256:7fddb0f76b1e279f2c3bc4431a5936c1268e37e4aaca937962910062738e6a41"
     },
     "by-name/fpf-eng-fdm.json": {
       "kind": "file",
       "size": "1937",
-      "sha256": "sha256:b996a45aad79411c17be5fc6a22e8ac396ae2df14f2331d382f2ef621e6dd06e"
+      "sha256": "sha256:5aad05291cd2316abb68a09bad1233511adf243c86e16f1b82b3ea923762a8e1"
     },
     "by-name/fpf-eng-fin.json": {
       "kind": "file",
       "size": "1907",
-      "sha256": "sha256:b15caa2f12f0a999e7495b86bdc94a96b62d773f8bd56cfebcf3646f76c61691"
+      "sha256": "sha256:e671c7e19f258a6395508e2dcfed924392da8ce71c8121367786f4f80b9f8e03"
     },
     "by-name/fpf-eng-hcd.json": {
       "kind": "file",
       "size": "1944",
-      "sha256": "sha256:052ae2bb2a4e4028f64cfda40734cf870bea2948d6ee47f8a504c681fc4b9c24"
+      "sha256": "sha256:bea2f17c6fefb741fbc1078df1f1bc0acaa7d82d9952a731dc57f88db3816269"
     },
     "by-name/fpf-eng-ma.json": {
       "kind": "file",
       "size": "1907",
-      "sha256": "sha256:e8242046c9e4856cf9aaeac4d52a2eda9319d370b490c7c1295c5c00e459e69d"
+      "sha256": "sha256:15dc88cd6166d98fcb867acad3d93c005c243158d5a6e57cbd4d2bc418c9f2e9"
     },
     "by-name/fpf-eng-mdpe.json": {
       "kind": "file",
       "size": "1951",
-      "sha256": "sha256:4c38a69a53a0aab5a728152daeb2d81da8ceb493ef5528bce39d0f0111832adf"
+      "sha256": "sha256:78b2e0f6cd6fb961c4065cd94f02dabefdbc43d34a371b9e3544f68656b67b2c"
     },
     "by-name/fpf-eng-me.json": {
       "kind": "file",
       "size": "1902",
-      "sha256": "sha256:b0feb3d7f9029c608285f90ca108a6a7e05d842dd432cdebe16304d9d70c28a0"
+      "sha256": "sha256:302c2c2b4c8fadda93b21514376d2c23ba955c79b5395110c1324046ab91e7c3"
     },
     "by-name/fpf-eng-mkt.json": {
       "kind": "file",
       "size": "1876",
-      "sha256": "sha256:e1629f5df8861dd241141bdcc90c16b3cab3f6fb14f331c503259d7acf186f37"
+      "sha256": "sha256:24fcfc2e31b9992ebf47efe12963503a78b7f90a5735e9112491e3a9fb5637a4"
     },
     "by-name/fpf-eng-mnt.json": {
       "kind": "file",
       "size": "1960",
-      "sha256": "sha256:1841738cb0be94f619e63908db62bc08261506ed617427c2dfcd897e85c384d4"
+      "sha256": "sha256:1ac363967af01bc08864752fe73fb663dc71dd305b1aec2c66d85682e65beda5"
     },
     "by-name/fpf-eng-oce.json": {
       "kind": "file",
       "size": "1950",
-      "sha256": "sha256:c86fcf7a400b9d93c9786d95d90b754b8b002779a4a6e46e91788aab50b2bc5c"
+      "sha256": "sha256:2ac7f23700a31c70168fa23dcd6943a671cf3f29ad34cd247292d3bafb1a2633"
     },
     "by-name/fpf-eng-ops.json": {
       "kind": "file",
       "size": "1915",
-      "sha256": "sha256:592933da90a31a9c2e90878e4097a24781268812fc809045fb6c784fe555fa8f"
+      "sha256": "sha256:cc9332ae269347041dda01935ca5fcd052405bd4c06c6eef2fb41ae45b451d99"
     },
     "by-name/fpf-eng-psd.json": {
       "kind": "file",
       "size": "1956",
-      "sha256": "sha256:fbbe3ef2e12b1cc3071091bd5e9e47c867d926b3e864b7194a0246652156cf3f"
+      "sha256": "sha256:51b994a600d2eec4abdebc6adf43f0fc20ed78e14b6777a2b6474d0c472aec00"
     },
     "by-name/fpf-eng-rhy.json": {
       "kind": "file",
       "size": "1909",
-      "sha256": "sha256:85ce7836b67ada59c8272f8c9d06efa421f9621bb350cbb738a0922134baeb59"
+      "sha256": "sha256:322992a1e2b6bfa82152f92f327ffaa27232a6faa615862638dbfd16548b4808"
     },
     "by-name/fpf-eng-rmp.json": {
       "kind": "file",
       "size": "1935",
-      "sha256": "sha256:869430f4535677c555cdbaa4f36f7203b13609cac45d8aedc4043b26a7e7524d"
+      "sha256": "sha256:3b1bdb5facb47b48a8151f4cf474699c5d473a258ec387e5a5dc0b5e9438d3c7"
     },
     "by-name/fpf-eng-sie.json": {
       "kind": "file",
       "size": "1952",
-      "sha256": "sha256:cc6354ff2fc0e5755e07324301e4fbec96e081fc2f64b2080d931d35f06b44d8"
+      "sha256": "sha256:b6e68f1c665ba620044e0aa427079cbf066a382c6a0ba5f6b5bd6542397c891a"
     },
     "by-name/fpf-eng-som.json": {
       "kind": "file",
       "size": "1920",
-      "sha256": "sha256:2de46ea2186fff98a74f9243d2f01751a0cad1d7d7beb5773090da9820a0c9e7"
+      "sha256": "sha256:39f962057de4bf6bcf553f64da5113c3042d18e717723217c552f8c3f33c06e1"
     },
     "by-name/fpf-eng-str.json": {
       "kind": "file",
       "size": "1874",
-      "sha256": "sha256:a12a5e8a2a03a1032556a1f6a0a50768cf470ac2a16c0676bfa0462ef41306b5"
+      "sha256": "sha256:f3d7aab7bdd4d493af4b562a317d8e176cf7ee671036abf83d3b75d379bdcb73"
     },
     "by-name/fpf-eng-syse.json": {
       "kind": "file",
       "size": "1919",
-      "sha256": "sha256:16f78e91cde5ac34089b75ae560b6b3ba11337b0c1d8f7d4527db959a8eacc5a"
+      "sha256": "sha256:81884f949abb7a24f13dbbccd7849a9aad9f4c437be22853afdd4cbe4c03fd82"
     },
     "by-name/fpf-eng.json": {
       "kind": "file",
       "size": "3023",
-      "sha256": "sha256:0c2c746ca726e0a1acb56829b43ed35159ba7cf4cb637f14f0ca3aef91d3b438"
+      "sha256": "sha256:2df71a292f88bb1ce029f914deeafeb1529b1a9ac3042d4afcd10adc93e087b9"
     },
     "by-name/fpf-mcp.json": {
       "kind": "file",
       "size": "1359",
-      "sha256": "sha256:b600a7763cc68d08aa473a7fc8149bf51ba61d30f5b0abe87cbcf34f8d4e8243"
+      "sha256": "sha256:d37701fe387dfa273bf43c702f0e53bdd9a83d18b7c0e14d146df2b463bf4ae8"
     },
     "by-name/fpf-nstd.json": {
       "kind": "file",
       "size": "1925",
-      "sha256": "sha256:21d6bfcb94981830ba7b595e985070cc9983fb63c872bf2305db8822194edfb4"
+      "sha256": "sha256:233a4987217a82c6c4cf75f3fd7b59fe78cee11f4732dcdc3300ebc35520056b"
     },
     "by-name/fpf-spec.json": {
       "kind": "file",
       "size": "1873",
-      "sha256": "sha256:398b9483e299ca92c4936f50a74db3640a9b133236e09e74bf1fb449029f5e5d"
+      "sha256": "sha256:370e192ecccd958bc11bfab0233d9eae5e04c0e7e1e1306d5c6ffc39f3d7e45f"
     },
     "by-name/fpf-think-cmp.json": {
       "kind": "file",
       "size": "1912",
-      "sha256": "sha256:2e074f88c9e7b3389dd4a03948dae0b5ad09ccb6c9c1c4d9349332f3c01e8e80"
+      "sha256": "sha256:56ae126fcf8b4bd6664c802fd771fc4eb14579aa488f5dcd97438ee99c15e6b0"
     },
     "by-name/fpf-think-math.json": {
       "kind": "file",
       "size": "1917",
-      "sha256": "sha256:097bab7b14f744d229751a697b4b9436f6b85a10190c46cadcf7843e0b0065f6"
+      "sha256": "sha256:3aaecfbe54044a186f918608fb9b16be315333ca38c57e03009158f99811d301"
     },
     "by-name/fpf-think-mmp.json": {
       "kind": "file",
       "size": "1910",
-      "sha256": "sha256:4f906d950a452cd203e4030f2693e30ef68922e5184e5f64d3e968c490ea91e2"
+      "sha256": "sha256:2b649bb950f74b4e9fe18111c38c993ac580b4d050ffbd65965b40ebddc5333d"
     },
     "by-name/fpf-think-not.json": {
       "kind": "file",
       "size": "1911",
-      "sha256": "sha256:acba89116a86b0f63212c6bba1de6f2535552a1fb2b1aa766fd72e65b66a165f"
+      "sha256": "sha256:971f231dcb4b9db5837d6c6f9275038aa45395a58477dc46ab03a32fdf1c1555"
     },
     "by-name/fpf-think-phy.json": {
       "kind": "file",
       "size": "1902",
-      "sha256": "sha256:f382e940a83f6888833da6456ec63f50e9109effbd8c08b5f82a60481408b6b3"
+      "sha256": "sha256:84bf652aaaa2867eabca4e8c01a1ac01850a0580842fb3b6747da6d72c08e1b8"
     },
     "by-name/fpf-think.json": {
       "kind": "file",
       "size": "2045",
-      "sha256": "sha256:a5ed8741a3bb7d84dc0f5bdcf5729a1a26360c7396af207bba892910c6da4bcf"
+      "sha256": "sha256:2adf97f568417855511699f958aef1ccdfbcb242662db40000d764011488c44f"
     },
     "by-name/fpf.json": {
       "kind": "file",
       "size": "2004",
-      "sha256": "sha256:1c80d13f14f154205b3dfcaf9572ce7e79ddcb1167a494b2ff91a5eba10a3c1d"
+      "sha256": "sha256:8fe3da03abd6d75800c5fe4f6f746573e85d371ee4c9b411bbc5d956b2071f7a"
     },
     "by-name/fractality.json": {
       "kind": "file",
       "size": "2181",
-      "sha256": "sha256:e76531070f01be47c5562d64dff5c78a81e65043bee5a4eba0f4bdedcea7075f"
+      "sha256": "sha256:72704095afc3f2797c9547b712bd2ec12a2bbb03e048a53430c152e415dd900e"
     },
     "by-name/git-atomic-commits.json": {
       "kind": "file",
       "size": "1756",
-      "sha256": "sha256:a9de8b7667339ee34bca9e6779cb6f0c360e0775c5c498c11f26178d8bf95a5d"
+      "sha256": "sha256:59affffc4487c34eb4ebeaa03031f5b288cac442de04bbd2fc023dcf304c8a68"
     },
     "by-name/git-attribution-policy.json": {
       "kind": "file",
       "size": "1706",
-      "sha256": "sha256:ff8754ec812d7d549c5add0d5dc553b6c225def2c901919ed2f4f28733aff971"
+      "sha256": "sha256:2d2a9d13b76c762f7f450ecade5e267e0f97ed3fba72bc8167d6304cdb723b71"
     },
     "by-name/git-autonomy.json": {
       "kind": "file",
       "size": "1731",
-      "sha256": "sha256:2082010daae6db5d56432244e82ae558a446ae9e4042d8a0944a6aa9a882898f"
+      "sha256": "sha256:b5d9815a767c2223a2ffbb41934931c92f44b5db2097d01f1d909ec569796bc4"
     },
     "by-name/git-conventional-commits.json": {
       "kind": "file",
       "size": "1754",
-      "sha256": "sha256:df8a1b09a9da5dc0faf002af1a34448342b7ef5c5f7206f3149d105ffc2204de"
+      "sha256": "sha256:f47490e428c1e02e23baae99d0f58300711d5ecbdee685cd7bc15211c1c3e317"
     },
     "by-name/git-practices.json": {
       "kind": "file",
       "size": "2053",
-      "sha256": "sha256:e4ff2cf85330bc57b845e1804c3974316b8e5a3be2bc97bc62ed36af7869f287"
+      "sha256": "sha256:8275ed028d874656df68078a51e378919547a20a464de869dd462f7fc8a81813"
     },
     "by-name/go-ai-native-lang.json": {
       "kind": "file",
       "size": "1960",
-      "sha256": "sha256:ccc9a5340a1809530d24f11f2ad2b26f474de51334011e83ffa44ff911b52289"
+      "sha256": "sha256:6bd2101f5c4505c306b1bac75685213f40b3888f2bc6cae08b28d77bcb081501"
     },
     "by-name/go-ai-native-mcp.json": {
       "kind": "file",
       "size": "1716",
-      "sha256": "sha256:c7ba7b14ba97a3c20178113a0a9eba4bcc3b98513e31ba210c07d11ba2e4712e"
+      "sha256": "sha256:e79eea474534285ea1419c22c5638e06199a9b4f7fa8f999f045e2826f4b0ae3"
     },
     "by-name/go-ai-native.json": {
       "kind": "file",
       "size": "1930",
-      "sha256": "sha256:bcbd96d3aae3a22f8178f8e377502f4ba5c99094b28c1a58cb39b54e76f78319"
+      "sha256": "sha256:c28b635820e8bf39d9d870f2848bec8372faf88f60854bfef05667ef05845d30"
     },
     "by-name/health-audit.json": {
       "kind": "file",
       "size": "1642",
-      "sha256": "sha256:96368dca1392174999c631bed749d42f81658a94a08d0bed66963f8ace72171c"
+      "sha256": "sha256:7f5b4f001545038ff28867e6bf57ff5e7454b857c5504afa96d4cecac8dbca78"
     },
     "by-name/jtd-codegen.json": {
       "kind": "file",
       "size": "1652",
-      "sha256": "sha256:69762fdd9dd509ee4caff1595e2a8a343b861f8baf618286bf68224bb97fafa3"
+      "sha256": "sha256:34ff5e6dbf2e56769fe149f44ee27a4fbfaa35f88d5a9ede5731aaeb25777dad"
     },
     "by-name/licensing.json": {
       "kind": "file",
       "size": "1635",
-      "sha256": "sha256:2bce38a052f2bb7cfc44cb183bfaaf4277a765ff20e31dabf46f6c588f7ec16b"
+      "sha256": "sha256:f435b42a7a6d1ba02426276828214ae2a2d7c57d47c2ee8e1830fc9eb51cf426"
     },
     "by-name/managed-blocks.json": {
       "kind": "file",
       "size": "1672",
-      "sha256": "sha256:16e293d43a1fe9bf96f4524e0d9a25e4b963db650fbc26961cef2c9a750439e8"
+      "sha256": "sha256:a314cdf14a92d85b02d0fc63cdd533d97aded4acf0bb0aaa9cbcc55bd4d95fc5"
     },
     "by-name/manual-tests.json": {
       "kind": "file",
       "size": "1630",
-      "sha256": "sha256:8863a713b76fa14debb393de807619964d08c0c65c364a493659eb78e0115a4d"
+      "sha256": "sha256:ea95b7120654a7c4142b6976f9249919064a39352f30b7fa66441e42255b560c"
     },
     "by-name/mingw-w64.json": {
       "kind": "file",
       "size": "1444",
-      "sha256": "sha256:edb62228478212d7f61bfe23ee6930338a50ad154b36755000f126f80ed15f2e"
+      "sha256": "sha256:d63346b14d7eb3d645953492312718cb6c0ce99db930bb4f8d18ee764e1d92d7"
     },
     "by-name/multi-user-planning.json": {
       "kind": "file",
       "size": "1797",
-      "sha256": "sha256:8fd7a70459b1b9f3494a9a44781105b6c5af16c3f714b947edb07c5d609861bd"
+      "sha256": "sha256:ba7dd5f3d84fcf8b454b6cf271f31638a87ba6d894bb874a55e5967d3e48140b"
     },
     "by-name/omnichannel.json": {
       "kind": "file",
       "size": "1705",
-      "sha256": "sha256:3a72318e6df27e4740f49998c33e03311ab69fa0bd3d2d00a35ecaca4e2be4fa"
+      "sha256": "sha256:7fe997a2cd5d35acbda0a32c3710717f8ff7c0c2879ace13f4eaee8a24d948b5"
     },
     "by-name/operating-modes.json": {
       "kind": "file",
       "size": "1642",
-      "sha256": "sha256:e8625fbf3c7ab53117c4bdc9bce719b706ecfb4eca2798a127486571814d6732"
+      "sha256": "sha256:31482a4b88d89e47221fea5fcdd4c51b7f69fc5fc0919ff6322dbc7d8da3c2d5"
     },
     "by-name/qualified-naming.json": {
       "kind": "file",
       "size": "1672",
-      "sha256": "sha256:8812434683b04a2333d5d900266a48d9ee44610e0b3e5ec0ffb581ac7ca7ded0"
+      "sha256": "sha256:8d32b7e8093a82ef1538d1ad4f131cc6f51deb3b1251ae0f1a1976871db03f2c"
     },
     "by-name/redbook.json": {
       "kind": "file",
       "size": "3001",
-      "sha256": "sha256:2ad49e3f1c02e18c0092ec683a6b28dc6b7bf0d9270e0363e8e8386c9cd58f9b"
+      "sha256": "sha256:54b7710cefede8b82ac17b86e3689ed2e2c42a16d6a49703f638c676a4f8f3d3"
     },
     "by-name/rust-ai-native-lang.json": {
       "kind": "file",
       "size": "1857",
-      "sha256": "sha256:8b41031140aae9677851a8d535fc20d174add1d81c41bd1340fe9287d22121a4"
+      "sha256": "sha256:cf2ea73c5e7bd51cea467b4e67fc6f2575167710176aa0ee0ddad0671c2a943f"
     },
     "by-name/rust-ai-native-mcp.json": {
       "kind": "file",
       "size": "1710",
-      "sha256": "sha256:e5e1a61efc5bb4fe616fab3495c1265c5e40e839477c90d7536e71abaa8bf42b"
+      "sha256": "sha256:00d69f066b3d50c65b8c3afd6919798b55706b7b8293f2275999209d778a8e68"
     },
     "by-name/rust-ai-native.json": {
       "kind": "file",
       "size": "1928",
-      "sha256": "sha256:6c1d46fee651a13876fb411812f25d34deb23d64fa6001ad50545a1f831ed1c6"
+      "sha256": "sha256:4f700af0f19dedfee3bfbf28c09c78beec2859a96f9bdd54a61f265e0fb4576a"
     },
     "by-name/secrets-hygiene.json": {
       "kind": "file",
       "size": "1659",
-      "sha256": "sha256:f33af1534d7bd745f1f93d4d695bb1e9e4281d3d8af67355766603b48dc7f440"
+      "sha256": "sha256:7f533d5b33cbe59119907a0c654664a02c69ece95e76f06df6a26e11e58bd573"
     },
     "by-name/skills.json": {
       "kind": "file",
       "size": "2151",
-      "sha256": "sha256:0fadaf06e9480e15a1e15ed27e70637140660b830bd1cf10ed6818cdbceac773"
+      "sha256": "sha256:2a4c8d1b6233422bd442e672a0daf45c0c2ebe0e02d84e614d7128202ee4f739"
     },
     "by-name/source-mirrors.json": {
       "kind": "file",
       "size": "1646",
-      "sha256": "sha256:a980229502d56879e78e76d897d62544b464cea402a087e716a96a179a1544b9"
+      "sha256": "sha256:268644c4b4367123372c6002b88ef72d4d3d258f79bb29bac4b1754b6fe4be99"
     },
     "by-name/spec-genres.json": {
       "kind": "file",
       "size": "1636",
-      "sha256": "sha256:2097e406bf3c9afd8ecb2aedb394601ffba24be06f57165cec86f11806c478dc"
+      "sha256": "sha256:fe41760408fe0dc86cb18b50bcee5c26ee5621b70263f86631ae813cde2aeb70"
     },
     "by-name/speckit.json": {
       "kind": "file",
       "size": "2140",
-      "sha256": "sha256:5e7d042bdd1d3873473348ac00115f02fc018530458e7757c4c00019ff855065"
+      "sha256": "sha256:1722f9d3f5de3edaa80b141c207146c5ebbbd5cf9fb544c0b715b507da8b2dde"
     },
     "by-name/sync-from-code.json": {
       "kind": "file",
       "size": "1579",
-      "sha256": "sha256:8b66466ef87076c2c6c2610f7e3cfdd4c4379ec91310a9646d61746f18ccd787"
+      "sha256": "sha256:08be72e16447230951c6ef12172dac0123cc3cf3364ba72464fb9ab9223d5a3f"
     },
     "by-name/tool-design-lessons.json": {
       "kind": "file",
       "size": "1701",
-      "sha256": "sha256:84046a9fdc85d2a4e579ec5a1a04789a07272f6d34ecac20c2098fe2a1a61192"
+      "sha256": "sha256:b2a9a958fd6369f721a434ad29ac6623210a5c4d914febd38d8c3e6a391fbf5a"
     },
     "by-name/two-process-model.json": {
       "kind": "file",
       "size": "1664",
-      "sha256": "sha256:0895046e4fb2edb841b5b6837cdbf82a70e55a0738d23c54603fd3fa2c3de75b"
+      "sha256": "sha256:c33556095f08176afdc93c468b802237309643a4c1de07e812ed566fe93b7e04"
     },
     "by-name/typescript-ai-native-lang.json": {
       "kind": "file",
       "size": "2005",
-      "sha256": "sha256:44aa96a504c04911d1ee07d3b68d6a02bcfa5fc9fd47a502090717684ee7705b"
+      "sha256": "sha256:e8edf3ab9393ad6289db033ddd910fb4f3081bdb6c97455cccbbfbebe708685b"
     },
     "by-name/typescript-ai-native-mcp.json": {
       "kind": "file",
       "size": "1758",
-      "sha256": "sha256:574d5f3e82ca640d5d1a3ca94499bec1de6a3841e22ed29a6019a5ee5a402ae1"
+      "sha256": "sha256:a51dca0e64eb09e8a18aa1f9e08026a1c7c8593e55fd38cbae0eb168369c0737"
     },
     "by-name/typescript-ai-native.json": {
       "kind": "file",
       "size": "1988",
-      "sha256": "sha256:38ced8baceb73d7bf8dcb48ddf3ba423653eef7920a0db27e9574019dfaff2c7"
+      "sha256": "sha256:36daa48983bcbcfcfd0f9ae9dcc0e4e4b6f19703d272e9559c77974c4d98bc36"
     },
     "by-name/vim.json": {
       "kind": "file",
-      "size": "2407",
-      "sha256": "sha256:1dc9e735a6e637081a7a592b6b1550e378c9d9a04fecdd1467e4a16b4b508417"
+      "size": "1339",
+      "sha256": "sha256:f0ab1785c5538f45728a97b2355734e5de65c0183072d19a7ce8df1e03d27094"
     },
     "by-name/wal-specspaces.json": {
       "kind": "file",
       "size": "1886",
-      "sha256": "sha256:1def2e66e8f876d2135a63ccb27d7b55d64c3069c3f8ff9588cf2be814ac0fff"
+      "sha256": "sha256:335ce6ee47d866efaf00dc66c2ca241da6b09c9286ea1b3b9edbff5e65f06ae7"
     },
     "by-name/wal.json": {
       "kind": "file",
       "size": "1617",
-      "sha256": "sha256:23bb2807ac550ea8eea7dd56899b03458b461a0ac2c7a681d55455ea34c7e9c2"
+      "sha256": "sha256:8738917e475b524ccecab89ae4ce3d28c5495e29361c4b6989fcd5c7d8f0a4e3"
     },
     "by-name/zai-glm-claude.json": {
       "kind": "file",
       "size": "1644",
-      "sha256": "sha256:df3a568d79d6b5b078d90c8e4204e07dfc79dd9023b4f3ed9a4c4145ff31a475"
+      "sha256": "sha256:d9e169ad9d6268524c1bc6f935112ce363c044de12ea99c8806cfc718fd3491c"
     },
     "by-name/zap.json": {
       "kind": "file",
       "size": "1845",
-      "sha256": "sha256:7f46cb79b47c1344a89b18c3b5b13f9c4b91ffc4c38acb7e5a4b4ab2819e8828"
+      "sha256": "sha256:feaf0c8289e6afcf546ce088b9faa21b27eb0dac972993e97bd1e2f66467dd6b"
     },
     "by-purl": {
       "kind": "directory",
@@ -467,13 +467,13 @@
     },
     "primary.jsonl": {
       "kind": "file",
-      "size": "91470",
-      "sha256": "sha256:6aeeb2d3562ef60913ff7049c2e679d4ed2af0454a137c08e4b1ad871fc6c329"
+      "size": "90772",
+      "sha256": "sha256:2808d3c7f950b6ee5d9a606bc4995cbdf0d373d4f992b840ef36da006453b21a"
     },
     "primary.jsonl.gz": {
       "kind": "file",
-      "size": "15914",
-      "sha256": "sha256:726d279b965a43c8d2331fde506bfca801e358bc7e89a9f5ad538ac57e3bd503"
+      "size": "15837",
+      "sha256": "sha256:b3cfa6b34c6bc6a78e62671bcd2247cb6b241242867e9fab487b082e8a58849e"
     }
   }
 }

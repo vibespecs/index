@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-10-31T10:33:03.011521759Z",
+  "indexed_at": "2026-10-31T11:45:52.049094977Z",
   "name": "go-ai-native-lang",
   "packages": [
     {
       "group": "org.vibevm.ai-native",
-      "indexed_at": "2026-10-31T10:33:03.011521759Z",
+      "indexed_at": "2026-10-31T11:45:52.049094977Z",
       "name": "go-ai-native-lang",
       "versions": [
         {
           "content_hash": "sha256-tree/1:98a5c2292cd684c44d998e609a3024bf6c3970a7d3d0c7fc43eb29ec5fb058ce",
           "files_count": 161,
           "group": "org.vibevm.ai-native",
-          "indexed_at": "2026-10-31T10:33:03.011521759Z",
+          "indexed_at": "2026-10-31T11:45:52.049094977Z",
           "indexed_by": "vibe-index 1.0.8",
           "kind": "lang",
           "name": "go-ai-native-lang",

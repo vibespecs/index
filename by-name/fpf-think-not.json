@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-10-31T10:33:03.011521759Z",
+  "indexed_at": "2026-10-31T11:45:52.049094977Z",
   "name": "fpf-think-not",
   "packages": [
     {
       "group": "ai.lev",
-      "indexed_at": "2026-10-31T10:33:03.011521759Z",
+      "indexed_at": "2026-10-31T11:45:52.049094977Z",
       "name": "fpf-think-not",
       "versions": [
         {
           "content_hash": "sha256-tree/1:4f12f2ed994aa176bd8890ce6c7e65d60f1d6bc5834138a7d6a0dc6de4cf5008",
           "files_count": 30,
           "group": "ai.lev",
-          "indexed_at": "2026-10-31T10:33:03.011521759Z",
+          "indexed_at": "2026-10-31T11:45:52.049094977Z",
           "indexed_by": "vibe-index 1.0.8",
           "kind": "flow",
           "name": "fpf-think-not",

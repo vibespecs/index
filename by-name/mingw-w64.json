@@ -1,25 +1,25 @@
 {
-  "indexed_at": "2026-10-31T10:33:03.011521759Z",
+  "indexed_at": "2026-10-31T11:45:52.049094977Z",
   "name": "mingw-w64",
   "packages": [
     {
       "group": "org.vibevm.apps",
-      "indexed_at": "2026-10-31T10:33:03.011521759Z",
+      "indexed_at": "2026-10-31T11:45:52.049094977Z",
       "name": "mingw-w64",
       "versions": [
         {
-          "content_hash": "sha256-tree/1:207abd019cb4aac1fe441d692c4207520b629c9a41ba85d45dd01fce8a27f35a",
+          "content_hash": "sha256-tree/1:d7da1462a7d40742633dddee5bfb7f2b89b907a214a75429216f7452074b9166",
           "files_count": 9,
           "group": "org.vibevm.apps",
-          "indexed_at": "2026-10-31T10:33:03.011521759Z",
+          "indexed_at": "2026-10-31T11:45:52.049094977Z",
           "indexed_by": "vibe-index 1.0.8",
           "kind": "app",
           "name": "mingw-w64",
           "registry": "vibespecs",
           "schema_version": 1,
-          "source_ref": "v15.2.0",
+          "source_ref": "v15.2.1",
           "source_url": "https://github.com/vibespecs/org.vibevm.apps.mingw-w64.git",
-          "version": "15.2.0",
+          "version": "15.2.1",
           "authors": [
             "Oleg Chirukhin"
           ],
@@ -38,10 +38,10 @@
             "application"
           ],
           "license": "UPL-1.0",
-          "resolved_commit": "e1c5070dd36e480e8ccd3263ca5a39c3c7299b3b"
+          "resolved_commit": "af45ea5c57ec77f2ed1013b2047965f067d84e33"
         }
       ],
-      "latest_stable": "15.2.0"
+      "latest_stable": "15.2.1"
     }
   ]
 }

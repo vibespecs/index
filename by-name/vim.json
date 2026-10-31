@@ -1,25 +1,25 @@
 {
-  "indexed_at": "2026-10-31T10:33:03.011521759Z",
+  "indexed_at": "2026-10-31T11:45:52.049094977Z",
   "name": "vim",
   "packages": [
     {
       "group": "org.vibevm.apps",
-      "indexed_at": "2026-10-31T10:33:03.011521759Z",
+      "indexed_at": "2026-10-31T11:45:52.049094977Z",
       "name": "vim",
       "versions": [
         {
-          "content_hash": "sha256-tree/1:8e17772148bf093fe95f301e3d3e9b75fa03037922324e54b24883e52706f92f",
-          "files_count": 11,
+          "content_hash": "sha256-tree/1:817c6c59f32118ec082389d3dc6cfc59e55358afdf0edd00a83998b59a2332e7",
+          "files_count": 12,
           "group": "org.vibevm.apps",
-          "indexed_at": "2026-10-31T10:33:03.011521759Z",
+          "indexed_at": "2026-10-31T11:45:52.049094977Z",
           "indexed_by": "vibe-index 1.0.8",
           "kind": "app",
           "name": "vim",
           "registry": "vibespecs",
           "schema_version": 1,
-          "source_ref": "v1.1.0",
+          "source_ref": "v1.1.2",
           "source_url": "https://github.com/vibespecs/org.vibevm.apps.vim.git",
-          "version": "1.1.0",
+          "version": "1.1.2",
           "authors": [
             "Oleg Chirukhin"
           ],
@@ -36,41 +36,10 @@
             "application"
           ],
           "license": "UPL-1.0",
-          "resolved_commit": "819fb31d8141efb0dd262bad0a09ebc7a1593c5e"
-        },
-        {
-          "content_hash": "sha256-tree/1:e21a0b28c47832e680275240c0a749613a9863e46f8db236f71a3eb7d1e5e208",
-          "files_count": 11,
-          "group": "org.vibevm.apps",
-          "indexed_at": "2026-10-31T10:33:03.011521759Z",
-          "indexed_by": "vibe-index 1.0.8",
-          "kind": "app",
-          "name": "vim",
-          "registry": "vibespecs",
-          "schema_version": 1,
-          "source_ref": "v1.1.1",
-          "source_url": "https://github.com/vibespecs/org.vibevm.apps.vim.git",
-          "version": "1.1.1",
-          "authors": [
-            "Oleg Chirukhin"
-          ],
-          "compatibility": {
-            "min_vibe_version": "1.0.8"
-          },
-          "description": "Install and launch the upstream Vim editor on supported platforms",
-          "i18n": {
-            "default": "en"
-          },
-          "keywords": [
-            "vim",
-            "editor",
-            "application"
-          ],
-          "license": "UPL-1.0",
-          "resolved_commit": "af763dc31ac0ad1c626163e7d1dc1c5224842084"
+          "resolved_commit": "a1c619578aa5d4d96a08ecccd9d51f4c832f4a94"
         }
       ],
-      "latest_stable": "1.1.1"
+      "latest_stable": "1.1.2"
     }
   ]
 }
