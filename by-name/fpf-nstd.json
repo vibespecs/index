@@ -1,18 +1,18 @@
 {
-  "indexed_at": "2026-09-30T06:23:07.041964200Z",
+  "indexed_at": "2026-10-31T10:33:03.011521759Z",
   "name": "fpf-nstd",
   "packages": [
     {
       "group": "ai.lev",
-      "indexed_at": "2026-09-30T06:23:07.041964200Z",
+      "indexed_at": "2026-10-31T10:33:03.011521759Z",
       "name": "fpf-nstd",
       "versions": [
         {
-          "content_hash": "sha256-tree/1:28c99ffab80128cda5b3027c3aa8671c254fc16cf35d3802912c1da18b4b1f46",
+          "content_hash": "sha256-tree/1:7588817897c0b5a051713a3d51c67abfaec4adb96c54e22da407fc7eb97502c1",
           "files_count": 30,
           "group": "ai.lev",
-          "indexed_at": "2026-09-30T06:23:07.041964200Z",
-          "indexed_by": "vibe-index 1.0.0",
+          "indexed_at": "2026-10-31T10:33:03.011521759Z",
+          "indexed_by": "vibe-index 1.0.8",
           "kind": "flow",
           "name": "fpf-nstd",
           "registry": "vibespecs",

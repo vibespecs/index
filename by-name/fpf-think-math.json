@@ -1,18 +1,18 @@
 {
-  "indexed_at": "2026-09-30T06:23:07.041964200Z",
+  "indexed_at": "2026-10-31T10:33:03.011521759Z",
   "name": "fpf-think-math",
   "packages": [
     {
       "group": "ai.lev",
-      "indexed_at": "2026-09-30T06:23:07.041964200Z",
+      "indexed_at": "2026-10-31T10:33:03.011521759Z",
       "name": "fpf-think-math",
       "versions": [
         {
-          "content_hash": "sha256-tree/1:0b26d5399d8d1e814d2a3c69d8bc83cc83269f16343f78fa132bcca25dd6c524",
+          "content_hash": "sha256-tree/1:3296aec0d40f729b35a90bbe0be0be47d738dbde56bbac6ec4d4e4e2e0199fcc",
           "files_count": 55,
           "group": "ai.lev",
-          "indexed_at": "2026-09-30T06:23:07.041964200Z",
-          "indexed_by": "vibe-index 1.0.0",
+          "indexed_at": "2026-10-31T10:33:03.011521759Z",
+          "indexed_by": "vibe-index 1.0.8",
           "kind": "flow",
           "name": "fpf-think-math",
           "registry": "vibespecs",

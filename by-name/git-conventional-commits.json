@@ -1,18 +1,18 @@
 {
-  "indexed_at": "2026-09-11T12:35:53.841042500Z",
+  "indexed_at": "2026-10-31T10:33:03.011521759Z",
   "name": "git-conventional-commits",
   "packages": [
     {
       "group": "org.vibevm.world",
-      "indexed_at": "2026-09-11T12:35:53.841042500Z",
+      "indexed_at": "2026-10-31T10:33:03.011521759Z",
       "name": "git-conventional-commits",
       "versions": [
         {
-          "content_hash": "sha256-tree/1:62d867b6ee7758facd5ad571641b6a4a578d9b4618ab3abb94c1ee7027b4b2cf",
+          "content_hash": "sha256-tree/1:04a03d3bd572cd3c865868c0a096f5f61606197924b886aa369bdaf56af243f8",
           "files_count": 5,
           "group": "org.vibevm.world",
-          "indexed_at": "2026-09-11T12:35:53.841042500Z",
-          "indexed_by": "vibe-index 1.0.0",
+          "indexed_at": "2026-10-31T10:33:03.011521759Z",
+          "indexed_by": "vibe-index 1.0.8",
           "kind": "flow",
           "name": "git-conventional-commits",
           "registry": "vibespecs",

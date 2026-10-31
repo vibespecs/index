@@ -1,0 +1,46 @@
+{
+  "indexed_at": "2026-10-31T10:33:03.011521759Z",
+  "name": "fpf-mcp",
+  "packages": [
+    {
+      "group": "ai.lev",
+      "indexed_at": "2026-10-31T10:33:03.011521759Z",
+      "name": "fpf-mcp",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:1f79ab240f1aba2be2b227584d3b9ca60d79725c14a0e3bd89b40781963ba761",
+          "files_count": 4,
+          "group": "ai.lev",
+          "indexed_at": "2026-10-31T10:33:03.011521759Z",
+          "indexed_by": "vibe-index 1.0.8",
+          "kind": "mcp",
+          "name": "fpf-mcp",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/ai.lev.fpf-mcp.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "1.0.2"
+          },
+          "description": "Connect AI agents to the official First Principles Framework MCP endpoint",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "fpf",
+            "mcp",
+            "first-principles",
+            "remote"
+          ],
+          "license": "UPL-1.0",
+          "resolved_commit": "be836ac5f7fb7768aa21f0df0e9aceb14d752f36"
+        }
+      ],
+      "latest_stable": "1.0.0"
+    }
+  ]
+}

@@ -1,18 +1,18 @@
 {
-  "indexed_at": "2026-09-30T06:23:07.041964200Z",
+  "indexed_at": "2026-10-31T10:33:03.011521759Z",
   "name": "fpf-eng-som",
   "packages": [
     {
       "group": "ai.lev",
-      "indexed_at": "2026-09-30T06:23:07.041964200Z",
+      "indexed_at": "2026-10-31T10:33:03.011521759Z",
       "name": "fpf-eng-som",
       "versions": [
         {
-          "content_hash": "sha256-tree/1:03ab094230c61a9b337ce4ba12904f12d969c0016b198c3b5aa0b989c5035465",
+          "content_hash": "sha256-tree/1:c8ce76dc590fbbcf66f2572eb5c8ec88ab171b7e1eef69f16deb2b95f9de96da",
           "files_count": 23,
           "group": "ai.lev",
-          "indexed_at": "2026-09-30T06:23:07.041964200Z",
-          "indexed_by": "vibe-index 1.0.0",
+          "indexed_at": "2026-10-31T10:33:03.011521759Z",
+          "indexed_by": "vibe-index 1.0.8",
           "kind": "flow",
           "name": "fpf-eng-som",
           "registry": "vibespecs",
