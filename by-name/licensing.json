@@ -1,18 +1,18 @@
 {
-  "indexed_at": "2026-10-31T11:45:52.049094977Z",
+  "indexed_at": "2026-11-09T06:54:06.339125222Z",
   "name": "licensing",
   "packages": [
     {
       "group": "org.vibevm.world",
-      "indexed_at": "2026-10-31T11:45:52.049094977Z",
+      "indexed_at": "2026-11-09T06:54:06.339125222Z",
       "name": "licensing",
       "versions": [
         {
           "content_hash": "sha256-tree/1:2c7db23ae8b7a9a3ef1f7d2a7b54425113f43c4ab14f1e83f3458ffb00a33288",
           "files_count": 8,
           "group": "org.vibevm.world",
-          "indexed_at": "2026-10-31T11:45:52.049094977Z",
-          "indexed_by": "vibe-index 1.0.8",
+          "indexed_at": "2026-11-09T06:54:06.339125222Z",
+          "indexed_by": "vibe-index 1.0.11",
           "kind": "flow",
           "name": "licensing",
           "registry": "vibespecs",

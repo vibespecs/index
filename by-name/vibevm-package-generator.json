@@ -1,0 +1,135 @@
+{
+  "indexed_at": "2026-11-09T06:54:06.339125222Z",
+  "name": "vibevm-package-generator",
+  "packages": [
+    {
+      "group": "org.vibevm.codkit",
+      "indexed_at": "2026-11-09T06:54:06.339125222Z",
+      "name": "vibevm-package-generator",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:2e5c3cf49a872c79a018adb106fea93c09df8e4f2818914016bef85de6215461",
+          "files_count": 11,
+          "group": "org.vibevm.codkit",
+          "indexed_at": "2026-11-09T06:54:06.339125222Z",
+          "indexed_by": "vibe-index 1.0.11",
+          "kind": "app",
+          "name": "vibevm-package-generator",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.codkit.vibevm-package-generator.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "1.0.12"
+          },
+          "description": "The renderer of the org.vibevm.codkit package manifests: vibevm-generate-package-codkit writes the vibe.toml of a pinned Codkit release from that release's own checksum file",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "generator",
+            "manifest",
+            "render",
+            "codkit",
+            "packaging",
+            "application"
+          ],
+          "license": "UPL-1.0",
+          "resolved_commit": "e6a7e9aa7dd7e4ebe5649c8a15d2c4302ebbd6ff"
+        }
+      ],
+      "latest_stable": "1.0.0"
+    },
+    {
+      "group": "org.vibevm.node",
+      "indexed_at": "2026-11-09T06:54:06.339125222Z",
+      "name": "vibevm-package-generator",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:30cea2e2035cd647e4d33f3f82340aa707948469919d1fbcd01d9f0fdd0d98f1",
+          "files_count": 11,
+          "group": "org.vibevm.node",
+          "indexed_at": "2026-11-09T06:54:06.339125222Z",
+          "indexed_by": "vibe-index 1.0.11",
+          "kind": "app",
+          "name": "vibevm-package-generator",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.node.vibevm-package-generator.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "1.0.12"
+          },
+          "description": "The renderer of the org.vibevm.node package manifests: vibevm-generate-package-node writes the vibe.toml of a pinned Node.js release from that release's own checksum file",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "generator",
+            "manifest",
+            "render",
+            "node",
+            "nodejs",
+            "packaging",
+            "application"
+          ],
+          "license": "UPL-1.0",
+          "resolved_commit": "453b141fcb90198ac21ec0e8cb020545e73bd049"
+        }
+      ],
+      "latest_stable": "1.0.0"
+    },
+    {
+      "group": "org.vibevm.pxworld",
+      "indexed_at": "2026-11-09T06:54:06.339125222Z",
+      "name": "vibevm-package-generator",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:f1672c7c4e60241f34e39bff0d767bf205626a1e3ec34c648b5f10e5b0881857",
+          "files_count": 11,
+          "group": "org.vibevm.pxworld",
+          "indexed_at": "2026-11-09T06:54:06.339125222Z",
+          "indexed_by": "vibe-index 1.0.11",
+          "kind": "app",
+          "name": "vibevm-package-generator",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.pxworld.vibevm-package-generator.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "1.0.12"
+          },
+          "description": "The renderer of the org.vibevm.pxworld package manifests: vibevm-generate-package-pxworld writes the vibe.toml of pxnode, pxpip or another px wrapper of the family",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "generator",
+            "manifest",
+            "render",
+            "px",
+            "pxworld",
+            "proxy",
+            "packaging",
+            "application"
+          ],
+          "license": "UPL-1.0",
+          "resolved_commit": "0ab9c647e828c17c5026e55802510f01ad1b79af"
+        }
+      ],
+      "latest_stable": "1.0.0"
+    }
+  ]
+}

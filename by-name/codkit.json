@@ -1,0 +1,48 @@
+{
+  "indexed_at": "2026-11-09T06:54:06.339125222Z",
+  "name": "codkit",
+  "packages": [
+    {
+      "group": "org.vibevm.codkit",
+      "indexed_at": "2026-11-09T06:54:06.339125222Z",
+      "name": "codkit",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:adf7af2dd42d9c2bde1934cbc3a3db7cf485f81ffaf440b285eed98b84b64d58",
+          "files_count": 10,
+          "group": "org.vibevm.codkit",
+          "indexed_at": "2026-11-09T06:54:06.339125222Z",
+          "indexed_by": "vibe-index 1.0.11",
+          "kind": "app",
+          "name": "codkit",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.codkit.codkit.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "1.0.12"
+          },
+          "description": "Codkit 1.0.0, the patch-set manager for fork trees, as a portable Vibe application running on the Node.js of the machine",
+          "homepage": "https://github.com/vibevm/codkit",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "codkit",
+            "patch-set",
+            "fork",
+            "upstream",
+            "application"
+          ],
+          "license": "UPL-1.0",
+          "resolved_commit": "70ee8fbd34ffc7a32446b27b6af087de4744d4a0"
+        }
+      ],
+      "latest_stable": "1.0.0"
+    }
+  ]
+}

@@ -1,18 +1,18 @@
 {
-  "indexed_at": "2026-10-31T11:45:52.049094977Z",
+  "indexed_at": "2026-11-09T06:54:06.339125222Z",
   "name": "git-atomic-commits",
   "packages": [
     {
       "group": "org.vibevm.world",
-      "indexed_at": "2026-10-31T11:45:52.049094977Z",
+      "indexed_at": "2026-11-09T06:54:06.339125222Z",
       "name": "git-atomic-commits",
       "versions": [
         {
           "content_hash": "sha256-tree/1:6f454486ce7f3edcc208231b2b88fea61be6b65938ada1914a98ddfcb957960d",
           "files_count": 6,
           "group": "org.vibevm.world",
-          "indexed_at": "2026-10-31T11:45:52.049094977Z",
-          "indexed_by": "vibe-index 1.0.8",
+          "indexed_at": "2026-11-09T06:54:06.339125222Z",
+          "indexed_by": "vibe-index 1.0.11",
           "kind": "flow",
           "name": "git-atomic-commits",
           "registry": "vibespecs",

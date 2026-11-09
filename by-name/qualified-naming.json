@@ -1,18 +1,18 @@
 {
-  "indexed_at": "2026-10-31T11:45:52.049094977Z",
+  "indexed_at": "2026-11-09T06:54:06.339125222Z",
   "name": "qualified-naming",
   "packages": [
     {
       "group": "org.vibevm.world",
-      "indexed_at": "2026-10-31T11:45:52.049094977Z",
+      "indexed_at": "2026-11-09T06:54:06.339125222Z",
       "name": "qualified-naming",
       "versions": [
         {
           "content_hash": "sha256-tree/1:0553a9f7253b3c8f2d0ef8eefeb5cfd0fd09a96db5d36b15f13701a0a878ec55",
           "files_count": 7,
           "group": "org.vibevm.world",
-          "indexed_at": "2026-10-31T11:45:52.049094977Z",
-          "indexed_by": "vibe-index 1.0.8",
+          "indexed_at": "2026-11-09T06:54:06.339125222Z",
+          "indexed_by": "vibe-index 1.0.11",
           "kind": "flow",
           "name": "qualified-naming",
           "registry": "vibespecs",

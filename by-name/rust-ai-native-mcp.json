@@ -1,18 +1,18 @@
 {
-  "indexed_at": "2026-10-31T11:45:52.049094977Z",
+  "indexed_at": "2026-11-09T06:54:06.339125222Z",
   "name": "rust-ai-native-mcp",
   "packages": [
     {
       "group": "org.vibevm.ai-native",
-      "indexed_at": "2026-10-31T11:45:52.049094977Z",
+      "indexed_at": "2026-11-09T06:54:06.339125222Z",
       "name": "rust-ai-native-mcp",
       "versions": [
         {
           "content_hash": "sha256-tree/1:041cbe0ad598bad2025cfd68feb41ebdb3a358ac2a092effc8de4159a58e517e",
           "files_count": 136,
           "group": "org.vibevm.ai-native",
-          "indexed_at": "2026-10-31T11:45:52.049094977Z",
-          "indexed_by": "vibe-index 1.0.8",
+          "indexed_at": "2026-11-09T06:54:06.339125222Z",
+          "indexed_by": "vibe-index 1.0.11",
           "kind": "mcp",
           "name": "rust-ai-native-mcp",
           "registry": "vibespecs",

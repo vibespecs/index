@@ -1,0 +1,49 @@
+{
+  "indexed_at": "2026-11-09T06:54:06.339125222Z",
+  "name": "pxpip",
+  "packages": [
+    {
+      "group": "org.vibevm.pxworld",
+      "indexed_at": "2026-11-09T06:54:06.339125222Z",
+      "name": "pxpip",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:cf8aa7a09984e64524642d32c61ff1250bbe82e0a4dc4bfba23c873acc6e5f92",
+          "files_count": 11,
+          "group": "org.vibevm.pxworld",
+          "indexed_at": "2026-11-09T06:54:06.339125222Z",
+          "indexed_by": "vibe-index 1.0.11",
+          "kind": "app",
+          "name": "pxpip",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.pxworld.pxpip.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "1.0.12"
+          },
+          "description": "pip through the vibe-managed px: a pxworld wrapper that runs the Python already on PATH behind the proxy vibe's own transfers use",
+          "homepage": "https://pip.pypa.io/",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "pip",
+            "python",
+            "proxy",
+            "px",
+            "pxworld",
+            "application"
+          ],
+          "license": "UPL-1.0",
+          "resolved_commit": "cdf823994b8944a324a2faba31bce8b1d478f33f"
+        }
+      ],
+      "latest_stable": "1.0.0"
+    }
+  ]
+}

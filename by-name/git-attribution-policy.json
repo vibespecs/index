@@ -1,18 +1,18 @@
 {
-  "indexed_at": "2026-10-31T11:45:52.049094977Z",
+  "indexed_at": "2026-11-09T06:54:06.339125222Z",
   "name": "git-attribution-policy",
   "packages": [
     {
       "group": "org.vibevm.world",
-      "indexed_at": "2026-10-31T11:45:52.049094977Z",
+      "indexed_at": "2026-11-09T06:54:06.339125222Z",
       "name": "git-attribution-policy",
       "versions": [
         {
           "content_hash": "sha256-tree/1:6716cf448a935bcc00bbaf662b98d52517c89a4ca74e9e78b833f01c100596cb",
           "files_count": 7,
           "group": "org.vibevm.world",
-          "indexed_at": "2026-10-31T11:45:52.049094977Z",
-          "indexed_by": "vibe-index 1.0.8",
+          "indexed_at": "2026-11-09T06:54:06.339125222Z",
+          "indexed_by": "vibe-index 1.0.11",
           "kind": "flow",
           "name": "git-attribution-policy",
           "registry": "vibespecs",
