@@ -11,7 +11,7 @@
           "content_hash": "sha256-tree/1:94a372fbd005660ba7a47206f0d17d2248e3abaecce95f2b8222e28893529b0c",
           "files_count": 10,
           "group": "org.vibevm.opencode",
-          "indexed_at": "2026-11-11T01:26:03.039878716Z",
+          "indexed_at": "2026-11-11T02:41:01.847700366Z",
           "indexed_by": "vibe-index 1.0.11",
           "kind": "app",
           "name": "opencode",
@@ -46,7 +46,7 @@
           "content_hash": "sha256-tree/1:1b5c931cb940919342176c13f662d81c91794aa3cf7a9ed107acde57a8a2ed98",
           "files_count": 19,
           "group": "org.vibevm.opencode",
-          "indexed_at": "2026-11-11T01:26:03.039878716Z",
+          "indexed_at": "2026-11-11T02:41:01.847700366Z",
           "indexed_by": "vibe-index 1.0.11",
           "kind": "app",
           "name": "opencode",
@@ -78,10 +78,45 @@
           "template": true
         },
         {
-          "content_hash": "sha256-tree/1:cd547baa676b36c1789bba7fe30dd089c54c58ed7c3a72e6cc740065529348e3",
+          "content_hash": "sha256-tree/1:e06ef9ac22996ba7142608a29e383559a5cb3e9426872a393345f30bdaa9077d",
           "files_count": 19,
           "group": "org.vibevm.opencode",
-          "indexed_at": "2026-11-11T01:26:03.039878716Z",
+          "indexed_at": "2026-11-11T02:41:01.847700366Z",
+          "indexed_by": "vibe-index 1.0.11",
+          "kind": "app",
+          "name": "opencode",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v0.0.3",
+          "source_url": "https://github.com/vibespecs/org.vibevm.opencode.opencode.git",
+          "version": "0.0.3",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "1.0.12"
+          },
+          "description": "OpenCode {version}, the official standalone upstream build — one self-contained binary — as a portable Vibe application putting opencode on PATH",
+          "homepage": "https://github.com/anomalyco/opencode",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "opencode",
+            "agent",
+            "coding-agent",
+            "cli",
+            "application"
+          ],
+          "license": "MIT",
+          "resolved_commit": "05298c0aae2e6b085dabc1b64e98040497d95f6e",
+          "template": true
+        },
+        {
+          "content_hash": "sha256-tree/1:10e2f244918c5c6d362cadac766ee2baa6d2b2dd1e489a4674a7746637af4d94",
+          "files_count": 19,
+          "group": "org.vibevm.opencode",
+          "indexed_at": "2026-11-11T02:41:01.847700366Z",
           "indexed_by": "vibe-index 1.0.11",
           "kind": "app",
           "name": "opencode",
@@ -109,7 +144,7 @@
             "application"
           ],
           "license": "MIT",
-          "resolved_commit": "fac492cc337e350d68a7d0e74862f8ac18ea78a2"
+          "resolved_commit": "5bc72ad5868c19a40cde0bf70456be26e7b40da5"
         }
       ],
       "latest_stable": "2.2.7"
