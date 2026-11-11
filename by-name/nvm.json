@@ -1,0 +1,49 @@
+{
+  "indexed_at": "2026-11-11T22:48:06.226788535Z",
+  "name": "nvm",
+  "packages": [
+    {
+      "group": "org.vibevm.nvm",
+      "indexed_at": "2026-11-11T22:48:06.226788535Z",
+      "name": "nvm",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:001739a8b41baebe9338493d78c0423cdf9637758d6a062ba780046905bf1583",
+          "files_count": 147,
+          "group": "org.vibevm.nvm",
+          "indexed_at": "2026-11-11T22:48:06.226788535Z",
+          "indexed_by": "vibe-index 1.0.11",
+          "kind": "app",
+          "name": "nvm",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.nvm.nvm.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "1.0.12"
+          },
+          "description": "nvm, on vibe: a sourced shell function carrying nvm's whole command surface — every command, every flag, nvm's own alias store, version categories, colours and diagnostics — translated onto vibe commands",
+          "homepage": "https://github.com/nvm-sh/nvm",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "nvm",
+            "node",
+            "nodejs",
+            "version-manager",
+            "shim",
+            "shell"
+          ],
+          "license": "UPL-1.0",
+          "template": true
+        }
+      ],
+      "latest_stable": "1.0.0"
+    }
+  ]
+}
