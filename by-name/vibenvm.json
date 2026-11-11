@@ -1,0 +1,119 @@
+{
+  "indexed_at": "2026-11-11T01:17:12.179342848Z",
+  "name": "vibenvm",
+  "packages": [
+    {
+      "group": "org.vibevm.node",
+      "indexed_at": "2026-11-11T01:17:12.179342848Z",
+      "name": "vibenvm",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:8af764a0e76271e356b0b37a6a387820a24fe48d74b6cd56db45368cd46aa01b",
+          "files_count": 4,
+          "group": "org.vibevm.node",
+          "indexed_at": "2026-11-11T01:17:12.179342848Z",
+          "indexed_by": "vibe-index 1.0.11",
+          "kind": "app",
+          "name": "vibenvm",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.node.vibenvm.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "1.0.11"
+          },
+          "description": "nvm's command surface on top of vibe: a sourced shell function that translates every nvm command and flag into vibe commands and holds no version logic of its own",
+          "homepage": "https://github.com/nvm-sh/nvm",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "nvm",
+            "node",
+            "nodejs",
+            "version-manager",
+            "shim",
+            "shell"
+          ],
+          "license": "UPL-1.0",
+          "resolved_commit": "bf69cf03a5f04e75523265b4462de650208285de"
+        },
+        {
+          "content_hash": "sha256-tree/1:c3618b56fdff39af20be50867ef0157796f0e5ef7e8edfcb641464fd2c84d5a0",
+          "files_count": 4,
+          "group": "org.vibevm.node",
+          "indexed_at": "2026-11-11T01:17:12.179342848Z",
+          "indexed_by": "vibe-index 1.0.11",
+          "kind": "app",
+          "name": "vibenvm",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.1.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.node.vibenvm.git",
+          "version": "1.1.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "1.0.11"
+          },
+          "description": "nvm's command surface on top of vibe: a sourced shell function that translates every nvm command and flag into vibe commands and holds no version logic of its own",
+          "homepage": "https://github.com/nvm-sh/nvm",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "nvm",
+            "node",
+            "nodejs",
+            "version-manager",
+            "shim",
+            "shell"
+          ],
+          "license": "UPL-1.0",
+          "resolved_commit": "520daa491c123bc3a479912de75da56384b90fb5"
+        },
+        {
+          "content_hash": "sha256-tree/1:c0240fdf6af57657ae531641a1d4b1c38e8aba4c9c9c345356c1f0119b46d816",
+          "files_count": 4,
+          "group": "org.vibevm.node",
+          "indexed_at": "2026-11-11T01:17:12.179342848Z",
+          "indexed_by": "vibe-index 1.0.11",
+          "kind": "app",
+          "name": "vibenvm",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.1.1",
+          "source_url": "https://github.com/vibespecs/org.vibevm.node.vibenvm.git",
+          "version": "1.1.1",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "1.0.12"
+          },
+          "description": "nvm's command surface on top of vibe: a sourced shell function that translates every nvm command and flag into vibe commands and holds no version logic of its own",
+          "homepage": "https://github.com/nvm-sh/nvm",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "nvm",
+            "node",
+            "nodejs",
+            "version-manager",
+            "shim",
+            "shell"
+          ],
+          "license": "UPL-1.0",
+          "resolved_commit": "1e43189ad41293eed4128cdbc1fa32c38506e0e5"
+        }
+      ],
+      "latest_stable": "1.1.1"
+    }
+  ]
+}

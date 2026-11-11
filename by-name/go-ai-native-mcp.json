@@ -1,18 +1,18 @@
 {
-  "indexed_at": "2026-11-11T01:01:03.158665768Z",
+  "indexed_at": "2026-11-11T01:17:12.179342848Z",
   "name": "go-ai-native-mcp",
   "packages": [
     {
       "group": "org.vibevm.ai-native",
-      "indexed_at": "2026-11-11T01:01:03.158665768Z",
+      "indexed_at": "2026-11-11T01:17:12.179342848Z",
       "name": "go-ai-native-mcp",
       "versions": [
         {
           "content_hash": "sha256-tree/1:b8d356e013fe45767c11de712bdd52ff17764173a63b77fa439a6d73ec6f3834",
           "files_count": 154,
           "group": "org.vibevm.ai-native",
-          "indexed_at": "2026-11-11T01:01:03.158665768Z",
-          "indexed_by": "vibe-index 1.0.12",
+          "indexed_at": "2026-11-11T01:17:12.179342848Z",
+          "indexed_by": "vibe-index 1.0.11",
           "kind": "mcp",
           "name": "go-ai-native-mcp",
           "registry": "vibespecs",

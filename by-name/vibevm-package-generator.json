@@ -1,18 +1,18 @@
 {
-  "indexed_at": "2026-11-11T01:01:03.158665768Z",
+  "indexed_at": "2026-11-11T01:17:12.179342848Z",
   "name": "vibevm-package-generator",
   "packages": [
     {
       "group": "org.vibevm.codkit",
-      "indexed_at": "2026-11-11T01:01:03.158665768Z",
+      "indexed_at": "2026-11-11T01:17:12.179342848Z",
       "name": "vibevm-package-generator",
       "versions": [
         {
           "content_hash": "sha256-tree/1:2e5c3cf49a872c79a018adb106fea93c09df8e4f2818914016bef85de6215461",
           "files_count": 11,
           "group": "org.vibevm.codkit",
-          "indexed_at": "2026-11-11T01:01:03.158665768Z",
-          "indexed_by": "vibe-index 1.0.12",
+          "indexed_at": "2026-11-11T01:17:12.179342848Z",
+          "indexed_by": "vibe-index 1.0.11",
           "kind": "app",
           "name": "vibevm-package-generator",
           "registry": "vibespecs",
@@ -46,15 +46,15 @@
     },
     {
       "group": "org.vibevm.node",
-      "indexed_at": "2026-11-11T01:01:03.158665768Z",
+      "indexed_at": "2026-11-11T01:17:12.179342848Z",
       "name": "vibevm-package-generator",
       "versions": [
         {
           "content_hash": "sha256-tree/1:30cea2e2035cd647e4d33f3f82340aa707948469919d1fbcd01d9f0fdd0d98f1",
           "files_count": 11,
           "group": "org.vibevm.node",
-          "indexed_at": "2026-11-11T01:01:03.158665768Z",
-          "indexed_by": "vibe-index 1.0.12",
+          "indexed_at": "2026-11-11T01:17:12.179342848Z",
+          "indexed_by": "vibe-index 1.0.11",
           "kind": "app",
           "name": "vibevm-package-generator",
           "registry": "vibespecs",
@@ -89,15 +89,15 @@
     },
     {
       "group": "org.vibevm.pxworld",
-      "indexed_at": "2026-11-11T01:01:03.158665768Z",
+      "indexed_at": "2026-11-11T01:17:12.179342848Z",
       "name": "vibevm-package-generator",
       "versions": [
         {
           "content_hash": "sha256-tree/1:f1672c7c4e60241f34e39bff0d767bf205626a1e3ec34c648b5f10e5b0881857",
           "files_count": 11,
           "group": "org.vibevm.pxworld",
-          "indexed_at": "2026-11-11T01:01:03.158665768Z",
-          "indexed_by": "vibe-index 1.0.12",
+          "indexed_at": "2026-11-11T01:17:12.179342848Z",
+          "indexed_by": "vibe-index 1.0.11",
           "kind": "app",
           "name": "vibevm-package-generator",
           "registry": "vibespecs",

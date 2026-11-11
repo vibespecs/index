@@ -1,18 +1,90 @@
 {
-  "indexed_at": "2026-11-11T01:01:03.158665768Z",
+  "indexed_at": "2026-11-11T01:17:12.179342848Z",
   "name": "node",
   "packages": [
     {
       "group": "org.vibevm.node",
-      "indexed_at": "2026-11-11T01:01:03.158665768Z",
+      "indexed_at": "2026-11-11T01:17:12.179342848Z",
       "name": "node",
       "versions": [
+        {
+          "content_hash": "sha256-tree/1:dd465ca4b42e82e110dc14f0a9a7ecd3c6dc0a49942cf371ac2db503e22a3f4b",
+          "files_count": 10,
+          "group": "org.vibevm.node",
+          "indexed_at": "2026-11-11T01:17:12.179342848Z",
+          "indexed_by": "vibe-index 1.0.11",
+          "kind": "app",
+          "name": "node",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.node.node.git",
+          "version": "1.0.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "1.0.12"
+          },
+          "description": "Node.js {version}, the official upstream build, as a portable Vibe application putting node, npm and npx on PATH",
+          "homepage": "https://nodejs.org/",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "node",
+            "nodejs",
+            "javascript",
+            "runtime",
+            "npm",
+            "application"
+          ],
+          "license": "UPL-1.0",
+          "resolved_commit": "1a52f3d4035c914f11579e797fc57594ae65a178",
+          "template": true
+        },
+        {
+          "content_hash": "sha256-tree/1:fcb8b3cf1e2d0540b38f491e272ee108349f851bbb41d0acc27e2f747b60c5fa",
+          "files_count": 14,
+          "group": "org.vibevm.node",
+          "indexed_at": "2026-11-11T01:17:12.179342848Z",
+          "indexed_by": "vibe-index 1.0.11",
+          "kind": "app",
+          "name": "node",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.1.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.node.node.git",
+          "version": "1.1.0",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "1.0.12"
+          },
+          "description": "Node.js {version}, the official upstream build, as a portable Vibe application putting node, npm and npx on PATH",
+          "homepage": "https://nodejs.org/",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "node",
+            "nodejs",
+            "javascript",
+            "runtime",
+            "npm",
+            "application"
+          ],
+          "license": "UPL-1.0",
+          "resolved_commit": "b3aa692dc04a64b84d83fac7d6f2ca40c8534422",
+          "template": true
+        },
         {
           "content_hash": "sha256-tree/1:4bc96e370285bd04d1070174e5cda111c6812b2bf30a83dcdb7ec1a1a75b9c7d",
           "files_count": 10,
           "group": "org.vibevm.node",
-          "indexed_at": "2026-11-11T01:01:03.158665768Z",
-          "indexed_by": "vibe-index 1.0.12",
+          "indexed_at": "2026-11-11T01:17:12.179342848Z",
+          "indexed_by": "vibe-index 1.0.11",
           "kind": "app",
           "name": "node",
           "registry": "vibespecs",
@@ -46,8 +118,8 @@
           "content_hash": "sha256-tree/1:4ff41e42ddd3597c7a2f86d400c2bef88805bfb4a4c8d9ae3c13160f1989b163",
           "files_count": 10,
           "group": "org.vibevm.node",
-          "indexed_at": "2026-11-11T01:01:03.158665768Z",
-          "indexed_by": "vibe-index 1.0.12",
+          "indexed_at": "2026-11-11T01:17:12.179342848Z",
+          "indexed_by": "vibe-index 1.0.11",
           "kind": "app",
           "name": "node",
           "registry": "vibespecs",

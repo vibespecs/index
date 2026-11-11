@@ -1,18 +1,18 @@
 {
-  "indexed_at": "2026-11-11T01:01:03.158665768Z",
+  "indexed_at": "2026-11-11T01:17:12.179342848Z",
   "name": "fpf-eng-eco",
   "packages": [
     {
       "group": "ai.lev",
-      "indexed_at": "2026-11-11T01:01:03.158665768Z",
+      "indexed_at": "2026-11-11T01:17:12.179342848Z",
       "name": "fpf-eng-eco",
       "versions": [
         {
           "content_hash": "sha256-tree/1:f25da4f3ba6fa04ab01227d05d8b6d59673851d584c074ed978924929f39499e",
           "files_count": 36,
           "group": "ai.lev",
-          "indexed_at": "2026-11-11T01:01:03.158665768Z",
-          "indexed_by": "vibe-index 1.0.12",
+          "indexed_at": "2026-11-11T01:17:12.179342848Z",
+          "indexed_by": "vibe-index 1.0.11",
           "kind": "flow",
           "name": "fpf-eng-eco",
           "registry": "vibespecs",

@@ -1,18 +1,18 @@
 {
-  "indexed_at": "2026-11-11T01:01:03.158665768Z",
+  "indexed_at": "2026-11-11T01:17:12.179342848Z",
   "name": "fpf-think-mmp",
   "packages": [
     {
       "group": "ai.lev",
-      "indexed_at": "2026-11-11T01:01:03.158665768Z",
+      "indexed_at": "2026-11-11T01:17:12.179342848Z",
       "name": "fpf-think-mmp",
       "versions": [
         {
           "content_hash": "sha256-tree/1:b4a560ea39f24679010b5c13d1cfabd27d8c1b122bdeffcbf56e8ad9cbadcd1b",
           "files_count": 43,
           "group": "ai.lev",
-          "indexed_at": "2026-11-11T01:01:03.158665768Z",
-          "indexed_by": "vibe-index 1.0.12",
+          "indexed_at": "2026-11-11T01:17:12.179342848Z",
+          "indexed_by": "vibe-index 1.0.11",
           "kind": "flow",
           "name": "fpf-think-mmp",
           "registry": "vibespecs",
