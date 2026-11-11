@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-11-11T00:24:46.626600394Z",
+  "indexed_at": "2026-11-11T01:01:03.158665768Z",
   "name": "pxpip",
   "packages": [
     {
       "group": "org.vibevm.pxworld",
-      "indexed_at": "2026-11-11T00:24:46.626600394Z",
+      "indexed_at": "2026-11-11T01:01:03.158665768Z",
       "name": "pxpip",
       "versions": [
         {
           "content_hash": "sha256-tree/1:cf8aa7a09984e64524642d32c61ff1250bbe82e0a4dc4bfba23c873acc6e5f92",
           "files_count": 11,
           "group": "org.vibevm.pxworld",
-          "indexed_at": "2026-11-11T00:24:46.626600394Z",
+          "indexed_at": "2026-11-11T01:01:03.158665768Z",
           "indexed_by": "vibe-index 1.0.12",
           "kind": "app",
           "name": "pxpip",

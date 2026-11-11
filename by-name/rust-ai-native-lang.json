@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-11-11T00:24:46.626600394Z",
+  "indexed_at": "2026-11-11T01:01:03.158665768Z",
   "name": "rust-ai-native-lang",
   "packages": [
     {
       "group": "org.vibevm.ai-native",
-      "indexed_at": "2026-11-11T00:24:46.626600394Z",
+      "indexed_at": "2026-11-11T01:01:03.158665768Z",
       "name": "rust-ai-native-lang",
       "versions": [
         {
           "content_hash": "sha256-tree/1:b7d33c41ac60019850c64d51c37eac459996e3f664e353e7c799668ca7a016ad",
           "files_count": 145,
           "group": "org.vibevm.ai-native",
-          "indexed_at": "2026-11-11T00:24:46.626600394Z",
+          "indexed_at": "2026-11-11T01:01:03.158665768Z",
           "indexed_by": "vibe-index 1.0.12",
           "kind": "lang",
           "name": "rust-ai-native-lang",

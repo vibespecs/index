@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-11-11T00:24:46.626600394Z",
+  "indexed_at": "2026-11-11T01:01:03.158665768Z",
   "name": "qwen-code",
   "packages": [
     {
       "group": "org.vibevm.qwen",
-      "indexed_at": "2026-11-11T00:24:46.626600394Z",
+      "indexed_at": "2026-11-11T01:01:03.158665768Z",
       "name": "qwen-code",
       "versions": [
         {
           "content_hash": "sha256-tree/1:4720984bd5d5096cad32482130d78bba468937eb7caa6f30b51c3d8788838833",
           "files_count": 10,
           "group": "org.vibevm.qwen",
-          "indexed_at": "2026-11-11T00:24:46.626600394Z",
+          "indexed_at": "2026-11-11T01:01:03.158665768Z",
           "indexed_by": "vibe-index 1.0.12",
           "kind": "app",
           "name": "qwen-code",
@@ -47,7 +47,7 @@
           "content_hash": "sha256-tree/1:975cf5ffa5461de00453bf9cbb420fff1350c7b626b20d403d7dc04136b51f35",
           "files_count": 10,
           "group": "org.vibevm.qwen",
-          "indexed_at": "2026-11-11T00:24:46.626600394Z",
+          "indexed_at": "2026-11-11T01:01:03.158665768Z",
           "indexed_by": "vibe-index 1.0.12",
           "kind": "app",
           "name": "qwen-code",

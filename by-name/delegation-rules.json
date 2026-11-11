@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-11-11T00:24:46.626600394Z",
+  "indexed_at": "2026-11-11T01:01:03.158665768Z",
   "name": "delegation-rules",
   "packages": [
     {
       "group": "org.vibevm.fractality",
-      "indexed_at": "2026-11-11T00:24:46.626600394Z",
+      "indexed_at": "2026-11-11T01:01:03.158665768Z",
       "name": "delegation-rules",
       "versions": [
         {
           "content_hash": "sha256-tree/1:417036220e3890d6fa56568b8e5c3eede53182e2ebada02b34653f29ccdebfbc",
           "files_count": 629,
           "group": "org.vibevm.fractality",
-          "indexed_at": "2026-11-11T00:24:46.626600394Z",
+          "indexed_at": "2026-11-11T01:01:03.158665768Z",
           "indexed_by": "vibe-index 1.0.12",
           "kind": "flow",
           "name": "delegation-rules",

@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-11-11T00:24:46.626600394Z",
+  "indexed_at": "2026-11-11T01:01:03.158665768Z",
   "name": "jtd-codegen",
   "packages": [
     {
       "group": "org.vibevm.ai-native",
-      "indexed_at": "2026-11-11T00:24:46.626600394Z",
+      "indexed_at": "2026-11-11T01:01:03.158665768Z",
       "name": "jtd-codegen",
       "versions": [
         {
           "content_hash": "sha256-tree/1:01cd9761bfbdd58aa5ba2008e438d191ada22ae4455bc6a60dba5230707d9c27",
           "files_count": 3,
           "group": "org.vibevm.ai-native",
-          "indexed_at": "2026-11-11T00:24:46.626600394Z",
+          "indexed_at": "2026-11-11T01:01:03.158665768Z",
           "indexed_by": "vibe-index 1.0.12",
           "kind": "tool",
           "name": "jtd-codegen",

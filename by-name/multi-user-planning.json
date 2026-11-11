@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-11-11T00:24:46.626600394Z",
+  "indexed_at": "2026-11-11T01:01:03.158665768Z",
   "name": "multi-user-planning",
   "packages": [
     {
       "group": "org.vibevm.world",
-      "indexed_at": "2026-11-11T00:24:46.626600394Z",
+      "indexed_at": "2026-11-11T01:01:03.158665768Z",
       "name": "multi-user-planning",
       "versions": [
         {
           "content_hash": "sha256-tree/1:99396aea6688cb39b509751cb1c12d379f28bcf986af6e4022ac52574d559a15",
           "files_count": 33,
           "group": "org.vibevm.world",
-          "indexed_at": "2026-11-11T00:24:46.626600394Z",
+          "indexed_at": "2026-11-11T01:01:03.158665768Z",
           "indexed_by": "vibe-index 1.0.12",
           "kind": "flow",
           "name": "multi-user-planning",

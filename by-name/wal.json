@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-11-11T00:24:46.626600394Z",
+  "indexed_at": "2026-11-11T01:01:03.158665768Z",
   "name": "wal",
   "packages": [
     {
       "group": "org.vibevm.world",
-      "indexed_at": "2026-11-11T00:24:46.626600394Z",
+      "indexed_at": "2026-11-11T01:01:03.158665768Z",
       "name": "wal",
       "versions": [
         {
           "content_hash": "sha256-tree/1:58eccc204df7e63e78e8d15f9416b6fd528e786b74d9e0e5e2fcb859716ea0d0",
           "files_count": 9,
           "group": "org.vibevm.world",
-          "indexed_at": "2026-11-11T00:24:46.626600394Z",
+          "indexed_at": "2026-11-11T01:01:03.158665768Z",
           "indexed_by": "vibe-index 1.0.12",
           "kind": "flow",
           "name": "wal",

@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-11-11T00:24:46.626600394Z",
+  "indexed_at": "2026-11-11T01:01:03.158665768Z",
   "name": "tool-design-lessons",
   "packages": [
     {
       "group": "org.vibevm.world",
-      "indexed_at": "2026-11-11T00:24:46.626600394Z",
+      "indexed_at": "2026-11-11T01:01:03.158665768Z",
       "name": "tool-design-lessons",
       "versions": [
         {
           "content_hash": "sha256-tree/1:e77db029e4ab66a5de85b74d13acc477ed6c268ab7ac94cdc7cc030f06622410",
           "files_count": 7,
           "group": "org.vibevm.world",
-          "indexed_at": "2026-11-11T00:24:46.626600394Z",
+          "indexed_at": "2026-11-11T01:01:03.158665768Z",
           "indexed_by": "vibe-index 1.0.12",
           "kind": "flow",
           "name": "tool-design-lessons",
