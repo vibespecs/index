@@ -1,0 +1,9 @@
+{
+  "indexed_at": "2026-11-11T04:07:47.747767036Z",
+  "name": "qwen",
+  "packages": [],
+  "alias": {
+    "group": "org.vibevm.qwen",
+    "name": "qwen-code"
+  }
+}

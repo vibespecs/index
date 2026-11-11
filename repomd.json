@@ -14,7 +14,7 @@
     },
     "by-name": {
       "kind": "directory",
-      "entries": 94
+      "entries": 95
     },
     "by-name/addressable-specs.json": {
       "kind": "file",
@@ -380,6 +380,11 @@
       "kind": "file",
       "size": "2899",
       "sha256": "sha256:c8c7b64db33b3422472afc11fba348b99e643f288e13a7a87b1b99f0340f7c1d"
+    },
+    "by-name/qwen.json": {
+      "kind": "file",
+      "size": "163",
+      "sha256": "sha256:0a7ed4e83f90a21cae1d5fd56ea23364008243c8ba9f172c889452d6ac5ac37b"
     },
     "by-name/redbook.json": {
       "kind": "file",
