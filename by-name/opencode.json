@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-11-11T01:26:03.039878716Z",
+  "indexed_at": "2026-11-11T04:07:47.747767036Z",
   "name": "opencode",
   "packages": [
     {
       "group": "org.vibevm.opencode",
-      "indexed_at": "2026-11-11T01:26:03.039878716Z",
+      "indexed_at": "2026-11-11T04:07:47.747767036Z",
       "name": "opencode",
       "versions": [
         {
           "content_hash": "sha256-tree/1:94a372fbd005660ba7a47206f0d17d2248e3abaecce95f2b8222e28893529b0c",
           "files_count": 10,
           "group": "org.vibevm.opencode",
-          "indexed_at": "2026-11-11T02:41:01.847700366Z",
+          "indexed_at": "2026-11-11T04:07:47.747767036Z",
           "indexed_by": "vibe-index 1.0.11",
           "kind": "app",
           "name": "opencode",
@@ -46,7 +46,7 @@
           "content_hash": "sha256-tree/1:1b5c931cb940919342176c13f662d81c91794aa3cf7a9ed107acde57a8a2ed98",
           "files_count": 19,
           "group": "org.vibevm.opencode",
-          "indexed_at": "2026-11-11T02:41:01.847700366Z",
+          "indexed_at": "2026-11-11T04:07:47.747767036Z",
           "indexed_by": "vibe-index 1.0.11",
           "kind": "app",
           "name": "opencode",
@@ -81,7 +81,7 @@
           "content_hash": "sha256-tree/1:e06ef9ac22996ba7142608a29e383559a5cb3e9426872a393345f30bdaa9077d",
           "files_count": 19,
           "group": "org.vibevm.opencode",
-          "indexed_at": "2026-11-11T02:41:01.847700366Z",
+          "indexed_at": "2026-11-11T04:07:47.747767036Z",
           "indexed_by": "vibe-index 1.0.11",
           "kind": "app",
           "name": "opencode",
@@ -116,7 +116,7 @@
           "content_hash": "sha256-tree/1:10e2f244918c5c6d362cadac766ee2baa6d2b2dd1e489a4674a7746637af4d94",
           "files_count": 19,
           "group": "org.vibevm.opencode",
-          "indexed_at": "2026-11-11T02:41:01.847700366Z",
+          "indexed_at": "2026-11-11T04:07:47.747767036Z",
           "indexed_by": "vibe-index 1.0.11",
           "kind": "app",
           "name": "opencode",

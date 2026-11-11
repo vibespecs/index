@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-11-11T01:26:03.039878716Z",
+  "indexed_at": "2026-11-11T04:07:47.747767036Z",
   "name": "wal-specspaces",
   "packages": [
     {
       "group": "org.vibevm.world",
-      "indexed_at": "2026-11-11T01:26:03.039878716Z",
+      "indexed_at": "2026-11-11T04:07:47.747767036Z",
       "name": "wal-specspaces",
       "versions": [
         {
           "content_hash": "sha256-tree/1:fd3ddc05880b6af0374e42d18cb9df7f2f35ab2410d61447e0330c51be052d9f",
           "files_count": 5,
           "group": "org.vibevm.world",
-          "indexed_at": "2026-11-11T01:26:03.039878716Z",
+          "indexed_at": "2026-11-11T04:07:47.747767036Z",
           "indexed_by": "vibe-index 1.0.11",
           "kind": "flow",
           "name": "wal-specspaces",

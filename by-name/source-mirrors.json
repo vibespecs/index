@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-11-11T01:26:03.039878716Z",
+  "indexed_at": "2026-11-11T04:07:47.747767036Z",
   "name": "source-mirrors",
   "packages": [
     {
       "group": "org.vibevm.world",
-      "indexed_at": "2026-11-11T01:26:03.039878716Z",
+      "indexed_at": "2026-11-11T04:07:47.747767036Z",
       "name": "source-mirrors",
       "versions": [
         {
           "content_hash": "sha256-tree/1:5aa2bc90bb97123f16e9676db132f6865473b04085f7a24e9bc19651a691dc7e",
           "files_count": 7,
           "group": "org.vibevm.world",
-          "indexed_at": "2026-11-11T01:26:03.039878716Z",
+          "indexed_at": "2026-11-11T04:07:47.747767036Z",
           "indexed_by": "vibe-index 1.0.11",
           "kind": "flow",
           "name": "source-mirrors",

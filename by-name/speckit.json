@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-11-11T01:26:03.039878716Z",
+  "indexed_at": "2026-11-11T04:07:47.747767036Z",
   "name": "speckit",
   "packages": [
     {
       "group": "org.speckit",
-      "indexed_at": "2026-11-11T01:26:03.039878716Z",
+      "indexed_at": "2026-11-11T04:07:47.747767036Z",
       "name": "speckit",
       "versions": [
         {
           "content_hash": "sha256-tree/1:4dcadb9091bd3ba5405a141917aa01a48bb3f298b847efc11c2ef247c4cf2384",
           "files_count": 6,
           "group": "org.speckit",
-          "indexed_at": "2026-11-11T01:26:03.039878716Z",
+          "indexed_at": "2026-11-11T04:07:47.747767036Z",
           "indexed_by": "vibe-index 1.0.11",
           "kind": "feat",
           "name": "speckit",

@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-11-11T01:26:03.039878716Z",
+  "indexed_at": "2026-11-11T04:07:47.747767036Z",
   "name": "health-audit",
   "packages": [
     {
       "group": "org.vibevm.world",
-      "indexed_at": "2026-11-11T01:26:03.039878716Z",
+      "indexed_at": "2026-11-11T04:07:47.747767036Z",
       "name": "health-audit",
       "versions": [
         {
           "content_hash": "sha256-tree/1:db3a36d635ec1dcb08878bb1c0dccb3287b6146882e92a543c4c3397318433e6",
           "files_count": 9,
           "group": "org.vibevm.world",
-          "indexed_at": "2026-11-11T01:26:03.039878716Z",
+          "indexed_at": "2026-11-11T04:07:47.747767036Z",
           "indexed_by": "vibe-index 1.0.11",
           "kind": "flow",
           "name": "health-audit",

@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-11-11T01:26:03.039878716Z",
+  "indexed_at": "2026-11-11T04:07:47.747767036Z",
   "name": "typescript-ai-native-lang",
   "packages": [
     {
       "group": "org.vibevm.ai-native",
-      "indexed_at": "2026-11-11T01:26:03.039878716Z",
+      "indexed_at": "2026-11-11T04:07:47.747767036Z",
       "name": "typescript-ai-native-lang",
       "versions": [
         {
           "content_hash": "sha256-tree/1:bbee9fbcfe6b6d5adb9291d7321680b486afe9d28b35a22fab453864b7f240c1",
           "files_count": 170,
           "group": "org.vibevm.ai-native",
-          "indexed_at": "2026-11-11T01:26:03.039878716Z",
+          "indexed_at": "2026-11-11T04:07:47.747767036Z",
           "indexed_by": "vibe-index 1.0.11",
           "kind": "lang",
           "name": "typescript-ai-native-lang",
