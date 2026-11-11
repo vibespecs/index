@@ -1,18 +1,18 @@
 {
-  "indexed_at": "2026-11-09T06:54:06.339125222Z",
+  "indexed_at": "2026-11-11T00:24:46.626600394Z",
   "name": "node",
   "packages": [
     {
       "group": "org.vibevm.node",
-      "indexed_at": "2026-11-09T06:54:06.339125222Z",
+      "indexed_at": "2026-11-11T00:24:46.626600394Z",
       "name": "node",
       "versions": [
         {
           "content_hash": "sha256-tree/1:4bc96e370285bd04d1070174e5cda111c6812b2bf30a83dcdb7ec1a1a75b9c7d",
           "files_count": 10,
           "group": "org.vibevm.node",
-          "indexed_at": "2026-11-09T06:54:06.339125222Z",
-          "indexed_by": "vibe-index 1.0.11",
+          "indexed_at": "2026-11-11T00:24:46.626600394Z",
+          "indexed_by": "vibe-index 1.0.12",
           "kind": "app",
           "name": "node",
           "registry": "vibespecs",
@@ -46,8 +46,8 @@
           "content_hash": "sha256-tree/1:4ff41e42ddd3597c7a2f86d400c2bef88805bfb4a4c8d9ae3c13160f1989b163",
           "files_count": 10,
           "group": "org.vibevm.node",
-          "indexed_at": "2026-11-09T06:54:06.339125222Z",
-          "indexed_by": "vibe-index 1.0.11",
+          "indexed_at": "2026-11-11T00:24:46.626600394Z",
+          "indexed_by": "vibe-index 1.0.12",
           "kind": "app",
           "name": "node",
           "registry": "vibespecs",
