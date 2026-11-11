@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-11-11T01:17:12.179342848Z",
+  "indexed_at": "2026-11-11T01:26:03.039878716Z",
   "name": "campaign-plans",
   "packages": [
     {
       "group": "org.vibevm.world",
-      "indexed_at": "2026-11-11T01:17:12.179342848Z",
+      "indexed_at": "2026-11-11T01:26:03.039878716Z",
       "name": "campaign-plans",
       "versions": [
         {
           "content_hash": "sha256-tree/1:0958aff702a907784bf18262c9f1c1a0e0bb339f9406e1fa14b633cd71985615",
           "files_count": 7,
           "group": "org.vibevm.world",
-          "indexed_at": "2026-11-11T01:17:12.179342848Z",
+          "indexed_at": "2026-11-11T01:26:03.039878716Z",
           "indexed_by": "vibe-index 1.0.11",
           "kind": "flow",
           "name": "campaign-plans",

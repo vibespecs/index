@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-11-11T01:17:12.179342848Z",
+  "indexed_at": "2026-11-11T01:26:03.039878716Z",
   "name": "discovery-prompt",
   "packages": [
     {
       "group": "org.vibevm.world",
-      "indexed_at": "2026-11-11T01:17:12.179342848Z",
+      "indexed_at": "2026-11-11T01:26:03.039878716Z",
       "name": "discovery-prompt",
       "versions": [
         {
           "content_hash": "sha256-tree/1:b3e5b36ead7c6192e4e63d6bf1169fee722562852ea4b0a8ab66053db45c9157",
           "files_count": 6,
           "group": "org.vibevm.world",
-          "indexed_at": "2026-11-11T01:17:12.179342848Z",
+          "indexed_at": "2026-11-11T01:26:03.039878716Z",
           "indexed_by": "vibe-index 1.0.11",
           "kind": "flow",
           "name": "discovery-prompt",

@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-11-11T01:17:12.179342848Z",
+  "indexed_at": "2026-11-11T01:26:03.039878716Z",
   "name": "vibenvm",
   "packages": [
     {
       "group": "org.vibevm.node",
-      "indexed_at": "2026-11-11T01:17:12.179342848Z",
+      "indexed_at": "2026-11-11T01:26:03.039878716Z",
       "name": "vibenvm",
       "versions": [
         {
           "content_hash": "sha256-tree/1:8af764a0e76271e356b0b37a6a387820a24fe48d74b6cd56db45368cd46aa01b",
           "files_count": 4,
           "group": "org.vibevm.node",
-          "indexed_at": "2026-11-11T01:17:12.179342848Z",
+          "indexed_at": "2026-11-11T01:26:03.039878716Z",
           "indexed_by": "vibe-index 1.0.11",
           "kind": "app",
           "name": "vibenvm",
@@ -46,7 +46,7 @@
           "content_hash": "sha256-tree/1:c3618b56fdff39af20be50867ef0157796f0e5ef7e8edfcb641464fd2c84d5a0",
           "files_count": 4,
           "group": "org.vibevm.node",
-          "indexed_at": "2026-11-11T01:17:12.179342848Z",
+          "indexed_at": "2026-11-11T01:26:03.039878716Z",
           "indexed_by": "vibe-index 1.0.11",
           "kind": "app",
           "name": "vibenvm",
@@ -81,7 +81,7 @@
           "content_hash": "sha256-tree/1:c0240fdf6af57657ae531641a1d4b1c38e8aba4c9c9c345356c1f0119b46d816",
           "files_count": 4,
           "group": "org.vibevm.node",
-          "indexed_at": "2026-11-11T01:17:12.179342848Z",
+          "indexed_at": "2026-11-11T01:26:03.039878716Z",
           "indexed_by": "vibe-index 1.0.11",
           "kind": "app",
           "name": "vibenvm",

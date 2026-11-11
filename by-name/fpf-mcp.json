@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-11-11T01:17:12.179342848Z",
+  "indexed_at": "2026-11-11T01:26:03.039878716Z",
   "name": "fpf-mcp",
   "packages": [
     {
       "group": "ai.lev",
-      "indexed_at": "2026-11-11T01:17:12.179342848Z",
+      "indexed_at": "2026-11-11T01:26:03.039878716Z",
       "name": "fpf-mcp",
       "versions": [
         {
           "content_hash": "sha256-tree/1:1f79ab240f1aba2be2b227584d3b9ca60d79725c14a0e3bd89b40781963ba761",
           "files_count": 4,
           "group": "ai.lev",
-          "indexed_at": "2026-11-11T01:17:12.179342848Z",
+          "indexed_at": "2026-11-11T01:26:03.039878716Z",
           "indexed_by": "vibe-index 1.0.11",
           "kind": "mcp",
           "name": "fpf-mcp",

@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-11-11T01:17:12.179342848Z",
+  "indexed_at": "2026-11-11T01:26:03.039878716Z",
   "name": "pxnode",
   "packages": [
     {
       "group": "org.vibevm.pxworld",
-      "indexed_at": "2026-11-11T01:17:12.179342848Z",
+      "indexed_at": "2026-11-11T01:26:03.039878716Z",
       "name": "pxnode",
       "versions": [
         {
           "content_hash": "sha256-tree/1:c74690551ba418f0fe9373b8c13cb79b8f3a0e6a4fb8153712f049e5f6aaff69",
           "files_count": 11,
           "group": "org.vibevm.pxworld",
-          "indexed_at": "2026-11-11T01:17:12.179342848Z",
+          "indexed_at": "2026-11-11T01:26:03.039878716Z",
           "indexed_by": "vibe-index 1.0.11",
           "kind": "app",
           "name": "pxnode",

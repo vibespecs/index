@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-11-11T01:17:12.179342848Z",
+  "indexed_at": "2026-11-11T01:26:03.039878716Z",
   "name": "core-ai-native",
   "packages": [
     {
       "group": "org.vibevm.ai-native",
-      "indexed_at": "2026-11-11T01:17:12.179342848Z",
+      "indexed_at": "2026-11-11T01:26:03.039878716Z",
       "name": "core-ai-native",
       "versions": [
         {
           "content_hash": "sha256-tree/1:f24bb3f57abc75da636525c7b49b1da88509200e5a71f75b3ebc4dd3cb3eb92c",
           "files_count": 112,
           "group": "org.vibevm.ai-native",
-          "indexed_at": "2026-11-11T01:17:12.179342848Z",
+          "indexed_at": "2026-11-11T01:26:03.039878716Z",
           "indexed_by": "vibe-index 1.0.11",
           "kind": "flow",
           "name": "core-ai-native",

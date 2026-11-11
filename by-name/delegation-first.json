@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-11-11T01:17:12.179342848Z",
+  "indexed_at": "2026-11-11T01:26:03.039878716Z",
   "name": "delegation-first",
   "packages": [
     {
       "group": "org.vibevm.fractality",
-      "indexed_at": "2026-11-11T01:17:12.179342848Z",
+      "indexed_at": "2026-11-11T01:26:03.039878716Z",
       "name": "delegation-first",
       "versions": [
         {
           "content_hash": "sha256-tree/1:60b465e95a1e43bfb00ca4b0babb0cb5277c536d100df5eb3dc7fd2bfdcefbb1",
           "files_count": 5,
           "group": "org.vibevm.fractality",
-          "indexed_at": "2026-11-11T01:17:12.179342848Z",
+          "indexed_at": "2026-11-11T01:26:03.039878716Z",
           "indexed_by": "vibe-index 1.0.11",
           "kind": "flow",
           "name": "delegation-first",

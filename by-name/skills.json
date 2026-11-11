@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-11-11T01:17:12.179342848Z",
+  "indexed_at": "2026-11-11T01:26:03.039878716Z",
   "name": "skills",
   "packages": [
     {
       "group": "com.mattpocock",
-      "indexed_at": "2026-11-11T01:17:12.179342848Z",
+      "indexed_at": "2026-11-11T01:26:03.039878716Z",
       "name": "skills",
       "versions": [
         {
           "content_hash": "sha256-tree/1:dbe2d215af79bc597e8db22bd416fc039b57059989bfa7d51489a7df6c8a0054",
           "files_count": 5,
           "group": "com.mattpocock",
-          "indexed_at": "2026-11-11T01:17:12.179342848Z",
+          "indexed_at": "2026-11-11T01:26:03.039878716Z",
           "indexed_by": "vibe-index 1.0.11",
           "kind": "feat",
           "name": "skills",

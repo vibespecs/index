@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-11-11T01:17:12.179342848Z",
+  "indexed_at": "2026-11-11T01:26:03.039878716Z",
   "name": "vim",
   "packages": [
     {
       "group": "org.vibevm.apps",
-      "indexed_at": "2026-11-11T01:17:12.179342848Z",
+      "indexed_at": "2026-11-11T01:26:03.039878716Z",
       "name": "vim",
       "versions": [
         {
           "content_hash": "sha256-tree/1:817c6c59f32118ec082389d3dc6cfc59e55358afdf0edd00a83998b59a2332e7",
           "files_count": 12,
           "group": "org.vibevm.apps",
-          "indexed_at": "2026-11-11T01:17:12.179342848Z",
+          "indexed_at": "2026-11-11T01:26:03.039878716Z",
           "indexed_by": "vibe-index 1.0.11",
           "kind": "app",
           "name": "vim",

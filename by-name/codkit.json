@@ -1,17 +1,17 @@
 {
-  "indexed_at": "2026-11-11T01:17:12.179342848Z",
+  "indexed_at": "2026-11-11T01:26:03.039878716Z",
   "name": "codkit",
   "packages": [
     {
       "group": "org.vibevm.codkit",
-      "indexed_at": "2026-11-11T01:17:12.179342848Z",
+      "indexed_at": "2026-11-11T01:26:03.039878716Z",
       "name": "codkit",
       "versions": [
         {
           "content_hash": "sha256-tree/1:adf7af2dd42d9c2bde1934cbc3a3db7cf485f81ffaf440b285eed98b84b64d58",
           "files_count": 10,
           "group": "org.vibevm.codkit",
-          "indexed_at": "2026-11-11T01:17:12.179342848Z",
+          "indexed_at": "2026-11-11T01:26:03.039878716Z",
           "indexed_by": "vibe-index 1.0.11",
           "kind": "app",
           "name": "codkit",
