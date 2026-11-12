@@ -81,5 +81,9 @@
       ],
       "latest_stable": "0.27.2"
     }
-  ]
+  ],
+  "alias": {
+    "group": "org.vibevm.qwen",
+    "name": "qwen-code"
+  }
 }

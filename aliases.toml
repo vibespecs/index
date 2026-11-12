@@ -1,12 +1,19 @@
-# vibe registry alias table 1 — short spellings this registry offers.
+# vibe registry alias table 1 — the short names this registry issues.
 #
 # Authored by the REGISTRY OWNER. A package cannot declare its own
 # alias: a short spelling is a registry-wide namespace, and package-
 # declared aliases would be an uncontrolled race for the good ones.
+# A bare `vibe install <name>` resolves through these rows and through
+# nothing else — a package is not reachable by its own name unless a
+# row here issues it, which `name = "group/name"` does.
 # Edit with `vibe-index alias <data-dir> add|remove|list`, or, for a
 # monorepo/localdir registry, `vibe registry alias <registry> …`.
 
 schema = 1
 
 [aliases]
+node = "org.vibevm.node/node"
+nvm = "org.vibevm.nvm/nvm"
+opencode = "org.vibevm.opencode/opencode"
 qwen = "org.vibevm.qwen/qwen-code"
+qwen-code = "org.vibevm.qwen/qwen-code"

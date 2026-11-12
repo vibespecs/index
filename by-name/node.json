@@ -222,5 +222,9 @@
       ],
       "latest_stable": "26.13.0"
     }
-  ]
+  ],
+  "alias": {
+    "group": "org.vibevm.node",
+    "name": "node"
+  }
 }

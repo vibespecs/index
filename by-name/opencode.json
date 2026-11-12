@@ -149,5 +149,9 @@
       ],
       "latest_stable": "2.2.7"
     }
-  ]
+  ],
+  "alias": {
+    "group": "org.vibevm.opencode",
+    "name": "opencode"
+  }
 }

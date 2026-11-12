@@ -80,5 +80,9 @@
       ],
       "latest_stable": "1.0.1"
     }
-  ]
+  ],
+  "alias": {
+    "group": "org.vibevm.nvm",
+    "name": "nvm"
+  }
 }

@@ -343,13 +343,13 @@
     },
     "by-name/node.json": {
       "kind": "file",
-      "size": "7691",
-      "sha256": "sha256:c452f43f8262ed418c42d258f52af833b3b9753335e29621583573eaf0fc3d88"
+      "size": "7760",
+      "sha256": "sha256:d06abb6ee6984287ea447ab9266e22e7f9af8b9cfd3d21f26980fb54a3c1676f"
     },
     "by-name/nvm.json": {
       "kind": "file",
-      "size": "2842",
-      "sha256": "sha256:b1801095d98d6ca9076bc22a6af80bf0202af93ea08de18940f8958b885e16b3"
+      "size": "2909",
+      "sha256": "sha256:98b7e4da92c0621b9428075528d090c78ce91b5f2ef01d06d671a9e1bc848df4"
     },
     "by-name/omnichannel.json": {
       "kind": "file",
@@ -358,8 +358,8 @@
     },
     "by-name/opencode.json": {
       "kind": "file",
-      "size": "5489",
-      "sha256": "sha256:c1367e8f9e8f7d4006c912f3df88daec7f79d5b8371dd5fee4a70393243f5cf8"
+      "size": "5566",
+      "sha256": "sha256:56628d34f5bc8aa861d56d5046e356417e538c74283e7041d07f0853f8bd283a"
     },
     "by-name/operating-modes.json": {
       "kind": "file",
@@ -383,8 +383,8 @@
     },
     "by-name/qwen-code.json": {
       "kind": "file",
-      "size": "2899",
-      "sha256": "sha256:c8c7b64db33b3422472afc11fba348b99e643f288e13a7a87b1b99f0340f7c1d"
+      "size": "2973",
+      "sha256": "sha256:5b1d37cda0d657c4ac200d5f9a2454fe730e16b3983b5e01b0c58d9d8d35137c"
     },
     "by-name/qwen.json": {
       "kind": "file",
