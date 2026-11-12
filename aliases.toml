@@ -12,8 +12,14 @@
 schema = 1
 
 [aliases]
+codkit = "org.vibevm.codkit/codkit"
+fractality = "org.vibevm.fractality/fractality"
+mingw-w64 = "org.vibevm.apps/mingw-w64"
 node = "org.vibevm.node/node"
 nvm = "org.vibevm.nvm/nvm"
 opencode = "org.vibevm.opencode/opencode"
+pxnode = "org.vibevm.pxworld/pxnode"
+pxpip = "org.vibevm.pxworld/pxpip"
 qwen = "org.vibevm.qwen/qwen-code"
 qwen-code = "org.vibevm.qwen/qwen-code"
+vim = "org.vibevm.apps/vim"

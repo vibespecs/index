@@ -43,5 +43,9 @@
       ],
       "latest_stable": "15.2.1"
     }
-  ]
+  ],
+  "alias": {
+    "group": "org.vibevm.apps",
+    "name": "mingw-w64"
+  }
 }

@@ -4,7 +4,7 @@
   "registry_url": "https://github.com/vibespecs",
   "naming": "fqdn",
   "generated_at": "2026-11-12T00:45:30.239359726Z",
-  "generator": "vibe-index 1.0.11",
+  "generator": "vibe-index 1.0.12",
   "package_count": 96,
   "version_count": 106,
   "files": {
@@ -28,8 +28,8 @@
     },
     "by-name/codkit.json": {
       "kind": "file",
-      "size": "1522",
-      "sha256": "sha256:a94bf0c69166416c1694b82e7321c2bec148a545674b83e8f3ef70c5b2d0235b"
+      "size": "1595",
+      "sha256": "sha256:426c61d814752349d6e083dbbec55f0715183bfc54a2f6293638d54f713d242c"
     },
     "by-name/comparative-research.json": {
       "kind": "file",
@@ -263,8 +263,8 @@
     },
     "by-name/fractality.json": {
       "kind": "file",
-      "size": "2182",
-      "sha256": "sha256:581f96b6098ea3373cc0154d244c6aae1c8ac05e29c2ae69714021f9988758d4"
+      "size": "2263",
+      "sha256": "sha256:a47590aac98607dd2b06507f83fe11bd145d6a86e3f0f5c4db137fbe9aebbc4e"
     },
     "by-name/git-atomic-commits.json": {
       "kind": "file",
@@ -333,8 +333,8 @@
     },
     "by-name/mingw-w64.json": {
       "kind": "file",
-      "size": "1445",
-      "sha256": "sha256:fe15766721a5cb3f32706d560106f3f5235d7414b1c4daf2acda5adc8c6ea743"
+      "size": "1519",
+      "sha256": "sha256:977e402af9d190f24226d2992f088c019e2f570b921ba35c562d52ee36e05c13"
     },
     "by-name/multi-user-planning.json": {
       "kind": "file",
@@ -368,13 +368,13 @@
     },
     "by-name/pxnode.json": {
       "kind": "file",
-      "size": "1505",
-      "sha256": "sha256:12e8a17cca8d204bee21f8a5ddba8759f867db880c027b2a8195db1848ace8e2"
+      "size": "1579",
+      "sha256": "sha256:67e54bb690ee697d14482cd0fc53ae933afc819d33e606468388da707777d9da"
     },
     "by-name/pxpip.json": {
       "kind": "file",
-      "size": "1530",
-      "sha256": "sha256:dc21d15566e76e037c990e374ca386169527e8e536d4622b29ea0740a1e66d48"
+      "size": "1603",
+      "sha256": "sha256:143457b8ea9a31e66e9860e66ff1cc51cf39ec70ebcc29f3002f75f5c6395b96"
     },
     "by-name/qualified-naming.json": {
       "kind": "file",
@@ -473,8 +473,8 @@
     },
     "by-name/vim.json": {
       "kind": "file",
-      "size": "1340",
-      "sha256": "sha256:f03710b6fecabea572f36cba3550decdd4a12583475d539bf596f262b5ac779b"
+      "size": "1408",
+      "sha256": "sha256:7863adfee7e059d6ab8ba7d57f25d36f83cdb6feb1c7287b5acc670ec21b9a8b"
     },
     "by-name/wal-specspaces.json": {
       "kind": "file",

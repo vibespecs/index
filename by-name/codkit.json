@@ -44,5 +44,9 @@
       ],
       "latest_stable": "1.0.0"
     }
-  ]
+  ],
+  "alias": {
+    "group": "org.vibevm.codkit",
+    "name": "codkit"
+  }
 }

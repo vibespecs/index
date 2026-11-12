@@ -41,5 +41,9 @@
       ],
       "latest_stable": "1.1.2"
     }
-  ]
+  ],
+  "alias": {
+    "group": "org.vibevm.apps",
+    "name": "vim"
+  }
 }
