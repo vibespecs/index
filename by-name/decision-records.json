@@ -43,9 +43,45 @@
           ],
           "license": "UPL-1.0",
           "resolved_commit": "d001025f2ce14f964a5d663f55dd253e1881b57e"
+        },
+        {
+          "content_hash": "sha256-tree/1:c13fbbbe988a6b89fdb83217d8739cefb2767b7e96f0f6b04bcaa515df52be86",
+          "files_count": 7,
+          "group": "org.vibevm.world",
+          "indexed_at": "2026-11-23T06:44:33.946180896Z",
+          "indexed_by": "vibe-index 1.0.12",
+          "kind": "flow",
+          "name": "decision-records",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.12",
+          "source_url": "https://github.com/vibespecs/org.vibevm.world.decision-records.git",
+          "version": "1.0.12",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/25-flow-decision-records.xml",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "Decisions, not facts: record why with data and a revisit trigger, at the spec anchor the decision governs",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "decisions",
+            "adr",
+            "rationale",
+            "spec-driven",
+            "memory"
+          ],
+          "license": "UPL-1.0"
         }
       ],
-      "latest_stable": "1.0.0"
+      "latest_stable": "1.0.12"
     }
   ]
 }
