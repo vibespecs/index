@@ -3,10 +3,10 @@
   "registry": "vibespecs",
   "registry_url": "https://github.com/vibespecs",
   "naming": "fqdn",
-  "generated_at": "2026-11-23T06:44:04.195920385Z",
+  "generated_at": "2026-11-23T06:44:08.033183887Z",
   "generator": "vibe-index 1.0.12",
-  "package_count": 98,
-  "version_count": 120,
+  "package_count": 99,
+  "version_count": 121,
   "files": {
     "by-cap": {
       "kind": "directory",
@@ -14,7 +14,7 @@
     },
     "by-name": {
       "kind": "directory",
-      "entries": 97
+      "entries": 98
     },
     "by-name/addressable-specs.json": {
       "kind": "file",
@@ -389,7 +389,7 @@
     "by-name/qwen.json": {
       "kind": "file",
       "size": "163",
-      "sha256": "sha256:8a2cb7130cfbd4a1a764b301694d6c5020b45675d5bb2bbed3a87badceb5cf20"
+      "sha256": "sha256:24de7dc13609ac750ba91c01e19e198c408ff1cf756afa8c65eb4a09f87006ea"
     },
     "by-name/redbook.json": {
       "kind": "file",
@@ -496,6 +496,11 @@
       "size": "1618",
       "sha256": "sha256:2c7f16ecdc16d9fbb884615ac112cc6e21c975f5e66d85ed23ad97fbc4b64f47"
     },
+    "by-name/web.json": {
+      "kind": "file",
+      "size": "2379",
+      "sha256": "sha256:1f06e36bff136f78d75889c8ea9d2f99e4c7e25afb722652f39f871183e48815"
+    },
     "by-name/zai-glm-claude.json": {
       "kind": "file",
       "size": "1645",
@@ -517,13 +522,13 @@
     },
     "primary.jsonl": {
       "kind": "file",
-      "size": "123359",
-      "sha256": "sha256:ea793e1da2e357fd7c8dc57b8c06f0476415ec0ad5b4ac39cbebcc9cd14eab8d"
+      "size": "124994",
+      "sha256": "sha256:095899ececc50fe71637e3e5ede124828b4d947538ba4b53c48cb716d7db9918"
     },
     "primary.jsonl.gz": {
       "kind": "file",
-      "size": "21069",
-      "sha256": "sha256:ad19285d67c6cbbab97e9414c62a1de88a0b8363e3adf1b34efb2384b17b3bd2"
+      "size": "21569",
+      "sha256": "sha256:6557f6480681efc017074010b269ae95ebb4390686cb56b4035684ea1a381980"
     }
   }
 }
