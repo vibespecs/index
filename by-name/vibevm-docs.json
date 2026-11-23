@@ -1,0 +1,55 @@
+{
+  "indexed_at": "2026-11-23T06:44:04.195920385Z",
+  "name": "vibevm-docs",
+  "packages": [
+    {
+      "group": "org.vibevm.core",
+      "indexed_at": "2026-11-23T06:44:04.195920385Z",
+      "name": "vibevm-docs",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:ef88d477a5baa66459dd7767c423a5b77189ec4d41ea0f8e80f496bfe15fb2f1",
+          "files_count": 306,
+          "group": "org.vibevm.core",
+          "indexed_at": "2026-11-23T06:44:04.195920385Z",
+          "indexed_by": "vibe-index 1.0.12",
+          "kind": "doc",
+          "name": "vibevm-docs",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.12",
+          "source_url": "https://github.com/vibespecs/org.vibevm.core.vibevm-docs.git",
+          "version": "1.0.12",
+          "abstract": "What it covers: what VibeVM is and how it gives a coding agent the right text to read; installing vibe; creating a project; packages, registries, the lock file and the machine store; installing, updating, publishing and working offline; giving an agent the vibevm skill and asking it to do the work; the lifecycle from validate to deploy; a full command, manifest, lock-file and settings reference; writing packages of every kind, including documentation and its translations.\nFor whom: people who run vibe in their projects, people who write packages, and the agents that read on their behalf.\nWhat it assumes known: how to use a terminal and a text editor, what a coding agent is, and what a package manager does for a programming language.\nWhat it leaves out: the normative specifications themselves (this manual quotes them, never restates them), the internals of any one agent product, and the design history of vibe.\n",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "1.0.0"
+          },
+          "description": "The VibeVM manual: install vibe, understand packages and the boot lane, work with an agent, author and publish packages.",
+          "documents": [
+            {
+              "package": "org.vibevm.core/vibevm",
+              "version": "^1.0"
+            }
+          ],
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "documentation",
+            "manual",
+            "vibevm",
+            "packages",
+            "agents",
+            "lifecycle"
+          ],
+          "license": "UPL-1.0",
+          "title": "VibeVM Manual"
+        }
+      ],
+      "latest_stable": "1.0.12"
+    }
+  ]
+}
