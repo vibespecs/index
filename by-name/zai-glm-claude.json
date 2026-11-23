@@ -43,9 +43,45 @@
           ],
           "license": "UPL-1.0",
           "resolved_commit": "47190f4ee3a936b52c5edc0330667149665518a2"
+        },
+        {
+          "content_hash": "sha256-tree/1:3ace67105504aac1fe37b9d79ad68772988ddf055dab1986ea6d533a1b6854ba",
+          "files_count": 15,
+          "group": "org.vibevm.world",
+          "indexed_at": "2026-11-23T06:45:48.803921330Z",
+          "indexed_by": "vibe-index 1.0.12",
+          "kind": "tool",
+          "name": "zai-glm-claude",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.12",
+          "source_url": "https://github.com/vibespecs/org.vibevm.world.zai-glm-claude.git",
+          "version": "1.0.12",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/75-tool-zai-glm-claude.xml",
+            "category": "tool"
+          },
+          "compatibility": {
+            "min_vibe_version": "1.0.0"
+          },
+          "description": "A receipt-installed Claude Code launcher and complete parent/worker protocol for delegating to z.ai GLM models from Claude or Codex",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "zai",
+            "glm",
+            "claude-code",
+            "delegation",
+            "agents"
+          ],
+          "license": "UPL-1.0"
         }
       ],
-      "latest_stable": "1.0.0"
+      "latest_stable": "1.0.12"
     }
   ]
 }
