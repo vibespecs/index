@@ -43,9 +43,45 @@
           ],
           "license": "UPL-1.0",
           "resolved_commit": "a18eb686012aa0455f67e9ab53bf3a11a786b860"
+        },
+        {
+          "content_hash": "sha256-tree/1:caccc28d60eaad687d1e01728dff0f716245a0412b0670794d6c79115b510f59",
+          "files_count": 7,
+          "group": "org.vibevm.world",
+          "indexed_at": "2026-11-23T06:45:27.636226468Z",
+          "indexed_by": "vibe-index 1.0.12",
+          "kind": "flow",
+          "name": "spec-genres",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.12",
+          "source_url": "https://github.com/vibespecs/org.vibevm.world.spec-genres.git",
+          "version": "1.0.12",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/17-flow-spec-genres.xml",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "Spec genres: contract vs lore vs research vs plans — what goes where, who wins, and the two-way links that survive a cold start",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "specs",
+            "genres",
+            "design-docs",
+            "documentation",
+            "taxonomy"
+          ],
+          "license": "UPL-1.0"
         }
       ],
-      "latest_stable": "1.0.0"
+      "latest_stable": "1.0.12"
     }
   ]
 }
