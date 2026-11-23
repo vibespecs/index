@@ -48,9 +48,51 @@
           ],
           "license": "UPL-1.0",
           "resolved_commit": "07b77b0e333cd1157ff61928fbb8e1f395bcfcae"
+        },
+        {
+          "content_hash": "sha256-tree/1:b896384e12623ee17a5e09697e8735f90184cae2052e0b0f1b5e9245da97407d",
+          "files_count": 47,
+          "group": "org.vibevm.world",
+          "indexed_at": "2026-11-23T06:45:06.604231988Z",
+          "indexed_by": "vibe-index 1.0.12",
+          "kind": "flow",
+          "name": "multi-user-planning",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.12",
+          "source_url": "https://github.com/vibespecs/org.vibevm.world.multi-user-planning.git",
+          "version": "1.0.12",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/12-flow-multi-user-planning.xml",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "Multi-contributor campaign stewardship with advisory parallel analysis, targeted verification, recovery, and deterministic goals",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "planning",
+            "campaigns",
+            "multi-user",
+            "parallel",
+            "goal",
+            "verification",
+            "continuation",
+            "recovery",
+            "handoff",
+            "agents",
+            "viewer"
+          ],
+          "license": "UPL-1.0"
         }
       ],
-      "latest_stable": "1.0.0"
+      "latest_stable": "1.0.12"
     }
   ]
 }
