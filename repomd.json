@@ -3,10 +3,10 @@
   "registry": "vibespecs",
   "registry_url": "https://github.com/vibespecs",
   "naming": "fqdn",
-  "generated_at": "2026-11-23T06:45:27.636226468Z",
+  "generated_at": "2026-11-23T06:45:30.689433114Z",
   "generator": "vibe-index 1.0.12",
   "package_count": 99,
-  "version_count": 147,
+  "version_count": 148,
   "files": {
     "by-cap": {
       "kind": "directory",
@@ -389,7 +389,7 @@
     "by-name/qwen.json": {
       "kind": "file",
       "size": "163",
-      "sha256": "sha256:67d53fd4fc6ccfd9e0d95d37547fc461831e982893a80f91f098543297632b16"
+      "sha256": "sha256:a8234f1058cac768c6e7988cf4c5e8dd248f9b321fcc7ca9932deb3e5dd50934"
     },
     "by-name/redbook.json": {
       "kind": "file",
@@ -438,8 +438,8 @@
     },
     "by-name/sync-from-code.json": {
       "kind": "file",
-      "size": "1580",
-      "sha256": "sha256:fe337c6eb03c0dd70e914a93768138fd41521397388c9f49e05b0933c00a961b"
+      "size": "2796",
+      "sha256": "sha256:6dd87bc2922e5693ca3d99e93bf1ec2abab531a6944079e8ddea34eedaa44af4"
     },
     "by-name/tool-design-lessons.json": {
       "kind": "file",
@@ -522,13 +522,13 @@
     },
     "primary.jsonl": {
       "kind": "file",
-      "size": "149899",
-      "sha256": "sha256:acf84123a2e91e78aec4b6867a187aa770e6b4a1dfdf8a280e12935d582bd50d"
+      "size": "150692",
+      "sha256": "sha256:56080cb208a07edc620b50218433ed14cf606ee82313bb6300fb3329f41b62ba"
     },
     "primary.jsonl.gz": {
       "kind": "file",
-      "size": "23829",
-      "sha256": "sha256:56d52b5b6ed62cb65f86071fed74577e778d7da77601d299a8400d1eb2a3bf6b"
+      "size": "23899",
+      "sha256": "sha256:d3659defdb0eb8da86d5a534631839837b337b25c03b81db3cffa3f65aa1463b"
     }
   }
 }

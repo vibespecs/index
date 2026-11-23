@@ -42,9 +42,44 @@
           ],
           "license": "UPL-1.0",
           "resolved_commit": "5f2f6805f72929d520913dc932a9e9e177638596"
+        },
+        {
+          "content_hash": "sha256-tree/1:c9dbc7ca61c68c2db1188bb57dee210cd8c06eda502173a8bea0d9c21a724bc7",
+          "files_count": 8,
+          "group": "org.vibevm.world",
+          "indexed_at": "2026-11-23T06:45:30.689433114Z",
+          "indexed_by": "vibe-index 1.0.12",
+          "kind": "flow",
+          "name": "sync-from-code",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.12",
+          "source_url": "https://github.com/vibespecs/org.vibevm.world.sync-from-code.git",
+          "version": "1.0.12",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/20-flow-sync-from-code.xml",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "Sync-from-Code protocol: reconcile specs with code when the code changed first",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "sync",
+            "reconciliation",
+            "spec-drift",
+            "discipline"
+          ],
+          "license": "UPL-1.0"
         }
       ],
-      "latest_stable": "1.0.0"
+      "latest_stable": "1.0.12"
     }
   ]
 }
