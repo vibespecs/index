@@ -43,9 +43,45 @@
           ],
           "license": "UPL-1.0",
           "resolved_commit": "79d9a333891f354f2d06b0ea92aa7ed937f1bdc5"
+        },
+        {
+          "content_hash": "sha256-tree/1:d1f9d325e7bce670f24bbbddd4e650bb2b3c17aadc5ac94e895b572384e85bd3",
+          "files_count": 7,
+          "group": "org.vibevm.world",
+          "indexed_at": "2026-11-23T06:44:45.869278437Z",
+          "indexed_by": "vibe-index 1.0.12",
+          "kind": "flow",
+          "name": "git-attribution-policy",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.12",
+          "source_url": "https://github.com/vibespecs/org.vibevm.world.git-attribution-policy.git",
+          "version": "1.0.12",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/55-flow-attribution-policy.xml",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "A deliberate authorship-attribution posture for AI-assisted repositories: human-authored surface by default, with the disclosure alternative documented",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "attribution",
+            "authorship",
+            "policy",
+            "git",
+            "compliance"
+          ],
+          "license": "UPL-1.0"
         }
       ],
-      "latest_stable": "1.0.0"
+      "latest_stable": "1.0.12"
     }
   ]
 }
