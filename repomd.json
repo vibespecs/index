@@ -3,10 +3,10 @@
   "registry": "vibespecs",
   "registry_url": "https://github.com/vibespecs",
   "naming": "fqdn",
-  "generated_at": "2026-11-23T06:45:48.803921330Z",
+  "generated_at": "2026-11-23T06:45:51.746965235Z",
   "generator": "vibe-index 1.0.12",
-  "package_count": 100,
-  "version_count": 154,
+  "package_count": 101,
+  "version_count": 155,
   "files": {
     "by-cap": {
       "kind": "directory",
@@ -14,7 +14,7 @@
     },
     "by-name": {
       "kind": "directory",
-      "entries": 99
+      "entries": 100
     },
     "by-name/addressable-specs.json": {
       "kind": "file",
@@ -389,7 +389,7 @@
     "by-name/qwen.json": {
       "kind": "file",
       "size": "163",
-      "sha256": "sha256:c8e8230e1783f1f8f308cd7794b73dbf29d20f0b56cb51af2c5269e6e162cb14"
+      "sha256": "sha256:401365a645601294307b925a5a5baa3481bee0c65dffcf9996ce30ab7a0ae933"
     },
     "by-name/redbook.json": {
       "kind": "file",
@@ -511,9 +511,14 @@
       "size": "2926",
       "sha256": "sha256:b027a466bc8e454735f88984f032234536080e59a398b6cfd665e1cc58beb65d"
     },
+    "by-name/zap.json": {
+      "kind": "file",
+      "size": "1355",
+      "sha256": "sha256:9e2b8682b406a11b0681c022f1cd3e1348e1a69b6be2f7b580a1156d3927ea27"
+    },
     "by-purl": {
       "kind": "directory",
-      "entries": 2
+      "entries": 3
     },
     "by-purl/pkg--github--github--spec-kit--1.0.6.jsonl": {
       "kind": "file",
@@ -525,15 +530,20 @@
       "size": "144",
       "sha256": "sha256:0bec60e09d088d53655252830ba937684ede5ffab5d3c34cc472ee2755f024bc"
     },
+    "by-purl/pkg--github--vibevm--zap--1.0.0.jsonl": {
+      "kind": "file",
+      "size": "135",
+      "sha256": "sha256:0e73954ddf06a1c067a447977b79734e421c0ea42b5ffacc7eba206daec32a6a"
+    },
     "primary.jsonl": {
       "kind": "file",
-      "size": "156085",
-      "sha256": "sha256:36b0cc2b5d4337edb0512dfa16248d1a13090636217b56e47a4a722409765b6c"
+      "size": "156787",
+      "sha256": "sha256:3fab69ad53471d59de9452c3f65c110d7f64a132c9ee7cf2338247a9293213f8"
     },
     "primary.jsonl.gz": {
       "kind": "file",
-      "size": "24480",
-      "sha256": "sha256:f4b2e144514044a5abf39843dd0e0aa31887ec3578210391b19e7dfa15f09d38"
+      "size": "24646",
+      "sha256": "sha256:c644c31186e80a1098407b879b0a198874a688246ac825771ee1653eb1afcafa"
     }
   }
 }

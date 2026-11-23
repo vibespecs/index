@@ -1,0 +1,46 @@
+{
+  "indexed_at": "2026-11-23T06:45:51.746965235Z",
+  "name": "zap",
+  "packages": [
+    {
+      "group": "org.vibevm.zap",
+      "indexed_at": "2026-11-23T06:45:51.746965235Z",
+      "name": "zap",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:2236cbaf840cde3f90138f6fa2859e948a081951197b61cc22b8c88221d78566",
+          "files_count": 3,
+          "group": "org.vibevm.zap",
+          "indexed_at": "2026-11-23T06:45:51.746965235Z",
+          "indexed_by": "vibe-index 1.0.12",
+          "kind": "flow",
+          "name": "zap",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.12",
+          "source_url": "https://github.com/vibespecs/org.vibevm.zap.zap.git",
+          "version": "1.0.12",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "bridge": true,
+          "compatibility": {
+            "min_vibe_version": "1.0.0"
+          },
+          "describes": "pkg:github/vibevm/zap@1.0.0",
+          "description": "Published bridge to the Zap user application source and verified releases",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "zap",
+            "agents",
+            "application"
+          ],
+          "license": "UPL-1.0"
+        }
+      ],
+      "latest_stable": "1.0.12"
+    }
+  ]
+}
