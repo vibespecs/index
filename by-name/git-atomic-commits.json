@@ -43,9 +43,45 @@
           ],
           "license": "UPL-1.0",
           "resolved_commit": "25457d9f0cc78d68732fcc306ee4900d6396d49d"
+        },
+        {
+          "content_hash": "sha256-tree/1:5c74b304f4fd3b35d9a6526e7a8b50f5d8155a0a758943df2e8a6a05388f514f",
+          "files_count": 6,
+          "group": "org.vibevm.world",
+          "indexed_at": "2026-11-23T06:44:42.788550044Z",
+          "indexed_by": "vibe-index 1.0.12",
+          "kind": "flow",
+          "name": "git-atomic-commits",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.12",
+          "source_url": "https://github.com/vibespecs/org.vibevm.world.git-atomic-commits.git",
+          "version": "1.0.12",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/30-flow-atomic-commits.xml",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "Atomic commits discipline: one commit = one logical idea — how to split a mixed working tree, when to batch, and why atomicity matters more in a human-AI team (the message FORMAT is the separate conventional-commits flow)",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "git",
+            "commits",
+            "atomicity",
+            "discipline",
+            "splitting"
+          ],
+          "license": "UPL-1.0"
         }
       ],
-      "latest_stable": "1.0.0"
+      "latest_stable": "1.0.12"
     }
   ]
 }
