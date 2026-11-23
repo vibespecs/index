@@ -43,9 +43,45 @@
           ],
           "license": "UPL-1.0",
           "resolved_commit": "e2225a9a54b648e1ba96d26bbbe0bf5476f2ecfd"
+        },
+        {
+          "content_hash": "sha256-tree/1:f8d52d031820573aa999a89c4285041fe79f35a9e3af64d5a39aceda9a9006d3",
+          "files_count": 7,
+          "group": "org.vibevm.world",
+          "indexed_at": "2026-11-23T06:45:36.687201513Z",
+          "indexed_by": "vibe-index 1.0.12",
+          "kind": "flow",
+          "name": "two-process-model",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.12",
+          "source_url": "https://github.com/vibespecs/org.vibevm.world.two-process-model.git",
+          "version": "1.0.12",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/05-flow-two-process-model.xml",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "The two-process model: human and AI as coprocessors with complementary architectures, files as the only shared memory",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "coprocessors",
+            "cognitive-load",
+            "collaboration",
+            "foundations",
+            "ipc"
+          ],
+          "license": "UPL-1.0"
         }
       ],
-      "latest_stable": "1.0.0"
+      "latest_stable": "1.0.12"
     }
   ]
 }
