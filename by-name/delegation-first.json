@@ -50,9 +50,52 @@
             ]
           },
           "resolved_commit": "6f95e9b0d017a4385ac132460b1e3df5862e655b"
+        },
+        {
+          "content_hash": "sha256-tree/1:55abfaf308a514d0d899e0d0cca7b38165fac69a5dc673f5397233f111b59b2f",
+          "files_count": 5,
+          "group": "org.vibevm.fractality",
+          "indexed_at": "2026-11-23T06:44:11.051204596Z",
+          "indexed_by": "vibe-index 1.0.12",
+          "kind": "flow",
+          "name": "delegation-first",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.12",
+          "source_url": "https://github.com/vibespecs/org.vibevm.fractality.delegation-first.git",
+          "version": "1.0.12",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/76-flow-delegation-first.xml",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "The standing delegation directive for a boss–worker agent setup: delegate execution by default and reserve the expensive boss for judgment and review — the posture layer above the delegation-rules calculus",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "delegation",
+            "agents",
+            "orchestration",
+            "directive",
+            "policy"
+          ],
+          "license": "UPL-1.0",
+          "requires": {
+            "packages": [
+              "flow:org.vibevm.fractality/delegation-rules@^1.0.0",
+              "flow:org.vibevm.world/redbook@^1.0.0",
+              "stack:org.vibevm.ai-native/rust-ai-native@^1.0.0"
+            ]
+          }
         }
       ],
-      "latest_stable": "1.0.0"
+      "latest_stable": "1.0.12"
     }
   ]
 }
