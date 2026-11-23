@@ -49,9 +49,51 @@
             ]
           },
           "resolved_commit": "1d242ca90759aef364941aefab0e5abee0d25b48"
+        },
+        {
+          "content_hash": "sha256-tree/1:ef02de21196782060ae98364dbc97f3e024d25770ee6abdc98e5a4883f490211",
+          "files_count": 2410,
+          "group": "org.vibevm.fractality",
+          "indexed_at": "2026-11-23T06:44:14.621023132Z",
+          "indexed_by": "vibe-index 1.0.12",
+          "kind": "flow",
+          "name": "delegation-rules",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.12",
+          "source_url": "https://github.com/vibespecs/org.vibevm.fractality.delegation-rules.git",
+          "version": "1.0.12",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/77-flow-delegation-rules.xml",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "The delegation policy layer for fractality bosses: a decidable routing matrix (delegate when verification is cheaper than generation) plus per-model playbooks for the worker fleet",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "delegation",
+            "routing",
+            "policy",
+            "playbooks",
+            "agents"
+          ],
+          "license": "UPL-1.0",
+          "requires": {
+            "packages": [
+              "flow:org.vibevm.world/redbook@^1.0.0",
+              "stack:org.vibevm.ai-native/rust-ai-native@^1.0.0"
+            ]
+          }
         }
       ],
-      "latest_stable": "1.0.0"
+      "latest_stable": "1.0.12"
     }
   ]
 }
