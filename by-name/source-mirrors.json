@@ -43,9 +43,45 @@
           ],
           "license": "UPL-1.0",
           "resolved_commit": "6983d8251405e01d61676ebbca7e524280ad096d"
+        },
+        {
+          "content_hash": "sha256-tree/1:96391021d2e0f7e8d349b7c5a5fd6e5a137be1d1f556e5776e0740f2f56d6534",
+          "files_count": 7,
+          "group": "org.vibevm.world",
+          "indexed_at": "2026-11-23T06:45:24.541388600Z",
+          "indexed_by": "vibe-index 1.0.12",
+          "kind": "flow",
+          "name": "source-mirrors",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.12",
+          "source_url": "https://github.com/vibespecs/org.vibevm.world.source-mirrors.git",
+          "version": "1.0.12",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/62-flow-source-mirrors.xml",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "Single-writer source mirrors: one mainline, hosts as read-replicas, manifest-driven fast-forward-only fan-out that fails loud",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "mirrors",
+            "git",
+            "multi-homing",
+            "fan-out",
+            "single-writer"
+          ],
+          "license": "UPL-1.0"
         }
       ],
-      "latest_stable": "1.0.0"
+      "latest_stable": "1.0.12"
     }
   ]
 }
