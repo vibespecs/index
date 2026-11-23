@@ -3,10 +3,10 @@
   "registry": "vibespecs",
   "registry_url": "https://github.com/vibespecs",
   "naming": "fqdn",
-  "generated_at": "2026-11-23T06:43:42.899407158Z",
+  "generated_at": "2026-11-23T06:43:45.872797499Z",
   "generator": "vibe-index 1.0.12",
   "package_count": 96,
-  "version_count": 113,
+  "version_count": 114,
   "files": {
     "by-cap": {
       "kind": "directory",
@@ -389,7 +389,7 @@
     "by-name/qwen.json": {
       "kind": "file",
       "size": "163",
-      "sha256": "sha256:2b950c2f32cdc1bd9e1f593f8f63a8bdd05c0f3c2ea782c5089c241611a75317"
+      "sha256": "sha256:feb605cf14a36b4c9bd3df27f105b7b8b4ee080fb96e25ab5d96ab756b961714"
     },
     "by-name/redbook.json": {
       "kind": "file",
@@ -403,8 +403,8 @@
     },
     "by-name/rust-ai-native-mcp.json": {
       "kind": "file",
-      "size": "1711",
-      "sha256": "sha256:23d685d9a0a082a3fca457a7c27c5f5c217787e31b2ce548b9ebc85a43cbd7ce"
+      "size": "3047",
+      "sha256": "sha256:a22cb59ea7b2d1013e721cf062f2cb19e5c0b56fa6c47cba12a9740183e0fe12"
     },
     "by-name/rust-ai-native.json": {
       "kind": "file",
@@ -507,13 +507,13 @@
     },
     "primary.jsonl": {
       "kind": "file",
-      "size": "113733",
-      "sha256": "sha256:c40ba287d24a3264f7c71cc4a68b7ca6bf1da7dc91ba05741518ea02146faa89"
+      "size": "114619",
+      "sha256": "sha256:e976a030ca8f4394168c6e968e1a785d3798332b225c43e1265539ca1c9ad9fd"
     },
     "primary.jsonl.gz": {
       "kind": "file",
-      "size": "18869",
-      "sha256": "sha256:e40d4820d3c57ee390bbbab141f3a0feb5a655ca09ddf5870fb2755414c0efe4"
+      "size": "18945",
+      "sha256": "sha256:f604bfe79302c988143babb20bf49d4097a58d6745e520b4d94d188bc7f167b0"
     }
   }
 }
