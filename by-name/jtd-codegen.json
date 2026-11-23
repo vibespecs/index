@@ -39,9 +39,41 @@
           ],
           "license": "UPL-1.0",
           "resolved_commit": "18003d341aab8c7578da42fdc829c39e2ef03ef2"
+        },
+        {
+          "content_hash": "sha256-tree/1:48ab5e26fb0953d53a22f0fd5973870a432d668162c42886e7377d50b9ae6624",
+          "files_count": 3,
+          "group": "org.vibevm.ai-native",
+          "indexed_at": "2026-11-23T06:43:39.759276355Z",
+          "indexed_by": "vibe-index 1.0.12",
+          "kind": "tool",
+          "name": "jtd-codegen",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.12",
+          "source_url": "https://github.com/vibespecs/org.vibevm.ai-native.jtd-codegen.git",
+          "version": "1.0.12",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "Provisioning recipe for the vendored jtd-codegen binary - the JSON Type Definition (RFC 8927) code generator wire contracts regenerate through: pins the upstream version and gives per-platform install commands into a project-local tools/jtd-codegen/, keeping the binary itself out of git",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "jtd",
+            "codegen",
+            "wire",
+            "toolchain",
+            "vendoring"
+          ],
+          "license": "UPL-1.0"
         }
       ],
-      "latest_stable": "1.0.0"
+      "latest_stable": "1.0.12"
     }
   ]
 }
