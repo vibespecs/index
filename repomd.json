@@ -3,10 +3,10 @@
   "registry": "vibespecs",
   "registry_url": "https://github.com/vibespecs",
   "naming": "fqdn",
-  "generated_at": "2026-11-26T19:21:56.980347307Z",
+  "generated_at": "2026-11-26T19:22:03.611401957Z",
   "generator": "vibe-index 1.0.13",
   "package_count": 101,
-  "version_count": 162,
+  "version_count": 163,
   "files": {
     "by-cap": {
       "kind": "directory",
@@ -389,7 +389,7 @@
     "by-name/qwen.json": {
       "kind": "file",
       "size": "163",
-      "sha256": "sha256:be92c079367f6be0cdc4156f816216a55d2d8d0bdf3a93dbc74ef2c4a9c52ea4"
+      "sha256": "sha256:96eed72e57b6fb7a8194fab92ede687677a59bd449e412c05d31d26bd52c54e5"
     },
     "by-name/redbook.json": {
       "kind": "file",
@@ -408,8 +408,8 @@
     },
     "by-name/rust-ai-native.json": {
       "kind": "file",
-      "size": "3492",
-      "sha256": "sha256:0b6bbe60acbefa45378c15dc0113fa3c1fdf68f2217654a4a84de49edfdefc03"
+      "size": "5054",
+      "sha256": "sha256:1c170d2e00d7b641b6bb49a676e0d6d1426e9dc6d682997289cf61db27c0210f"
     },
     "by-name/secrets-hygiene.json": {
       "kind": "file",
@@ -537,13 +537,13 @@
     },
     "primary.jsonl": {
       "kind": "file",
-      "size": "163638",
-      "sha256": "sha256:f6c47a8c5c3dd02e76eb55a3daea1fda26b68ff775d2ba3f9a82afc24682244c"
+      "size": "164736",
+      "sha256": "sha256:711b04210649e7f6f0bbbb37d17d037b589423120514208af42170cc5bd14f1e"
     },
     "primary.jsonl.gz": {
       "kind": "file",
-      "size": "25204",
-      "sha256": "sha256:07196356b94e1a6c5512cebb642b532cc70451529e2b58b72e13f341d44478d7"
+      "size": "25293",
+      "sha256": "sha256:a09db8ba92ad12b5f22c0a4760c92c1657ea089fc3bf86b0113b026ca8c3b037"
     }
   }
 }
