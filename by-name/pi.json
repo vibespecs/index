@@ -1,0 +1,32 @@
+{
+  "indexed_at": "2026-11-26T23:04:17.016082445Z",
+  "name": "pi",
+  "packages": [
+    {
+      "group": "org.vibevm.pi",
+      "indexed_at": "2026-11-26T23:04:17.016082445Z",
+      "name": "pi",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:073d45cdcb3029f2e86c9ea9c416db6ee24f67ac5d8cd07d3f7df6e63ca5d0e2",
+          "files_count": 2,
+          "group": "org.vibevm.pi",
+          "indexed_at": "2026-11-26T23:04:17.016082445Z",
+          "indexed_by": "vibe-index 1.0.13",
+          "kind": "app",
+          "name": "pi",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v0.0.1",
+          "source_url": "https://github.com/vibespecs/org.vibevm.pi.pi.git",
+          "version": "0.0.1",
+          "i18n": {
+            "default": "en"
+          },
+          "template": true
+        }
+      ],
+      "latest_stable": "0.0.1"
+    }
+  ]
+}
