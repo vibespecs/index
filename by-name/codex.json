@@ -59,9 +59,26 @@
           "i18n": {
             "default": "en"
           }
+        },
+        {
+          "content_hash": "sha256-tree/1:32350189f456f6765ba9958864dc355674c8e3308ecdf2e7554e5207d1c6d639",
+          "files_count": 2,
+          "group": "org.vibevm.codex",
+          "indexed_at": "2026-11-26T23:36:39.860963883Z",
+          "indexed_by": "vibe-index 1.0.13",
+          "kind": "app",
+          "name": "codex",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v0.172.0",
+          "source_url": "https://github.com/vibespecs/org.vibevm.codex.codex.git",
+          "version": "0.172.0",
+          "i18n": {
+            "default": "en"
+          }
         }
       ],
-      "latest_stable": "0.171.0"
+      "latest_stable": "0.172.0"
     }
   ],
   "alias": {
