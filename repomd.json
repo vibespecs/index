@@ -3,10 +3,10 @@
   "registry": "vibespecs",
   "registry_url": "https://github.com/vibespecs",
   "naming": "fqdn",
-  "generated_at": "2026-11-26T19:23:02.553737726Z",
+  "generated_at": "2026-11-26T19:23:08.789281851Z",
   "generator": "vibe-index 1.0.13",
   "package_count": 101,
-  "version_count": 172,
+  "version_count": 173,
   "files": {
     "by-cap": {
       "kind": "directory",
@@ -18,8 +18,8 @@
     },
     "by-name/addressable-specs.json": {
       "kind": "file",
-      "size": "2960",
-      "sha256": "sha256:42231db342b8fcbd43b77c288a587ca95b0ad97fbfc0ecdc62e7d6f3deab14d4"
+      "size": "4254",
+      "sha256": "sha256:8ee560d9ebcd1f9904345109bb3762b825beb04bff47774bf82b9c24f7089485"
     },
     "by-name/campaign-plans.json": {
       "kind": "file",
@@ -389,7 +389,7 @@
     "by-name/qwen.json": {
       "kind": "file",
       "size": "163",
-      "sha256": "sha256:db36eafd15fb11db4f617fc69998eeda1c57093ececf2572c9d1b2e98872bce5"
+      "sha256": "sha256:f1306b9a5426a84fcf98e9d9bbe63783eb22e1b00112b4f378771ce07874816a"
     },
     "by-name/redbook.json": {
       "kind": "file",
@@ -537,13 +537,13 @@
     },
     "primary.jsonl": {
       "kind": "file",
-      "size": "177491",
-      "sha256": "sha256:eb3769e14d235c18d99f35ee90e84088825b08c36a28b4e1be6143cc58665b9c"
+      "size": "178350",
+      "sha256": "sha256:3bddf5ffed4f9c8ef4067c50cb7b1a16bddd749056c927813d9f3b2d4a469bc6"
     },
     "primary.jsonl.gz": {
       "kind": "file",
-      "size": "26021",
-      "sha256": "sha256:33e25cd031f5746c673472a3e6bc257d023f327f7109d38cc31f398e3d598e67"
+      "size": "26099",
+      "sha256": "sha256:915bd08875cc67c319d766ad4473dd97eef9b5ccbcd5e1873399b05f9ca4d5c4"
     }
   }
 }

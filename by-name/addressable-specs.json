@@ -79,9 +79,45 @@
             "spec-driven"
           ],
           "license": "UPL-1.0"
+        },
+        {
+          "content_hash": "sha256-tree/1:8c8276ee6f7fe67ee18221726d69c1f5b7c634bd687641cee2559c15dd31f3f2",
+          "files_count": 7,
+          "group": "org.vibevm.world",
+          "indexed_at": "2026-11-26T19:23:08.789281851Z",
+          "indexed_by": "vibe-index 1.0.13",
+          "kind": "flow",
+          "name": "addressable-specs",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.13",
+          "source_url": "https://github.com/vibespecs/org.vibevm.world.addressable-specs.git",
+          "version": "1.0.13",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/15-flow-addressable-specs.xml",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "Addressable specifications: spec:// URIs, stable anchors, and the spec tree layout that lets a human correct an agent in twenty tokens",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "specs",
+            "addressing",
+            "uri",
+            "anchors",
+            "spec-driven"
+          ],
+          "license": "UPL-1.0"
         }
       ],
-      "latest_stable": "1.0.12"
+      "latest_stable": "1.0.13"
     }
   ]
 }
