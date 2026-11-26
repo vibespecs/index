@@ -26,6 +26,24 @@
           "template": true
         },
         {
+          "content_hash": "sha256-tree/1:0eb7ce95af2eadb12f53cee07c33f8fe59a347d36c2fcc393ec24316bd29b747",
+          "files_count": 2,
+          "group": "org.vibevm.pi",
+          "indexed_at": "2026-11-26T23:16:29.151234346Z",
+          "indexed_by": "vibe-index 1.0.13",
+          "kind": "app",
+          "name": "pi",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v0.0.2",
+          "source_url": "https://github.com/vibespecs/org.vibevm.pi.pi.git",
+          "version": "0.0.2",
+          "i18n": {
+            "default": "en"
+          },
+          "template": true
+        },
+        {
           "content_hash": "sha256-tree/1:e6a7fdae57f8ce2380a54423cc082df2b8aecbda684083ecda7f7414e5dae1db",
           "files_count": 2,
           "group": "org.vibevm.pi",
