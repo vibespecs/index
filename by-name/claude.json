@@ -1,0 +1,9 @@
+{
+  "indexed_at": "2026-11-26T23:04:28.803809395Z",
+  "name": "claude",
+  "packages": [],
+  "alias": {
+    "group": "org.vibevm.claude",
+    "name": "claude-code"
+  }
+}
