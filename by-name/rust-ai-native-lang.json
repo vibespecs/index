@@ -87,9 +87,49 @@
               "flow:org.vibevm.ai-native/core-ai-native@^1.0.0"
             ]
           }
+        },
+        {
+          "content_hash": "sha256-tree/1:6527bcea061d1742675e23e4e77c0d177a5079d14277e3a3f373daa4a67b8688",
+          "files_count": 150,
+          "group": "org.vibevm.ai-native",
+          "indexed_at": "2026-11-26T19:21:50.543688170Z",
+          "indexed_by": "vibe-index 1.0.13",
+          "kind": "lang",
+          "name": "rust-ai-native-lang",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.13",
+          "source_url": "https://github.com/vibespecs/org.vibevm.ai-native.rust-ai-native-lang.git",
+          "version": "1.0.13",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/20-stack-rust-ai-native-lang.xml",
+            "category": "stack"
+          },
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "AI-Native Rust - the Rust projection of the Discipline v0.2: cells, naming, contract-first ordering, the nine scaffolds in Rust, errors as contract surface, and the vibe-tcg tool vision",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "rust",
+            "ai-native",
+            "discipline",
+            "lang"
+          ],
+          "license": "UPL-1.0",
+          "requires": {
+            "packages": [
+              "flow:org.vibevm.ai-native/core-ai-native@^1.0.0"
+            ]
+          }
         }
       ],
-      "latest_stable": "1.0.12"
+      "latest_stable": "1.0.13"
     }
   ]
 }
