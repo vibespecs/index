@@ -3,10 +3,10 @@
   "registry": "vibespecs",
   "registry_url": "https://github.com/vibespecs",
   "naming": "fqdn",
-  "generated_at": "2026-11-26T23:36:51.867213982Z",
+  "generated_at": "2026-11-26T23:37:04.968736673Z",
   "generator": "vibe-index 1.0.13",
   "package_count": 104,
-  "version_count": 219,
+  "version_count": 220,
   "files": {
     "by-cap": {
       "kind": "directory",
@@ -34,7 +34,7 @@
     "by-name/claude.json": {
       "kind": "file",
       "size": "169",
-      "sha256": "sha256:1243a05d6425ba5d6c72f2da58757c57787e0f36229c433b665446a6c0029b75"
+      "sha256": "sha256:1c964b2dbf31fdec30ce200b95a99299baed73299cda357d1001f94ab9606169"
     },
     "by-name/codex.json": {
       "kind": "file",
@@ -373,8 +373,8 @@
     },
     "by-name/opencode.json": {
       "kind": "file",
-      "size": "6802",
-      "sha256": "sha256:11b424e259c973bb1c2acebe08ee9f5daa136a74604060730e455a18ae5e8020"
+      "size": "8006",
+      "sha256": "sha256:4da8b37c9f4a91b9ff48948779f5679a20f8efc5f57ad2c4e55fff9ad6e55e6f"
     },
     "by-name/operating-modes.json": {
       "kind": "file",
@@ -409,7 +409,7 @@
     "by-name/qwen.json": {
       "kind": "file",
       "size": "163",
-      "sha256": "sha256:9eb67aa667c137701f8c5828d3ae247071170f6d377dc31d850243161c4d088f"
+      "sha256": "sha256:abd5d07a6138090eb573676d0d095eaf7bc74f1382905f46d912f78d015e42bd"
     },
     "by-name/redbook.json": {
       "kind": "file",
@@ -557,13 +557,13 @@
     },
     "primary.jsonl": {
       "kind": "file",
-      "size": "214423",
-      "sha256": "sha256:5a7f3a63abcbecf616f5888a3999480ca7b2ecafe5fcf317bfa8fee3fcccc68d"
+      "size": "215231",
+      "sha256": "sha256:837191f7e111536d171b665a6637d8062b85fea5123cd87818d080bafb07f16b"
     },
     "primary.jsonl.gz": {
       "kind": "file",
-      "size": "29522",
-      "sha256": "sha256:4c8b3788692409bfbf4c4c8f185b39e8e9de06dafc1b6a4e6765e79e3f81e88f"
+      "size": "29597",
+      "sha256": "sha256:ceb6861f62d443237612cf95748555c29d6393b984656544313483b615682bd0"
     }
   }
 }
