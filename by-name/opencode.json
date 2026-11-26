@@ -113,6 +113,40 @@
           "template": true
         },
         {
+          "content_hash": "sha256-tree/1:1d4b9b49bcd25d964cb470234695ed4d60a8e4465f9bd2f36f0cec22eec0b4e6",
+          "files_count": 29,
+          "group": "org.vibevm.opencode",
+          "indexed_at": "2026-11-26T23:36:51.867213982Z",
+          "indexed_by": "vibe-index 1.0.13",
+          "kind": "app",
+          "name": "opencode",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v0.0.4",
+          "source_url": "https://github.com/vibespecs/org.vibevm.opencode.opencode.git",
+          "version": "0.0.4",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "1.0.12"
+          },
+          "description": "OpenCode {version}, the official standalone upstream build — one self-contained binary — as a portable Vibe application putting opencode on PATH",
+          "homepage": "https://github.com/anomalyco/opencode",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "opencode",
+            "agent",
+            "coding-agent",
+            "cli",
+            "application"
+          ],
+          "license": "MIT",
+          "template": true
+        },
+        {
           "content_hash": "sha256-tree/1:10e2f244918c5c6d362cadac766ee2baa6d2b2dd1e489a4674a7746637af4d94",
           "files_count": 19,
           "group": "org.vibevm.opencode",
