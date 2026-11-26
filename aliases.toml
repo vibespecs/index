@@ -12,12 +12,15 @@
 schema = 1
 
 [aliases]
+claude = "org.vibevm.claude/claude-code"
+codex = "org.vibevm.codex/codex"
 codkit = "org.vibevm.codkit/codkit"
 fractality = "org.vibevm.fractality/fractality"
 mingw-w64 = "org.vibevm.apps/mingw-w64"
 node = "org.vibevm.node/node"
 nvm = "org.vibevm.nvm/nvm"
 opencode = "org.vibevm.opencode/opencode"
+pi = "org.vibevm.pi/pi"
 pxnode = "org.vibevm.pxworld/pxnode"
 pxpip = "org.vibevm.pxworld/pxpip"
 qwen = "org.vibevm.qwen/qwen-code"

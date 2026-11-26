@@ -14,7 +14,7 @@
     },
     "by-name": {
       "kind": "directory",
-      "entries": 103
+      "entries": 104
     },
     "by-name/addressable-specs.json": {
       "kind": "file",
@@ -31,10 +31,15 @@
       "size": "1599",
       "sha256": "sha256:163d610fde40daf75fd959e7ba2dddfd3387b7ea70717b954a12632ad42bc7cb"
     },
+    "by-name/claude.json": {
+      "kind": "file",
+      "size": "169",
+      "sha256": "sha256:9776604a433bd317f270aa762dc8c67cdd91f4370b058e0554a37a7b691da061"
+    },
     "by-name/codex.json": {
       "kind": "file",
-      "size": "1555",
-      "sha256": "sha256:d9f424211f1583ece1dfba5f3ec90217e0c54bab4b8112c05c4c01594fd30092"
+      "size": "1626",
+      "sha256": "sha256:85c16f696b2b26c15d6cc59b40fac1df00ce9d97e8fea27ad1666185079780b8"
     },
     "by-name/codkit.json": {
       "kind": "file",
@@ -378,8 +383,8 @@
     },
     "by-name/pi.json": {
       "kind": "file",
-      "size": "1519",
-      "sha256": "sha256:b1a1e579bcc1b3dd3c7c0ab1f13fe09f3a2e517a039e2ef3e443502e25a6abb0"
+      "size": "1584",
+      "sha256": "sha256:2005a3cf88d98674d4f95bf01560976300cd0472b25a6d762e3da1353db9eacf"
     },
     "by-name/pxnode.json": {
       "kind": "file",

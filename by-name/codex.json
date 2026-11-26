@@ -45,5 +45,9 @@
       ],
       "latest_stable": "0.171.0"
     }
-  ]
+  ],
+  "alias": {
+    "group": "org.vibevm.codex",
+    "name": "codex"
+  }
 }
