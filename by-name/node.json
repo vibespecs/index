@@ -252,9 +252,43 @@
           ],
           "license": "UPL-1.0",
           "resolved_commit": "a3deb49564d757cdd914894e305a7462449d4157"
+        },
+        {
+          "content_hash": "sha256-tree/1:b5bdd5e49f0a04eafc57b21b63798e172246f7b2bc0442b3d6b80985d53d17da",
+          "files_count": 14,
+          "group": "org.vibevm.node",
+          "indexed_at": "2026-11-26T23:55:41.429823440Z",
+          "indexed_by": "vibe-index 1.0.13",
+          "kind": "app",
+          "name": "node",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v26.13.1",
+          "source_url": "https://github.com/vibespecs/org.vibevm.node.node.git",
+          "version": "26.13.1",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "1.0.12"
+          },
+          "description": "Node.js 26.13.1, the official upstream build, as a portable Vibe application putting node, npm and npx on PATH",
+          "homepage": "https://nodejs.org/",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "node",
+            "nodejs",
+            "javascript",
+            "runtime",
+            "npm",
+            "application"
+          ],
+          "license": "UPL-1.0"
         }
       ],
-      "latest_stable": "26.13.0"
+      "latest_stable": "26.13.1"
     }
   ],
   "alias": {
