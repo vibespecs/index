@@ -44,6 +44,41 @@
           "template": true
         },
         {
+          "content_hash": "sha256-tree/1:bdcc943ec2bc7f7c6e63d5cb1abc6d01f28326e66f3215ed1f4b35a8950b4b8d",
+          "files_count": 10,
+          "group": "org.vibevm.qwen",
+          "indexed_at": "2026-11-26T23:13:00.264780389Z",
+          "indexed_by": "vibe-index 1.0.13",
+          "kind": "app",
+          "name": "qwen-code",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v0.0.2",
+          "source_url": "https://github.com/vibespecs/org.vibevm.qwen.qwen-code.git",
+          "version": "0.0.2",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "1.0.12"
+          },
+          "description": "Qwen Code {version}, the official standalone upstream build with its own bundled Node.js, as a portable Vibe application putting qwen on PATH",
+          "homepage": "https://github.com/QwenLM/qwen-code",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "qwen",
+            "qwen-code",
+            "agent",
+            "coding-agent",
+            "cli",
+            "application"
+          ],
+          "license": "Apache-2.0",
+          "template": true
+        },
+        {
           "content_hash": "sha256-tree/1:975cf5ffa5461de00453bf9cbb420fff1350c7b626b20d403d7dc04136b51f35",
           "files_count": 10,
           "group": "org.vibevm.qwen",
