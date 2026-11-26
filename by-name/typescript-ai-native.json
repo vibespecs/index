@@ -83,9 +83,47 @@
               "mcp:org.vibevm.ai-native/typescript-ai-native-mcp@=1.0.12"
             ]
           }
+        },
+        {
+          "content_hash": "sha256-tree/1:4f18b26274f33e0f02fd53f82b5f9a75ce5537188a5602444725a6492b744763",
+          "files_count": 3,
+          "group": "org.vibevm.ai-native",
+          "indexed_at": "2026-11-26T19:22:23.033102819Z",
+          "indexed_by": "vibe-index 1.0.13",
+          "kind": "stack",
+          "name": "typescript-ai-native",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.13",
+          "source_url": "https://github.com/vibespecs/org.vibevm.ai-native.typescript-ai-native.git",
+          "version": "1.0.13",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "AI-Native TypeScript - the family aggregator: one install pulls the language stack (typescript-ai-native-lang) and its MCP server (typescript-ai-native-mcp), and transitively the flow foundation core-ai-native. Content-minimal by design (PROP-028): no code, no boot snippet, no policy - it only names the family members at one resolved version set.",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "typescript",
+            "ai-native",
+            "discipline",
+            "stack",
+            "aggregator"
+          ],
+          "license": "UPL-1.0",
+          "requires": {
+            "packages": [
+              "lang:org.vibevm.ai-native/typescript-ai-native-lang@=1.0.13",
+              "mcp:org.vibevm.ai-native/typescript-ai-native-mcp@=1.0.13"
+            ]
+          }
         }
       ],
-      "latest_stable": "1.0.12"
+      "latest_stable": "1.0.13"
     }
   ]
 }
