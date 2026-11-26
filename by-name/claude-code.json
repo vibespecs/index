@@ -26,6 +26,24 @@
           "template": true
         },
         {
+          "content_hash": "sha256-tree/1:4cbf08ca7c3556338a07f1b675f68006423ab7e4158ad08de86bc6e0f02d2d4e",
+          "files_count": 2,
+          "group": "org.vibevm.claude",
+          "indexed_at": "2026-11-26T23:36:04.054553645Z",
+          "indexed_by": "vibe-index 1.0.13",
+          "kind": "app",
+          "name": "claude-code",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v0.0.2",
+          "source_url": "https://github.com/vibespecs/org.vibevm.claude.claude-code.git",
+          "version": "0.0.2",
+          "i18n": {
+            "default": "en"
+          },
+          "template": true
+        },
+        {
           "content_hash": "sha256-tree/1:4b97da4429aa554612b484dc73223f65de02c02f5645e82a5182770eee9d94a7",
           "files_count": 2,
           "group": "org.vibevm.claude",
