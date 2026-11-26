@@ -83,9 +83,47 @@
               "lang:org.vibevm.ai-native/go-ai-native-lang@=1.0.12"
             ]
           }
+        },
+        {
+          "content_hash": "sha256-tree/1:865f79aabd6d9df36bddb195251d8ee6a25ba2a7ed27af89f72c6fc992ae3cee",
+          "files_count": 157,
+          "group": "org.vibevm.ai-native",
+          "indexed_at": "2026-11-26T19:21:30.946251137Z",
+          "indexed_by": "vibe-index 1.0.13",
+          "kind": "mcp",
+          "name": "go-ai-native-mcp",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.13",
+          "source_url": "https://github.com/vibespecs/org.vibevm.ai-native.go-ai-native-mcp.git",
+          "version": "1.0.13",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "The AI-Native Go discipline over MCP: every go-ai-native command and the tcg type oracle as agent tools, served straight from the slot with no vibe in the runtime path",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "mcp",
+            "go",
+            "golang",
+            "ai-native",
+            "discipline",
+            "agent"
+          ],
+          "license": "UPL-1.0",
+          "requires": {
+            "packages": [
+              "lang:org.vibevm.ai-native/go-ai-native-lang@=1.0.13"
+            ]
+          }
         }
       ],
-      "latest_stable": "1.0.12"
+      "latest_stable": "1.0.13"
     }
   ]
 }

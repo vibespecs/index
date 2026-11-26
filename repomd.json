@@ -3,10 +3,10 @@
   "registry": "vibespecs",
   "registry_url": "https://github.com/vibespecs",
   "naming": "fqdn",
-  "generated_at": "2026-11-26T19:21:23.855501790Z",
+  "generated_at": "2026-11-26T19:21:30.946251137Z",
   "generator": "vibe-index 1.0.13",
   "package_count": 101,
-  "version_count": 157,
+  "version_count": 158,
   "files": {
     "by-cap": {
       "kind": "directory",
@@ -298,8 +298,8 @@
     },
     "by-name/go-ai-native-mcp.json": {
       "kind": "file",
-      "size": "3063",
-      "sha256": "sha256:f0f23e40ab4b00cbf69c6f3870dab6d0e8142d96686d25a35846efb127d05cbf"
+      "size": "4408",
+      "sha256": "sha256:3e24422c6365e25fe7d10b161af9c1a5691c4130fb8e2af8d9c82ea8af0e04e2"
     },
     "by-name/go-ai-native.json": {
       "kind": "file",
@@ -389,7 +389,7 @@
     "by-name/qwen.json": {
       "kind": "file",
       "size": "163",
-      "sha256": "sha256:4297262f0ee282f90019a80c40abece87b02e4a89d696d2643607f9e492cebae"
+      "sha256": "sha256:fd423edc05ada8282484d9af7bc331b5f3a177645d776cf70f9fac7538f79152"
     },
     "by-name/redbook.json": {
       "kind": "file",
@@ -537,13 +537,13 @@
     },
     "primary.jsonl": {
       "kind": "file",
-      "size": "158880",
-      "sha256": "sha256:0eb80572f365302fee81797d64cc29e606c7d21226be15826961c761ed25c1a3"
+      "size": "159763",
+      "sha256": "sha256:5537811a0c92543919784a706c169f328723198e41a2b5f0a7dc0aa2163a49d6"
     },
     "primary.jsonl.gz": {
       "kind": "file",
-      "size": "24840",
-      "sha256": "sha256:8cbff72910fd86a84967f13dbc7aab41d858277aa83d6a6275f484f50aeea1e8"
+      "size": "24917",
+      "sha256": "sha256:53c58ec0776e2d5f5b3c366a45a4fc33f4f7ba74389ae2ca6b80ce17ffc421db"
     }
   }
 }
