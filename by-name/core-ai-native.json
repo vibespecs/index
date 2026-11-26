@@ -79,9 +79,46 @@
             "raids"
           ],
           "license": "UPL-1.0"
+        },
+        {
+          "content_hash": "sha256-tree/1:d63bee7362c333fca20df4649aad49023e1c3b59f2ad2a67fd927ffc537a5865",
+          "files_count": 116,
+          "group": "org.vibevm.ai-native",
+          "indexed_at": "2026-11-26T19:20:41.112956127Z",
+          "indexed_by": "vibe-index 1.0.13",
+          "kind": "flow",
+          "name": "core-ai-native",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.13",
+          "source_url": "https://github.com/vibespecs/org.vibevm.ai-native.core-ai-native.git",
+          "version": "1.0.13",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/10-flow-core-ai-native.xml",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "The AI-Native Code Discipline v0.2 (BETA) - language-independent principles, pattern cards, executable-scaffold catalog, and raid playbook for code optimized for comprehension and safe modification by AI agents",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "discipline",
+            "ai-native",
+            "pattern-cards",
+            "scaffolds",
+            "raids"
+          ],
+          "license": "UPL-1.0",
+          "resolved_commit": "ddff8def7f20719686400c6464f448add448ba6b"
         }
       ],
-      "latest_stable": "1.0.12"
+      "latest_stable": "1.0.13"
     }
   ]
 }
