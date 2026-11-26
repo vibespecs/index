@@ -3,10 +3,10 @@
   "registry": "vibespecs",
   "registry_url": "https://github.com/vibespecs",
   "naming": "fqdn",
-  "generated_at": "2026-11-26T19:25:13.550151416Z",
+  "generated_at": "2026-11-26T19:25:19.683743770Z",
   "generator": "vibe-index 1.0.13",
   "package_count": 101,
-  "version_count": 193,
+  "version_count": 194,
   "files": {
     "by-cap": {
       "kind": "directory",
@@ -389,7 +389,7 @@
     "by-name/qwen.json": {
       "kind": "file",
       "size": "163",
-      "sha256": "sha256:48a9d7bf4040aa16659d0ffcc95018f1fc0b00f0d45f8a07b7fc848a1a33130f"
+      "sha256": "sha256:759342008f93f2905d91a36a688d988c334b250677350915dba64e3224376654"
     },
     "by-name/redbook.json": {
       "kind": "file",
@@ -413,8 +413,8 @@
     },
     "by-name/secrets-hygiene.json": {
       "kind": "file",
-      "size": "2954",
-      "sha256": "sha256:385ac84629c9020d02b1b4e7a3043b8e1e94963099d1e6cd623532243e7c325d"
+      "size": "4247",
+      "sha256": "sha256:3b432880c3bba80482487c07fbddef19443c8d7d819030ce3792c661e6e2cbc9"
     },
     "by-name/skills.json": {
       "kind": "file",
@@ -537,13 +537,13 @@
     },
     "primary.jsonl": {
       "kind": "file",
-      "size": "197303",
-      "sha256": "sha256:b8fa12f48c96c44195baef9f1018c025c928235904407f890dd5adf1c616454d"
+      "size": "198161",
+      "sha256": "sha256:72891844795cb5e3301cdaf5be6a6e2ecccd43ab94f3d03da2f27a382d7aa6ca"
     },
     "primary.jsonl.gz": {
       "kind": "file",
-      "size": "27708",
-      "sha256": "sha256:b40973d109b9b8a6c2f067bfa35168823eeed0404df7b869472e2c3b91a74f5a"
+      "size": "27778",
+      "sha256": "sha256:025d91977c177f0364a59ea235632889ecee771dfd65ea5d0488b1c58a936238"
     }
   }
 }
