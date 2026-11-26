@@ -3,10 +3,10 @@
   "registry": "vibespecs",
   "registry_url": "https://github.com/vibespecs",
   "naming": "fqdn",
-  "generated_at": "2026-11-26T23:13:00.264780389Z",
+  "generated_at": "2026-11-26T23:13:13.072980843Z",
   "generator": "vibe-index 1.0.13",
   "package_count": 104,
-  "version_count": 211,
+  "version_count": 212,
   "files": {
     "by-cap": {
       "kind": "directory",
@@ -34,7 +34,7 @@
     "by-name/claude.json": {
       "kind": "file",
       "size": "169",
-      "sha256": "sha256:097ac3311f6eb176a523b081af92a503c5ad9c64ebdf92b80ef2c0e7b3d22762"
+      "sha256": "sha256:cfb5829ce8668ac6f66e4c0dfda2a6f76eba75b136952932c0766ced852829ed"
     },
     "by-name/codex.json": {
       "kind": "file",
@@ -403,13 +403,13 @@
     },
     "by-name/qwen-code.json": {
       "kind": "file",
-      "size": "4222",
-      "sha256": "sha256:fdc76fe5a118eb7cb4843b6ff3c50c5c56c52c9c12bf08b8a112a73593a99403"
+      "size": "5442",
+      "sha256": "sha256:9e0156570e1c1dddfae027cd3b3e2075f7c592e24debe85c7a2693c02d352ae3"
     },
     "by-name/qwen.json": {
       "kind": "file",
       "size": "163",
-      "sha256": "sha256:ecb16ca51c5181975417ef6f90506405b2f6d31be5ee1dbcc432147f093c6598"
+      "sha256": "sha256:5a6a41321578588d649fb4fa9cb3307a695ee0aac703bb3169a5e69f3c6bd5f0"
     },
     "by-name/redbook.json": {
       "kind": "file",
@@ -557,13 +557,13 @@
     },
     "primary.jsonl": {
       "kind": "file",
-      "size": "210174",
-      "sha256": "sha256:99a5a321c6806757c9eeb79755f800050524f0086b8fc0efd4021fa0f702860f"
+      "size": "210985",
+      "sha256": "sha256:018918cfabc6f738d88e32b0fdf2bd8ee5fb9899b5b6f678dff0c50dff6d3c36"
     },
     "primary.jsonl.gz": {
       "kind": "file",
-      "size": "28997",
-      "sha256": "sha256:357fb168a03ea04eade1567cdc01f5fb21adab54e71b21909c6570cbce873552"
+      "size": "29072",
+      "sha256": "sha256:5c5fe81ca309a5f6d752d09b129294c12c3e1ea033905c2ae64d7fe8031c1ed6"
     }
   }
 }
