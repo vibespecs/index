@@ -81,9 +81,46 @@
               "lang:org.vibevm.ai-native/rust-ai-native-lang@=1.0.12"
             ]
           }
+        },
+        {
+          "content_hash": "sha256-tree/1:9710d27c04dd7009c0dd9c66021bb306829e59f5ab2a0989d936ce8ef654f7dd",
+          "files_count": 141,
+          "group": "org.vibevm.ai-native",
+          "indexed_at": "2026-11-26T19:21:56.980347307Z",
+          "indexed_by": "vibe-index 1.0.13",
+          "kind": "mcp",
+          "name": "rust-ai-native-mcp",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.13",
+          "source_url": "https://github.com/vibespecs/org.vibevm.ai-native.rust-ai-native-mcp.git",
+          "version": "1.0.13",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "The AI-Native Rust discipline over MCP: every rust-ai-native command and the tcg type oracle as agent tools, served straight from the slot with no vibe in the runtime path",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "mcp",
+            "rust",
+            "ai-native",
+            "discipline",
+            "agent"
+          ],
+          "license": "UPL-1.0",
+          "requires": {
+            "packages": [
+              "lang:org.vibevm.ai-native/rust-ai-native-lang@=1.0.13"
+            ]
+          }
         }
       ],
-      "latest_stable": "1.0.12"
+      "latest_stable": "1.0.13"
     }
   ]
 }
