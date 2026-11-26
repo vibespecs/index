@@ -87,9 +87,49 @@
               "flow:org.vibevm.world/git-conventional-commits@=1.0.12"
             ]
           }
+        },
+        {
+          "content_hash": "sha256-tree/1:0e3858c4400a605a94d9ac7a71e44f6311762050073cdc1f8bbc0c9552dde5cd",
+          "files_count": 3,
+          "group": "org.vibevm.world",
+          "indexed_at": "2026-11-26T19:24:16.978200829Z",
+          "indexed_by": "vibe-index 1.0.13",
+          "kind": "flow",
+          "name": "git-practices",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.13",
+          "source_url": "https://github.com/vibespecs/org.vibevm.world.git-practices.git",
+          "version": "1.0.13",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "Git practices — the family aggregator for a repository's commit-and-push discipline: one install pulls the message format (conventional-commits) and the atomicity discipline (atomic-commits), and — as they land — human-authored attribution and commit autonomy. Content-minimal (PROP-028): no boot snippet of its own; each member ships theirs.",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "git",
+            "commits",
+            "discipline",
+            "family",
+            "aggregator"
+          ],
+          "license": "UPL-1.0",
+          "requires": {
+            "packages": [
+              "flow:org.vibevm.world/git-atomic-commits@=1.0.13",
+              "flow:org.vibevm.world/git-attribution-policy@=1.0.13",
+              "flow:org.vibevm.world/git-autonomy@=1.0.13",
+              "flow:org.vibevm.world/git-conventional-commits@=1.0.13"
+            ]
+          }
         }
       ],
-      "latest_stable": "1.0.12"
+      "latest_stable": "1.0.13"
     }
   ]
 }
