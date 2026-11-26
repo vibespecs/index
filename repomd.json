@@ -3,10 +3,10 @@
   "registry": "vibespecs",
   "registry_url": "https://github.com/vibespecs",
   "naming": "fqdn",
-  "generated_at": "2026-11-26T23:37:04.968736673Z",
+  "generated_at": "2026-11-26T23:37:19.664641123Z",
   "generator": "vibe-index 1.0.13",
-  "package_count": 104,
-  "version_count": 220,
+  "package_count": 105,
+  "version_count": 221,
   "files": {
     "by-cap": {
       "kind": "directory",
@@ -14,7 +14,7 @@
     },
     "by-name": {
       "kind": "directory",
-      "entries": 104
+      "entries": 105
     },
     "by-name/addressable-specs.json": {
       "kind": "file",
@@ -34,7 +34,7 @@
     "by-name/claude.json": {
       "kind": "file",
       "size": "169",
-      "sha256": "sha256:1c964b2dbf31fdec30ce200b95a99299baed73299cda357d1001f94ab9606169"
+      "sha256": "sha256:a3da910c1d006b4e19c4f073fc29557292fddfd7a0db3129f2625dd85adffa1a"
     },
     "by-name/codex.json": {
       "kind": "file",
@@ -326,6 +326,11 @@
       "size": "4208",
       "sha256": "sha256:e80f72182de4890ff3f5d9dc3dfc2d14e3ca77a77f5dcec0b34bfa38f9829671"
     },
+    "by-name/hermes.json": {
+      "kind": "file",
+      "size": "910",
+      "sha256": "sha256:33c86a74210c9a2757c58e3e5df0033ee08594a82438e5cb4a094c5bc8b41939"
+    },
     "by-name/jtd-codegen.json": {
       "kind": "file",
       "size": "4234",
@@ -409,7 +414,7 @@
     "by-name/qwen.json": {
       "kind": "file",
       "size": "163",
-      "sha256": "sha256:abd5d07a6138090eb573676d0d095eaf7bc74f1382905f46d912f78d015e42bd"
+      "sha256": "sha256:0bd0c060ec4b45723cd00efbee5d30193f1e46f29dd246d3f5756fd66bee4c69"
     },
     "by-name/redbook.json": {
       "kind": "file",
@@ -557,13 +562,13 @@
     },
     "primary.jsonl": {
       "kind": "file",
-      "size": "215231",
-      "sha256": "sha256:837191f7e111536d171b665a6637d8062b85fea5123cd87818d080bafb07f16b"
+      "size": "215662",
+      "sha256": "sha256:46e607e4c68a46e4ff78898e86cc708164e78039c71b20a1a8dfa1afced5116a"
     },
     "primary.jsonl.gz": {
       "kind": "file",
-      "size": "29597",
-      "sha256": "sha256:ceb6861f62d443237612cf95748555c29d6393b984656544313483b615682bd0"
+      "size": "29682",
+      "sha256": "sha256:12a54c088d2e356609010538965e0eeb9241b8d5e02b0283d530239ae99fcfdc"
     }
   }
 }

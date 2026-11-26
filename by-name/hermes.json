@@ -1,0 +1,31 @@
+{
+  "indexed_at": "2026-11-26T23:37:19.664641123Z",
+  "name": "hermes",
+  "packages": [
+    {
+      "group": "org.vibevm.hermes",
+      "indexed_at": "2026-11-26T23:37:19.664641123Z",
+      "name": "hermes",
+      "versions": [
+        {
+          "content_hash": "sha256-tree/1:1cd30808a5bd80ee6f796b89cde6305398081f8aa4cb6e1d3398d0f0192d742e",
+          "files_count": 4,
+          "group": "org.vibevm.hermes",
+          "indexed_at": "2026-11-26T23:37:19.664641123Z",
+          "indexed_by": "vibe-index 1.0.13",
+          "kind": "app",
+          "name": "hermes",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v0.23.4",
+          "source_url": "https://github.com/vibespecs/org.vibevm.hermes.hermes.git",
+          "version": "0.23.4",
+          "i18n": {
+            "default": "en"
+          }
+        }
+      ],
+      "latest_stable": "0.23.4"
+    }
+  ]
+}
