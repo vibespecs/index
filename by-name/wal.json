@@ -79,9 +79,45 @@
             "continuation"
           ],
           "license": "UPL-1.0"
+        },
+        {
+          "content_hash": "sha256-tree/1:9ef6a061cbda5003c58a6a3f4f03e646eb7c8c268a6a9e8da468b5c1399ce015",
+          "files_count": 9,
+          "group": "org.vibevm.world",
+          "indexed_at": "2026-11-26T19:26:03.518612773Z",
+          "indexed_by": "vibe-index 1.0.13",
+          "kind": "flow",
+          "name": "wal",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.13",
+          "source_url": "https://github.com/vibespecs/org.vibevm.world.wal.git",
+          "version": "1.0.13",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "boot_snippet": {
+            "source": "vibevm/vibespecs/boot/10-flow-wal.xml",
+            "category": "flow"
+          },
+          "compatibility": {
+            "min_vibe_version": "0.1.0"
+          },
+          "description": "Write-Ahead Log discipline for human-AI development sessions: the checkpoint file, the cold-resume snapshot, and the session rituals around them",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "wal",
+            "memory",
+            "discipline",
+            "session-management",
+            "continuation"
+          ],
+          "license": "UPL-1.0"
         }
       ],
-      "latest_stable": "1.0.12"
+      "latest_stable": "1.0.13"
     }
   ]
 }
