@@ -45,9 +45,48 @@
             ]
           },
           "title": "VibeVM Site"
+        },
+        {
+          "content_hash": "sha256-tree/1:9fe2c5a1883a924810e3ce531ad0766b860a9fdd4dccc3211bf5cd173c5fb25d",
+          "files_count": 389,
+          "group": "org.vibevm.doc",
+          "indexed_at": "2026-11-26T19:22:42.484642781Z",
+          "indexed_by": "vibe-index 1.0.13",
+          "kind": "app",
+          "name": "web",
+          "registry": "vibespecs",
+          "schema_version": 1,
+          "source_ref": "v1.0.13",
+          "source_url": "https://github.com/vibespecs/org.vibevm.doc.web.git",
+          "version": "1.0.13",
+          "abstract": "What it covers: the whole of vibevm.org — the landing at `/` and `/ru/`, the documentation reader under `/doc/`, the design system both are drawn with, and the two adapters that build them (a static site for the server, an embedded shell for `vibe doc serve`).\nFor whom: the people who build and deploy the site, and the agents that change a component or a route on their behalf.\nWhat it assumes known: TypeScript, a component framework, and the shape of a static build; the documentation pipeline that renders the HTML islands this application displays is described by its own package.\nWhat it leaves out: the text of the documentation, which lives in the `doc` packages this site renders; the rendering of a page into an island, which belongs to the Rust pipeline; and the server the build is deployed to.\n",
+          "authors": [
+            "Oleg Chirukhin"
+          ],
+          "compatibility": {
+            "min_vibe_version": "1.0.0"
+          },
+          "description": "The vibevm.org site: the landing and the documentation reader, one Qwik application in two adapters.",
+          "i18n": {
+            "default": "en"
+          },
+          "keywords": [
+            "site",
+            "documentation",
+            "qwik",
+            "typescript",
+            "design-system"
+          ],
+          "license": "UPL-1.0",
+          "requires": {
+            "packages": [
+              "stack:org.vibevm.ai-native/typescript-ai-native@^1.0"
+            ]
+          },
+          "title": "VibeVM Site"
         }
       ],
-      "latest_stable": "1.0.12"
+      "latest_stable": "1.0.13"
     }
   ]
 }
