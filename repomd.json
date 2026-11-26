@@ -3,10 +3,10 @@
   "registry": "vibespecs",
   "registry_url": "https://github.com/vibespecs",
   "naming": "fqdn",
-  "generated_at": "2026-11-26T19:21:30.946251137Z",
+  "generated_at": "2026-11-26T19:21:37.118242487Z",
   "generator": "vibe-index 1.0.13",
   "package_count": 101,
-  "version_count": 158,
+  "version_count": 159,
   "files": {
     "by-cap": {
       "kind": "directory",
@@ -303,8 +303,8 @@
     },
     "by-name/go-ai-native.json": {
       "kind": "file",
-      "size": "3500",
-      "sha256": "sha256:7245c4f978dfc785f19831a2e02a019f0dd85bb6e510cdd2dcfccbf75f21f201"
+      "size": "5068",
+      "sha256": "sha256:d9b10b653a758535eb402e690b9e98c19dff96c35860810564833b79ba7cefaa"
     },
     "by-name/health-audit.json": {
       "kind": "file",
@@ -389,7 +389,7 @@
     "by-name/qwen.json": {
       "kind": "file",
       "size": "163",
-      "sha256": "sha256:fd423edc05ada8282484d9af7bc331b5f3a177645d776cf70f9fac7538f79152"
+      "sha256": "sha256:7fd55d68962316c6e3f962a473ab669bcacab8ad27ad543a197404a56e6af333"
     },
     "by-name/redbook.json": {
       "kind": "file",
@@ -537,13 +537,13 @@
     },
     "primary.jsonl": {
       "kind": "file",
-      "size": "159763",
-      "sha256": "sha256:5537811a0c92543919784a706c169f328723198e41a2b5f0a7dc0aa2163a49d6"
+      "size": "160854",
+      "sha256": "sha256:d922e84000a069482925f5c337d9ee8e6d230fc75702aedae4ee0e5dd290e855"
     },
     "primary.jsonl.gz": {
       "kind": "file",
-      "size": "24917",
-      "sha256": "sha256:53c58ec0776e2d5f5b3c366a45a4fc33f4f7ba74389ae2ca6b80ce17ffc421db"
+      "size": "24993",
+      "sha256": "sha256:d13a65e36c8b6a406747dada3a808074276f1ef3afe645837b40b21b5dc2f007"
     }
   }
 }
