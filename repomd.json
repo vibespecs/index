@@ -328,8 +328,8 @@
     },
     "by-name/hermes.json": {
       "kind": "file",
-      "size": "910",
-      "sha256": "sha256:33c86a74210c9a2757c58e3e5df0033ee08594a82438e5cb4a094c5bc8b41939"
+      "size": "983",
+      "sha256": "sha256:a332a985ba8e9b3dff33981231bf6183f25223f09105ff9d6e05ce340c8fc885"
     },
     "by-name/jtd-codegen.json": {
       "kind": "file",

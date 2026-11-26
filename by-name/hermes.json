@@ -27,5 +27,9 @@
       ],
       "latest_stable": "0.23.4"
     }
-  ]
+  ],
+  "alias": {
+    "group": "org.vibevm.hermes",
+    "name": "hermes"
+  }
 }
